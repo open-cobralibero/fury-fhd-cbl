@@ -1,0 +1,20 @@
+#!/bin/sh
+echo "Installing Fury-FHD v6.6 Mod by Islam Salama 2025 ↓      "
+
+status='/var/lib/opkg/status'
+package='enigma2-plugin-skins-Fury-fhd'
+
+if grep -q $package $status; then
+opkg remove $package > /dev/null 2>&1
+fi
+
+if [ -d /control ] ; then
+rm -rf /control  > /dev/null 2>&1
+fi
+if [ -d /CONTROL ] ; then
+rm -rf /CONTROL  > /dev/null 2>&1
+fi
+if [ -f /control ] ; then
+rm -rf /control  > /dev/null 2>&1
+fi
+exit 0

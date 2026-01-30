@@ -1,0 +1,12 @@
+Package: enigma2-plugin-skins-fury-fhd
+Version: 6.6
+Section: base
+Priority: required
+Architecture: all
+Maintainer: Islam Salama
+Description: enigma2-plugin-skins-fury-fhd
+Depends: enigma2-plugin-extensions-bitrate, python3-pillow
+Source: enigma2-plugin-skins-fury-fhd.bb
+Homepage: 
+OE: enigma2-plugin-skins-fury-fhd
+License: GPLv2+
