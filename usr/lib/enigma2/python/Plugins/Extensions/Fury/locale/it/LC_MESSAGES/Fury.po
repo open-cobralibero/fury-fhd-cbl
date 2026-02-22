@@ -1,0 +1,541 @@
+# Italian translations for Fury-FHD Plugin
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury-FHD Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-06 00:00+0200\n"
+"PO-Revision-Date: 2026-02-06 16:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "+10%"
+msgstr "+10%"
+
+msgid "+13%"
+msgstr "+13%"
+
+msgid "+15%"
+msgstr "+15%"
+
+msgid "+2%"
+msgstr "+2%"
+
+msgid "+20%"
+msgstr "+20%"
+
+msgid "+25%"
+msgstr "+25%"
+
+msgid "+30%"
+msgstr "+30%"
+
+msgid "+5%"
+msgstr "+5%"
+
+msgid "+7%"
+msgstr "+7%"
+
+msgid "+9%"
+msgstr "+9%"
+
+msgid "-10%"
+msgstr "-10%"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "-20%"
+msgstr "-20%"
+
+msgid "-25%"
+msgstr "-25%"
+
+msgid "-5%"
+msgstr "-5%"
+
+msgid "..."
+msgstr "..."
+
+msgid "12h HH:MM AM/PM (e.g. 09:45 PM)"
+msgstr "12h HH:MM AM/PM (e.g. 09:45 PM)"
+
+msgid "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+msgstr "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+
+msgid "2025 Jan 01"
+msgstr "2025 Jan 01"
+
+msgid "2025/01/01 Monday"
+msgstr "2025/01/01 Monday"
+
+msgid "24h HH:MM (e.g. 21:45)"
+msgstr "24h HH:MM (e.g. 21:45)"
+
+msgid "24h HH:MM:SS (e.g. 21:45:09)"
+msgstr "24h HH:MM:SS (e.g. 21:45:09)"
+
+msgid "Black"
+msgstr "Nero"
+
+msgid "Blue"
+msgstr "Blu"
+
+msgid "Brown"
+msgstr "Marrone"
+
+msgid "Channel Background Selected Color:"
+msgstr "Colore sfondo canale (selezionato):"
+
+msgid "Channel Description Color:"
+msgstr "Colore descrizione canale:"
+
+msgid "Channel Foreground Color:"
+msgstr "Colore testo canale:"
+
+msgid "Channel Selected Description Color:"
+msgstr "Colore descrizione (canale selezionato):"
+
+msgid "Channel Selected Foreground Color:"
+msgstr "Colore testo (canale selezionato):"
+
+msgid "ChannelSelection Style:"
+msgstr "Selezione canali — Stile:"
+
+msgid "ChannelSelection2_12_Posters"
+msgstr "Selezione canali 12 — Poster"
+
+msgid "ChannelSelection2_1_Posters"
+msgstr "Selezione canali 2 — Poster"
+
+msgid "ChannelSelection2_4_Posters"
+msgstr "Selezione canali 4 — Poster"
+
+msgid "ChannelSelection2_6_Posters"
+msgstr "Selezione canali 6 — Poster"
+
+msgid "ChannelSelection2_NO_Posters"
+msgstr "Selezione canali — Senza poster"
+
+msgid "ChannelSelection_5_Backdrop"
+msgstr "Selezione canali 5 — Backdrop"
+
+msgid "ChannelSelection_5_Posters"
+msgstr "Selezione canali 5 — Poster"
+
+msgid "ChannelSelection_NO_Posters"
+msgstr "Selezione canali — Senza poster"
+
+msgid "Color Style:"
+msgstr "Stile colore:"
+
+msgid "Cravelo"
+msgstr "Cravelo"
+
+msgid "Cyan"
+msgstr "Ciano"
+
+msgid "Dark Purple"
+msgstr "Viola scuro"
+
+msgid "Dark Red"
+msgstr "Rosso scuro"
+
+msgid "DarkPurple"
+msgstr "ViolaScuro"
+
+msgid "DarkRed"
+msgstr "RossoScuro"
+
+msgid "Date Format:"
+msgstr "Formato data:"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "DD Mon YYYY (e.g. 06 Feb 2026)"
+msgstr "DD Mon YYYY (e.g. 06 Feb 2026)"
+
+msgid "DD Month YYYY (e.g. 06 February 2026)"
+msgstr "DD Month YYYY (e.g. 06 February 2026)"
+
+msgid "DD Month, YYYY (e.g. 06 February, 2026)"
+msgstr "DD Month, YYYY (e.g. 06 February, 2026)"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Download in progress..."
+msgstr "Download in corso..."
+
+msgid "Downloading Fury..."
+msgstr "Download di Fury..."
+
+msgid "EPGSelection Style:"
+msgstr "Selezione EPG — Stile:"
+
+msgid "EPGSelection_1_Posters"
+msgstr "Selezione EPG 1 — Poster"
+
+msgid "EPGSelection_No_Posters"
+msgstr "Selezione EPG — Senza poster"
+
+msgid "Error by processing the skin file !!!"
+msgstr "Errore durante l’elaborazione del file skin!"
+
+msgid "Error downloading files!"
+msgstr "Errore nel download dei file!"
+
+msgid "EventView Style:"
+msgstr "Vista eventi — Stile:"
+
+msgid "EventView_11_Posters"
+msgstr "Vista eventi 11 — Poster"
+
+msgid "EventView_12_Posters"
+msgstr "Vista eventi 12 — Poster"
+
+msgid "EventView_7_Posters"
+msgstr "Vista eventi 7 — Poster"
+
+msgid "EventView_NO_Posters"
+msgstr "Vista eventi — Senza poster"
+
+msgid "Font Size:"
+msgstr "Dimensione carattere:"
+
+msgid "Fury"
+msgstr "Fury"
+
+msgid "Fury update was done!!!\\nDo you want to restart the GUI now?"
+msgstr "Aggiornamento Fury completato!!!\\\\nVuoi riavviare la GUI ora?"
+
+msgid "Fury-FHD Skin Mod AbouYassin7"
+msgstr "Fury-FHD Skin Mod AbouYassin7"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Green2"
+msgstr "Verde 2"
+
+msgid "Grey"
+msgstr "Grigio"
+
+msgid "Grey2"
+msgstr "Grigio 2"
+
+msgid "GUI needs a restart to apply a new skin.\\nDo you want to Restart the GUI now?"
+msgstr "È necessario riavviare la GUI per applicare la nuova skin.\\\\nVuoi riavviarla ora?"
+
+msgid "HandelGotDBol"
+msgstr "HandelGotDBol"
+
+msgid "Info..."
+msgstr "Info..."
+
+msgid "InfoBar Style:"
+msgstr "Barra informazioni — Stile:"
+
+msgid "Infobar2_2_Logo"
+msgstr "Barra informazioni 2 — Logo"
+
+msgid "Infobar2_2_Posters"
+msgstr "Barra informazioni 2 — Poster"
+
+msgid "Infobar2_3_Backdrop"
+msgstr "Barra informazioni 3 — Backdrop"
+
+msgid "Infobar2_3_Posters"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar2_NO_Posters"
+msgstr "Barra informazioni — Senza poster"
+
+msgid "Infobar3_2_Backdrop"
+msgstr "Barra informazioni 2 — Backdrop"
+
+msgid "Infobar3_2_Backdrop_Black"
+msgstr "Barra informazioni 2 — Backdrop"
+
+msgid "Infobar3_2_Logo"
+msgstr "Barra informazioni 2 — Logo"
+
+msgid "Infobar3_2_Posters"
+msgstr "Barra informazioni 2 — Poster"
+
+msgid "Infobar3_2_Posters_Black"
+msgstr "Barra informazioni 2 — Poster"
+
+msgid "Infobar3_3_Posters"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar3_3_Posters_Black"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar3_NO_Posters"
+msgstr "Barra informazioni — Senza poster"
+
+msgid "Infobar3_NO_Posters_Black"
+msgstr "Barra informazioni — Senza poster"
+
+msgid "Infobar4_1_Logo"
+msgstr "Barra informazioni 1 — Logo"
+
+msgid "Infobar4_1_Posters"
+msgstr "Barra informazioni 1 — Poster"
+
+msgid "Infobar4_3_Posters"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar4_BackDrop"
+msgstr "Barra informazioni"
+
+msgid "Infobar4_NO_Posters"
+msgstr "Barra informazioni — Senza poster"
+
+msgid "Infobar5_2_Logo"
+msgstr "Barra informazioni 2 — Logo"
+
+msgid "Infobar5_2_Posters"
+msgstr "Barra informazioni 2 — Poster"
+
+msgid "Infobar5_3_Posters"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar5_NO_Posters"
+msgstr "Barra informazioni — Senza poster"
+
+msgid "Infobar5_star_3_Backdrop"
+msgstr "Barra informazioni 3 — Backdrop"
+
+msgid "Infobar5_star_3_Posters"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar_2_Posters"
+msgstr "Barra informazioni 2 — Poster"
+
+msgid "Infobar_2_Round"
+msgstr "Barra informazioni"
+
+msgid "Infobar_3_Posters"
+msgstr "Barra informazioni 3 — Poster"
+
+msgid "Infobar_Mini"
+msgstr "Barra informazioni"
+
+msgid "Infobar_Mini_2"
+msgstr "Barra informazioni"
+
+msgid "Infobar_Mini_2_Logo"
+msgstr "Barra informazioni 2 — Logo"
+
+msgid "Infobar_NO_Posters"
+msgstr "Barra informazioni — Senza poster"
+
+msgid "Infobar_Round"
+msgstr "Barra informazioni"
+
+msgid "Install failed!"
+msgstr "Installazione non riuscita!"
+
+msgid "Installing updates!"
+msgstr "Installazione aggiornamenti!"
+
+msgid "January 01, 2025"
+msgstr "January 01, 2025"
+
+msgid "Joyful"
+msgstr "Joyful"
+
+msgid "LightWhite"
+msgstr "Bianco chiaro"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+msgid "Mon 01 Jan 2025"
+msgstr "Mon 01 Jan 2025"
+
+msgid "Mon DD, YYYY (e.g. Feb 06, 2026)"
+msgstr "Mon DD, YYYY (e.g. Feb 06, 2026)"
+
+msgid "Monday, 01 01 2025"
+msgstr "Monday, 01 01 2025"
+
+msgid "Mongule"
+msgstr "Mongule"
+
+msgid "Month DD, YYYY (e.g. February 06, 2026)"
+msgstr "Month DD, YYYY (e.g. February 06, 2026)"
+
+msgid "Nexa"
+msgstr "Nexa"
+
+msgid "Oily"
+msgstr "Oliva"
+
+msgid "Orange"
+msgstr "Arancione"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "Poetsen_One "
+msgstr "Poetsen_One "
+
+msgid "Red"
+msgstr "Rosso"
+
+msgid "Restart GUI now?"
+msgstr "Riavviare la GUI ora?"
+
+msgid "SecondInfobar Style:"
+msgstr "Seconda infobar — Stile:"
+
+msgid "SecondInfobar2_NO_Posters"
+msgstr "Seconda infobar — Senza poster"
+
+msgid "SecondInfobar2_Posters"
+msgstr "Seconda infobar — Poster"
+
+msgid "SecondInfobar3_NO_Posters"
+msgstr "Seconda infobar — Senza poster"
+
+msgid "SecondInfobar3_Posters"
+msgstr "Seconda infobar — Poster"
+
+msgid "SecondInfobar4_NO_Posters"
+msgstr "Seconda infobar — Senza poster"
+
+msgid "SecondInfobar4_Posters"
+msgstr "Seconda infobar — Poster"
+
+msgid "SecondInfobar5_Signal"
+msgstr "Seconda infobar 5 — Segnale"
+
+msgid "SecondInfobar_NO_Posters"
+msgstr "Seconda infobar — Senza poster"
+
+msgid "SecondInfobar_Posters"
+msgstr "Seconda infobar — Poster"
+
+msgid "Select Your Font:"
+msgstr "Seleziona il font:"
+
+msgid "Server version:"
+msgstr "Versione del server:"
+
+msgid "Setup Fury for Fury-FHD v.%s"
+msgstr "Configura Fury per Fury-FHD v.%s"
+
+msgid "Skin Style:"
+msgstr "Stile skin:"
+
+msgid "Tenada"
+msgstr "Tenada"
+
+msgid "The update is available!\\n\\nDo you want to run the update now?"
+msgstr "Aggiornamento disponibile!\\\\n\\\\nVuoi eseguirlo ora?"
+
+msgid "Time Format:"
+msgstr "Formato ora:"
+
+msgid "Tommy "
+msgstr "Tommy "
+
+msgid "Transparency:"
+msgstr "Trasparenza:"
+
+msgid "Update failed. Please check %s"
+msgstr "Aggiornamento non riuscito. Controlla %s"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Version installed:"
+msgstr "Versione installata:"
+
+msgid "volume2"
+msgstr "Volume 2"
+
+msgid "volume3"
+msgstr "Volume 3"
+
+msgid "volume4"
+msgstr "Volume 4"
+
+msgid "VolumeBar Style:"
+msgstr "Stile barra volume:"
+
+msgid "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+msgstr "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+
+msgid "Yellow"
+msgstr "Giallo"
+
+msgid "You have the current version Fury!"
+msgstr "Hai la versione attuale di Fury!"
+
+msgid "You have version %s!!!"
+msgstr "Hai la versione %s!!!"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "Zero"
+msgstr "Zero"
+
+msgid "~10%"
+msgstr "≈10%"
+
+msgid "~15%"
+msgstr "≈15%"
+
+msgid "~20%"
+msgstr "≈20%"
+
+msgid "~25%"
+msgstr "≈25%"
+
+msgid "~30%"
+msgstr "≈30%"
+
+msgid "~35%"
+msgstr "≈35%"
+
+msgid "~40%"
+msgstr "≈40%"
+
+msgid "~45%"
+msgstr "≈45%"
+
+msgid "~5%"
+msgstr "≈5%"
+
+msgid "~50%"
+msgstr "≈50%"

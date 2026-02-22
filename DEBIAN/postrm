@@ -1,0 +1,8 @@
+#!/bin/bash
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/Fury  > /dev/null 2>&1
+rm -rf /usr/share/enigma2/Fury-FHD  > /dev/null 2>&1
+rm -r /usr/lib/enigma2/python/Components/fury* > /dev/null 2>&1
+rm -r /usr/lib/enigma2/python/Components/Converter/fury* > /dev/null 2>&1
+rm -r /usr/lib/enigma2/python/Components/Renderer/fury* > /dev/null 2>&1
+echo 'Package removed.'
+exit 0

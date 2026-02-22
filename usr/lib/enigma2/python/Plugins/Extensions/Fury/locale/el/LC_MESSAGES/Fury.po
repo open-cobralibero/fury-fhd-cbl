@@ -1,0 +1,541 @@
+# Greek translations for Fury-FHD Plugin
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury-FHD Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-06 00:00+0200\n"
+"PO-Revision-Date: 2026-02-06 16:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "+10%"
+msgstr "+10%"
+
+msgid "+13%"
+msgstr "+13%"
+
+msgid "+15%"
+msgstr "+15%"
+
+msgid "+2%"
+msgstr "+2%"
+
+msgid "+20%"
+msgstr "+20%"
+
+msgid "+25%"
+msgstr "+25%"
+
+msgid "+30%"
+msgstr "+30%"
+
+msgid "+5%"
+msgstr "+5%"
+
+msgid "+7%"
+msgstr "+7%"
+
+msgid "+9%"
+msgstr "+9%"
+
+msgid "-10%"
+msgstr "-10%"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "-20%"
+msgstr "-20%"
+
+msgid "-25%"
+msgstr "-25%"
+
+msgid "-5%"
+msgstr "-5%"
+
+msgid "..."
+msgstr "..."
+
+msgid "12h HH:MM AM/PM (e.g. 09:45 PM)"
+msgstr "12h HH:MM AM/PM (e.g. 09:45 PM)"
+
+msgid "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+msgstr "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+
+msgid "2025 Jan 01"
+msgstr "2025 Jan 01"
+
+msgid "2025/01/01 Monday"
+msgstr "2025/01/01 Monday"
+
+msgid "24h HH:MM (e.g. 21:45)"
+msgstr "24h HH:MM (e.g. 21:45)"
+
+msgid "24h HH:MM:SS (e.g. 21:45:09)"
+msgstr "24h HH:MM:SS (e.g. 21:45:09)"
+
+msgid "Black"
+msgstr "Μαύρο"
+
+msgid "Blue"
+msgstr "Μπλε"
+
+msgid "Brown"
+msgstr "Καφέ"
+
+msgid "Channel Background Selected Color:"
+msgstr "Χρώμα φόντου καναλιού (επιλεγμένο):"
+
+msgid "Channel Description Color:"
+msgstr "Χρώμα περιγραφής καναλιού:"
+
+msgid "Channel Foreground Color:"
+msgstr "Χρώμα κειμένου καναλιού:"
+
+msgid "Channel Selected Description Color:"
+msgstr "Χρώμα περιγραφής (επιλεγμένο κανάλι):"
+
+msgid "Channel Selected Foreground Color:"
+msgstr "Χρώμα κειμένου (επιλεγμένο κανάλι):"
+
+msgid "ChannelSelection Style:"
+msgstr "Επιλογή καναλιών — Στυλ:"
+
+msgid "ChannelSelection2_12_Posters"
+msgstr "Επιλογή καναλιών 12 — Αφίσες"
+
+msgid "ChannelSelection2_1_Posters"
+msgstr "Επιλογή καναλιών 2 — Αφίσες"
+
+msgid "ChannelSelection2_4_Posters"
+msgstr "Επιλογή καναλιών 4 — Αφίσες"
+
+msgid "ChannelSelection2_6_Posters"
+msgstr "Επιλογή καναλιών 6 — Αφίσες"
+
+msgid "ChannelSelection2_NO_Posters"
+msgstr "Επιλογή καναλιών — Χωρίς αφίσες"
+
+msgid "ChannelSelection_5_Backdrop"
+msgstr "Επιλογή καναλιών 5 — Φόντο"
+
+msgid "ChannelSelection_5_Posters"
+msgstr "Επιλογή καναλιών 5 — Αφίσες"
+
+msgid "ChannelSelection_NO_Posters"
+msgstr "Επιλογή καναλιών — Χωρίς αφίσες"
+
+msgid "Color Style:"
+msgstr "Στυλ χρώματος:"
+
+msgid "Cravelo"
+msgstr "Cravelo"
+
+msgid "Cyan"
+msgstr "Κυανό"
+
+msgid "Dark Purple"
+msgstr "Σκούρο μωβ"
+
+msgid "Dark Red"
+msgstr "Σκούρο κόκκινο"
+
+msgid "DarkPurple"
+msgstr "ΣκούροΜωβ"
+
+msgid "DarkRed"
+msgstr "ΣκούροΚόκκινο"
+
+msgid "Date Format:"
+msgstr "Μορφή ημερομηνίας:"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "DD Mon YYYY (e.g. 06 Feb 2026)"
+msgstr "DD Mon YYYY (e.g. 06 Feb 2026)"
+
+msgid "DD Month YYYY (e.g. 06 February 2026)"
+msgstr "DD Month YYYY (e.g. 06 February 2026)"
+
+msgid "DD Month, YYYY (e.g. 06 February, 2026)"
+msgstr "DD Month, YYYY (e.g. 06 February, 2026)"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Download in progress..."
+msgstr "Λήψη σε εξέλιξη..."
+
+msgid "Downloading Fury..."
+msgstr "Λήψη του Fury..."
+
+msgid "EPGSelection Style:"
+msgstr "Επιλογή EPG — Στυλ:"
+
+msgid "EPGSelection_1_Posters"
+msgstr "Επιλογή EPG 1 — Αφίσες"
+
+msgid "EPGSelection_No_Posters"
+msgstr "Επιλογή EPG — Χωρίς αφίσες"
+
+msgid "Error by processing the skin file !!!"
+msgstr "Σφάλμα κατά την επεξεργασία του αρχείου skin!"
+
+msgid "Error downloading files!"
+msgstr "Σφάλμα κατά τη λήψη αρχείων!"
+
+msgid "EventView Style:"
+msgstr "Προβολή συμβάντων — Στυλ:"
+
+msgid "EventView_11_Posters"
+msgstr "Προβολή συμβάντων 11 — Αφίσες"
+
+msgid "EventView_12_Posters"
+msgstr "Προβολή συμβάντων 12 — Αφίσες"
+
+msgid "EventView_7_Posters"
+msgstr "Προβολή συμβάντων 7 — Αφίσες"
+
+msgid "EventView_NO_Posters"
+msgstr "Προβολή συμβάντων — Χωρίς αφίσες"
+
+msgid "Font Size:"
+msgstr "Μέγεθος γραμματοσειράς:"
+
+msgid "Fury"
+msgstr "Fury"
+
+msgid "Fury update was done!!!\\nDo you want to restart the GUI now?"
+msgstr "Η ενημέρωση του Fury ολοκληρώθηκε!!!\\\\nΘέλετε να επανεκκινήσετε το GUI τώρα;"
+
+msgid "Fury-FHD Skin Mod AbouYassin7"
+msgstr "Fury-FHD Skin Mod AbouYassin7"
+
+msgid "Green"
+msgstr "Πράσινο"
+
+msgid "Green2"
+msgstr "Πράσινο 2"
+
+msgid "Grey"
+msgstr "Γκρι"
+
+msgid "Grey2"
+msgstr "Γκρι 2"
+
+msgid "GUI needs a restart to apply a new skin.\\nDo you want to Restart the GUI now?"
+msgstr "Απαιτείται επανεκκίνηση του GUI για να εφαρμοστεί νέο skin.\\\\nΘέλετε να επανεκκινήσετε τώρα;"
+
+msgid "HandelGotDBol"
+msgstr "HandelGotDBol"
+
+msgid "Info..."
+msgstr "Πληρ..."
+
+msgid "InfoBar Style:"
+msgstr "Μπάρα πληροφοριών — Στυλ:"
+
+msgid "Infobar2_2_Logo"
+msgstr "Μπάρα πληροφοριών 2 — Λογότυπο"
+
+msgid "Infobar2_2_Posters"
+msgstr "Μπάρα πληροφοριών 2 — Αφίσες"
+
+msgid "Infobar2_3_Backdrop"
+msgstr "Μπάρα πληροφοριών 3 — Φόντο"
+
+msgid "Infobar2_3_Posters"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar2_NO_Posters"
+msgstr "Μπάρα πληροφοριών — Χωρίς αφίσες"
+
+msgid "Infobar3_2_Backdrop"
+msgstr "Μπάρα πληροφοριών 2 — Φόντο"
+
+msgid "Infobar3_2_Backdrop_Black"
+msgstr "Μπάρα πληροφοριών 2 — Φόντο"
+
+msgid "Infobar3_2_Logo"
+msgstr "Μπάρα πληροφοριών 2 — Λογότυπο"
+
+msgid "Infobar3_2_Posters"
+msgstr "Μπάρα πληροφοριών 2 — Αφίσες"
+
+msgid "Infobar3_2_Posters_Black"
+msgstr "Μπάρα πληροφοριών 2 — Αφίσες"
+
+msgid "Infobar3_3_Posters"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar3_3_Posters_Black"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar3_NO_Posters"
+msgstr "Μπάρα πληροφοριών — Χωρίς αφίσες"
+
+msgid "Infobar3_NO_Posters_Black"
+msgstr "Μπάρα πληροφοριών — Χωρίς αφίσες"
+
+msgid "Infobar4_1_Logo"
+msgstr "Μπάρα πληροφοριών 1 — Λογότυπο"
+
+msgid "Infobar4_1_Posters"
+msgstr "Μπάρα πληροφοριών 1 — Αφίσες"
+
+msgid "Infobar4_3_Posters"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar4_BackDrop"
+msgstr "Μπάρα πληροφοριών"
+
+msgid "Infobar4_NO_Posters"
+msgstr "Μπάρα πληροφοριών — Χωρίς αφίσες"
+
+msgid "Infobar5_2_Logo"
+msgstr "Μπάρα πληροφοριών 2 — Λογότυπο"
+
+msgid "Infobar5_2_Posters"
+msgstr "Μπάρα πληροφοριών 2 — Αφίσες"
+
+msgid "Infobar5_3_Posters"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar5_NO_Posters"
+msgstr "Μπάρα πληροφοριών — Χωρίς αφίσες"
+
+msgid "Infobar5_star_3_Backdrop"
+msgstr "Μπάρα πληροφοριών 3 — Φόντο"
+
+msgid "Infobar5_star_3_Posters"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar_2_Posters"
+msgstr "Μπάρα πληροφοριών 2 — Αφίσες"
+
+msgid "Infobar_2_Round"
+msgstr "Μπάρα πληροφοριών"
+
+msgid "Infobar_3_Posters"
+msgstr "Μπάρα πληροφοριών 3 — Αφίσες"
+
+msgid "Infobar_Mini"
+msgstr "Μπάρα πληροφοριών"
+
+msgid "Infobar_Mini_2"
+msgstr "Μπάρα πληροφοριών"
+
+msgid "Infobar_Mini_2_Logo"
+msgstr "Μπάρα πληροφοριών 2 — Λογότυπο"
+
+msgid "Infobar_NO_Posters"
+msgstr "Μπάρα πληροφοριών — Χωρίς αφίσες"
+
+msgid "Infobar_Round"
+msgstr "Μπάρα πληροφοριών"
+
+msgid "Install failed!"
+msgstr "Η εγκατάσταση απέτυχε!"
+
+msgid "Installing updates!"
+msgstr "Εγκατάσταση ενημερώσεων!"
+
+msgid "January 01, 2025"
+msgstr "January 01, 2025"
+
+msgid "Joyful"
+msgstr "Joyful"
+
+msgid "LightWhite"
+msgstr "Ανοιχτό λευκό"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+msgid "Mon 01 Jan 2025"
+msgstr "Mon 01 Jan 2025"
+
+msgid "Mon DD, YYYY (e.g. Feb 06, 2026)"
+msgstr "Mon DD, YYYY (e.g. Feb 06, 2026)"
+
+msgid "Monday, 01 01 2025"
+msgstr "Monday, 01 01 2025"
+
+msgid "Mongule"
+msgstr "Mongule"
+
+msgid "Month DD, YYYY (e.g. February 06, 2026)"
+msgstr "Month DD, YYYY (e.g. February 06, 2026)"
+
+msgid "Nexa"
+msgstr "Nexa"
+
+msgid "Oily"
+msgstr "Λαδί"
+
+msgid "Orange"
+msgstr "Πορτοκαλί"
+
+msgid "Pink"
+msgstr "Ροζ"
+
+msgid "Poetsen_One "
+msgstr "Poetsen_One "
+
+msgid "Red"
+msgstr "Κόκκινο"
+
+msgid "Restart GUI now?"
+msgstr "Επανεκκίνηση του GUI τώρα;"
+
+msgid "SecondInfobar Style:"
+msgstr "Δεύτερο infobar — Στυλ:"
+
+msgid "SecondInfobar2_NO_Posters"
+msgstr "Δεύτερο infobar — Χωρίς αφίσες"
+
+msgid "SecondInfobar2_Posters"
+msgstr "Δεύτερο infobar — Αφίσες"
+
+msgid "SecondInfobar3_NO_Posters"
+msgstr "Δεύτερο infobar — Χωρίς αφίσες"
+
+msgid "SecondInfobar3_Posters"
+msgstr "Δεύτερο infobar — Αφίσες"
+
+msgid "SecondInfobar4_NO_Posters"
+msgstr "Δεύτερο infobar — Χωρίς αφίσες"
+
+msgid "SecondInfobar4_Posters"
+msgstr "Δεύτερο infobar — Αφίσες"
+
+msgid "SecondInfobar5_Signal"
+msgstr "Δεύτερο infobar 5 — Σήμα"
+
+msgid "SecondInfobar_NO_Posters"
+msgstr "Δεύτερο infobar — Χωρίς αφίσες"
+
+msgid "SecondInfobar_Posters"
+msgstr "Δεύτερο infobar — Αφίσες"
+
+msgid "Select Your Font:"
+msgstr "Επιλέξτε γραμματοσειρά:"
+
+msgid "Server version:"
+msgstr "Έκδοση διακομιστή:"
+
+msgid "Setup Fury for Fury-FHD v.%s"
+msgstr "Ρύθμιση Fury για Fury-FHD v.%s"
+
+msgid "Skin Style:"
+msgstr "Στυλ skin:"
+
+msgid "Tenada"
+msgstr "Tenada"
+
+msgid "The update is available!\\n\\nDo you want to run the update now?"
+msgstr "Υπάρχει διαθέσιμη ενημέρωση!\\\\n\\\\nΘέλετε να την εκτελέσετε τώρα;"
+
+msgid "Time Format:"
+msgstr "Μορφή ώρας:"
+
+msgid "Tommy "
+msgstr "Tommy "
+
+msgid "Transparency:"
+msgstr "Διαφάνεια:"
+
+msgid "Update failed. Please check %s"
+msgstr "Η ενημέρωση απέτυχε. Ελέγξτε %s"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Version installed:"
+msgstr "Εγκατεστημένη έκδοση:"
+
+msgid "volume2"
+msgstr "Ένταση 2"
+
+msgid "volume3"
+msgstr "Ένταση 3"
+
+msgid "volume4"
+msgstr "Ένταση 4"
+
+msgid "VolumeBar Style:"
+msgstr "Στυλ μπάρας έντασης:"
+
+msgid "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+msgstr "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+
+msgid "Yellow"
+msgstr "Κίτρινο"
+
+msgid "You have the current version Fury!"
+msgstr "Έχετε την τρέχουσα έκδοση του Fury!"
+
+msgid "You have version %s!!!"
+msgstr "Έχετε την έκδοση %s!!!"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "Zero"
+msgstr "Μηδέν"
+
+msgid "~10%"
+msgstr "≈10%"
+
+msgid "~15%"
+msgstr "≈15%"
+
+msgid "~20%"
+msgstr "≈20%"
+
+msgid "~25%"
+msgstr "≈25%"
+
+msgid "~30%"
+msgstr "≈30%"
+
+msgid "~35%"
+msgstr "≈35%"
+
+msgid "~40%"
+msgstr "≈40%"
+
+msgid "~45%"
+msgstr "≈45%"
+
+msgid "~5%"
+msgstr "≈5%"
+
+msgid "~50%"
+msgstr "≈50%"

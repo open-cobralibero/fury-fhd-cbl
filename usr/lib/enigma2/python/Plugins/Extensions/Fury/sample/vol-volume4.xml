@@ -1,0 +1,8 @@
+<screen name="Volume" position="778,37" size="300,160" title="Volume" zPosition="55" backgroundColor="#ff000000" flags="wfNoBorder">
+  <ePixmap name="" position="0,0" size="300,160" pixmap="icons/vol_back4.png" alphatest="blend" zPosition="0" />
+  <ePixmap name="" position="11,3" size="150,138" pixmap="icons/val4a.png" alphatest="blend" zPosition="2" />
+  <ePixmap name="" position="0,0" size="300,160" pixmap="icons/vol_button4.png" alphatest="blend" zPosition="5" />
+  <widget render="furyPrgrsVol" source="global.CurrentTime" position="11,3" size="150,138" backgroundColor="black" zPosition="3" alphatest="blend" transparent="1" />
+  <widget name="VolumeText" position="187,52" size="85,50" font="Regular;35" backgroundColor="background" foregroundColor="#336eea" halign="center" valign="center" zPosition="99" transparent="1" />
+  <!-- <widget render="VolumeText" source="global.CurrentTime" position="160,50" size="140,60" font="LCD; 50" zPosition="9" backgroundColor="#000000" transparent="1" halign="center" valign="center" /> -->
+</screen>

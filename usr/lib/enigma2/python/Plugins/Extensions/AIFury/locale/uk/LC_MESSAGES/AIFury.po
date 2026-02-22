@@ -1,0 +1,730 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury\n"
+"POT-Creation-Date: 2026-02-06 08:04+0000\n"
+"PO-Revision-Date: 2026-02-13 06:01+0200\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+
+msgid "10 minutes"
+msgstr "10 хвилин"
+
+msgid "10 seconds"
+msgstr "10 секунд"
+
+msgid "12 hours"
+msgstr "12 годин"
+
+msgid "15 seconds"
+msgstr "15 секунд"
+
+msgid "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+msgstr "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \\\"%s\\\" ORDER BY bouquet"
+
+msgid "2 minutes"
+msgstr "2 хвилини"
+
+msgid "20 seconds"
+msgstr "20 секунд"
+
+msgid "24 hours"
+msgstr "24 години"
+
+msgid "3 hours"
+msgstr "3 години"
+
+msgid "3 minutes"
+msgstr "3 хвилини"
+
+msgid "3 seconds"
+msgstr "3 секунди"
+
+msgid "30 seconds"
+msgstr "30 секунд"
+
+msgid "48 hours"
+msgstr "48 годин"
+
+msgid "5 minutes"
+msgstr "5 хвилин"
+
+msgid "5 seconds"
+msgstr "5 секунд"
+
+msgid "6 hours"
+msgstr "6 годин"
+
+msgid "60 seconds"
+msgstr "60 секунд"
+
+msgid "7 days"
+msgstr "7 днів"
+
+msgid "8 seconds"
+msgstr "8 секунд"
+
+msgid "90 seconds"
+msgstr "90 секунд"
+
+msgid "Accumulate stats for background auto-translate runs."
+msgstr "Накопичувати статистику для фонових запусків автоперекладу."
+
+msgid "AIFury - EPG Translation Stats"
+msgstr "AIFury — статистика перекладу EPG"
+
+msgid "AIFury - EPGTranslation"
+msgstr "AIFury — переклад EPG"
+
+msgid "AIFury - translation control"
+msgstr "AIFury — керування перекладом"
+
+msgid "AIFury controller is not initialized."
+msgstr "Контролер AIFury не ініціалізовано."
+
+msgid "AIFury Info"
+msgstr "Інформація AIFury"
+
+msgid "AIFury Setup"
+msgstr "Налаштування AIFury"
+
+msgid "aifury-cache"
+msgstr "aifury-cache"
+
+msgid "aifury-epg-cache"
+msgstr "aifury-epg-cache"
+
+msgid "Albanian (Shqip)"
+msgstr "Албанська (Shqip)"
+
+msgid "Arabic"
+msgstr "Арабська"
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Автовідновлення перекладеного EPG при перемиканні каналу"
+
+msgid "Auto translate EPG in background"
+msgstr "Автопереклад EPG у фоновому режимі"
+
+msgid "Auto translate EPG in background: %s"
+msgstr "Автопереклад EPG у фоновому режимі: %s"
+
+msgid "Auto translate horizon"
+msgstr "Горизонт автоперекладу"
+
+msgid "Auto translate max events"
+msgstr "Макс. кількість подій для автоперекладу"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Мін. інтервал автоперекладу (хв)"
+
+msgid "auto_translate_epg error: %s"
+msgstr "Помилка auto_translate_epg: %s"
+
+msgid "Background runs: %d"
+msgstr "Фонових запусків: %d"
+
+msgid "Belgium"
+msgstr "Бельгія"
+
+msgid "bg job error: %s"
+msgstr "Помилка фонового завдання: %s"
+
+msgid "Bosnian (Bosanski)"
+msgstr "Боснійська (Bosanski)"
+
+msgid "Bouquet (package): %s"
+msgstr "Букет (пакет): %s"
+
+msgid "Bouquet (package): Not selected yet"
+msgstr "Букет (пакет): ще не вибрано"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Букет порожній/некоректний."
+
+msgid "Bouquet services: %d"
+msgstr "Сервісів у букеті: %d"
+
+msgid "Bouquet translation already running in background: %s"
+msgstr "Переклад букета вже виконується у фоні: %s"
+
+msgid "Bouquet: %s"
+msgstr "Букет: %s"
+
+msgid "Bulgarian (Български)"
+msgstr "Болгарська (Български)"
+
+msgid "cache cleared"
+msgstr "кеш очищено"
+
+msgid "Cache cleared successfully."
+msgstr "Кеш успішно очищено."
+
+msgid "cache loaded: %s (%d items)"
+msgstr "кеш завантажено: %s (%d елементів)"
+
+msgid "cache saved: %s (%d items)"
+msgstr "кеш збережено: %s (%d елементів)"
+
+msgid "Cached-only fast path for a specific language; warms cache asynchronously if missing."
+msgstr "Швидкий режим лише з кешу для певної мови; якщо перекладу немає — підігріває кеш асинхронно."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Не вдалося запустити переклад EPG: %s"
+
+msgid "Chinese (中文)"
+msgstr "Китайська (中文)"
+
+msgid "ChoiceBox callback for background bouquet translation."
+msgstr "Зворотний виклик ChoiceBox для фонового перекладу букета."
+
+msgid "Clear AIFury caches"
+msgstr "Очистити кеші AIFury"
+
+msgid "Clear aifury_cache (main cache)"
+msgstr "Очистити aifury_cache (основний кеш)"
+
+msgid "Clear aifury_epg_cache (EPG translations cache)"
+msgstr "Очистити aifury_epg_cache (кеш перекладів EPG)"
+
+msgid "Clear both caches"
+msgstr "Очистити обидва кеші"
+
+msgid "Clear caches only"
+msgstr "Лише очистити кеші"
+
+msgid "Controller initialized. cache=%s log=%s"
+msgstr "Контролер ініціалізовано. cache=%s log=%s"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Контролер не готовий — неможливо очистити кеш."
+
+msgid "Count unique cached translated events across relevant language keys."
+msgstr "Порахувати унікальні перекладені події в кеші для відповідних ключів мов."
+
+msgid "Croatian (Hrvatski)"
+msgstr "Хорватська (Hrvatski)"
+
+msgid "Czech (Čeština)"
+msgstr "Чеська (Čeština)"
+
+msgid "Disabled"
+msgstr "Вимкнено"
+
+msgid "Done notification timeout"
+msgstr "Таймаут сповіщення «Готово»"
+
+msgid "empty EPG"
+msgstr "порожній EPG"
+
+msgid "empty translation"
+msgstr "порожній переклад"
+
+msgid "Enable Translate"
+msgstr "Увімкнути переклад"
+
+msgid "Enable Translate Current Event"
+msgstr "Увімкнути переклад поточної події"
+
+msgid "Enabled"
+msgstr "Увімкнено"
+
+msgid "English"
+msgstr "Англійська"
+
+msgid "epg"
+msgstr "epg"
+
+msgid "EPG descr language : %s"
+msgstr "Мова опису EPG: %s"
+
+msgid "EPG description language"
+msgstr "Мова опису EPG"
+
+msgid "EPG import error: %s"
+msgstr "Помилка імпорту EPG: %s"
+
+msgid "EPG import functions are not available on this image"
+msgstr "Функції імпорту EPG недоступні на цьому іміджі"
+
+msgid "EPG import: %s"
+msgstr "Імпорт EPG: %s"
+
+msgid "EPG path"
+msgstr "Шлях до EPG"
+
+msgid "EPG read error: %s"
+msgstr "Помилка читання EPG: %s"
+
+msgid "EPG read: %s"
+msgstr "Читання EPG: %s"
+
+msgid "EPG title language"
+msgstr "Мова заголовку EPG"
+
+msgid "EPG title language : %s"
+msgstr "Мова заголовку EPG: %s"
+
+msgid "EPG Title Language: %s"
+msgstr "Мова заголовку EPG: %s"
+
+msgid "EPG translation language: Disabled"
+msgstr "Мова перекладу EPG: вимкнено"
+
+msgid "epg_cache_put_events error: %s"
+msgstr "Помилка epg_cache_put_events: %s"
+
+msgid "EPGCache is not available on this image"
+msgstr "EPGCache недоступний на цьому іміджі"
+
+msgid "EpgFury v.%s"
+msgstr "EpgFury v.%s"
+
+msgid "EPGSelection debounce fire error: %s"
+msgstr "Помилка debounce EPGSelection: %s"
+
+msgid "Error building stats"
+msgstr "Помилка формування статистики"
+
+msgid "Error clearing cache"
+msgstr "Помилка очищення кешу"
+
+msgid "Error opening info screen"
+msgstr "Помилка відкриття екрана інформації"
+
+msgid "Errors - Title: %d   Short: %d   Long: %d"
+msgstr "Помилки — Заголовок: %d   Короткий: %d   Довгий: %d"
+
+msgid "Errors - Title: %s  Short: %s  Long: %s"
+msgstr "Помилки — Заголовок: %s  Короткий: %s  Довгий: %s"
+
+msgid "Errors: %s"
+msgstr "Помилки: %s"
+
+msgid "Events translated: %s"
+msgstr "Подій перекладено: %s"
+
+msgid "EXIT = Cancel"
+msgstr "EXIT = Скасувати"
+
+msgid "EXIT = Cancel (stops UI only)"
+msgstr "EXIT = Скасувати (зупиняє лише UI)"
+
+msgid "Failed to start background bouquet translation."
+msgstr "Не вдалося запустити фоновий переклад букета."
+
+msgid "Finished translating bouquet."
+msgstr "Переклад букета завершено."
+
+msgid "Finnish (Suomi)"
+msgstr "Фінська (Suomi)"
+
+msgid "French"
+msgstr "Французька"
+
+msgid "German"
+msgstr "Німецька"
+
+msgid "Greek (Ελληνικά)"
+msgstr "Грецька (Ελληνικά)"
+
+msgid "Hindi (हिन्दी)"
+msgstr "Гінді (हिन्दी)"
+
+msgid "Hungarian (Magyar)"
+msgstr "Угорська (Magyar)"
+
+msgid "Import error: %s"
+msgstr "Помилка імпорту: %s"
+
+msgid "Import ORIGINAL EPG texts for a service (if saved) back into eEPGCache (RAM)."
+msgstr "Імпортувати ОРИГІНАЛЬНІ тексти EPG для сервісу (якщо збережені) назад у eEPGCache (RAM)."
+
+msgid "Imported in background: %d"
+msgstr "Імпортовано у фоні: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "Імпортовано в RAM: %d"
+
+msgid "Imported: %s"
+msgstr "Імпортовано: %s"
+
+msgid "Indonesian (Bahasa Indonesia)"
+msgstr "Індонезійська (Bahasa Indonesia)"
+
+msgid "Italian"
+msgstr "Італійська"
+
+msgid "Japanese (日本語)"
+msgstr "Японська (日本語)"
+
+msgid "Korean (한국어)"
+msgstr "Корейська (한국어)"
+
+msgid "Last background run: %s"
+msgstr "Останній фоновий запуск: %s"
+
+msgid "Last service: %s"
+msgstr "Останній сервіс: %s"
+
+msgid "Main path"
+msgstr "Основний шлях"
+
+msgid "Min request interval (ms)"
+msgstr "Мін. інтервал запитів (мс)"
+
+msgid "Nederlands"
+msgstr "Нідерландська"
+
+msgid "Network timeout (sec)"
+msgstr "Таймаут мережі (сек)"
+
+msgid "No bouquets found."
+msgstr "Букети не знайдено."
+
+msgid "no cache file, created: %s"
+msgstr "немає файлу кешу, створено: %s"
+
+msgid "No current service is available."
+msgstr "Поточний сервіс недоступний."
+
+msgid "No EPG translation language selected"
+msgstr "Не вибрано мову перекладу EPG"
+
+msgid "no path"
+msgstr "немає шляху"
+
+msgid "No playable services found in: %s"
+msgstr "У %s не знайдено відтворюваних сервісів"
+
+msgid "No services found in bouquet."
+msgstr "У букеті не знайдено сервісів."
+
+msgid "No services found in Favourites bouquet."
+msgstr "У букеті «Вибране» не знайдено сервісів."
+
+msgid "Norwegian (Norsk)"
+msgstr "Норвезька (Norsk)"
+
+msgid "Not selected yet"
+msgstr "Ще не вибрано"
+
+msgid "Notify translation end"
+msgstr "Сповіщати про завершення перекладу"
+
+msgid "Off"
+msgstr "Вимк."
+
+msgid "OK / EXIT = Close"
+msgstr "OK / EXIT = Закрити"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Вибрати опцію   |   Зелена = Зберегти   |   Жовта = Очистити кеш   |   Синя = Статистика   |   Червона/EXIT = Скасувати"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Вибрати   |   EXIT = Скасувати"
+
+msgid "Periodic restore interval"
+msgstr "Інтервал періодичного відновлення"
+
+msgid "Periodically re-apply translated EPG for the currently playing service."
+msgstr "Періодично повторно застосовувати перекладений EPG для поточного сервісу."
+
+msgid "Persian/Farsi (فارسی)"
+msgstr "Перська/фарсі (فارسی)"
+
+msgid "Persist ORIGINAL (provider) EPG texts for events we translated, so we can revert later."
+msgstr "Зберігати ОРИГІНАЛЬНІ (провайдера) тексти EPG для перекладених подій, щоб можна було повернутися пізніше."
+
+msgid "Persist translated EPG events for a service so they survive channel zapping."
+msgstr "Зберігати перекладені події EPG для сервісу, щоб вони зберігались при перемиканні каналів."
+
+msgid "Polish (Polski)"
+msgstr "Польська (Polski)"
+
+msgid "Portuguese (Brazil)"
+msgstr "Португальська (Бразилія)"
+
+msgid "Portuguese (Português)"
+msgstr "Португальська (Português)"
+
+msgid "Preparing..."
+msgstr "Підготовка..."
+
+msgid "Read periodic keep-restore interval from config (seconds) and return milliseconds."
+msgstr "Зчитати інтервал періодичного відновлення з конфіга (сек) і повернути мілісекунди."
+
+msgid "Remove AIFury cache files (best-effort)."
+msgstr "Видалити файли кешу AIFury (best-effort)."
+
+msgid "Reset AIFury settings to defaults"
+msgstr "Скинути налаштування AIFury до стандартних"
+
+msgid "Reset ONLY AIFury plugin config to defaults and persist."
+msgstr "Скинути ЛИШЕ конфіг плагіна AIFury до стандартних і зберегти."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Скидання: стандартні + кеші"
+
+msgid "Reset: Defaults only"
+msgstr "Скидання: лише стандартні"
+
+msgid "Restart Enigma2 GUI only."
+msgstr "Перезапустити лише GUI Enigma2."
+
+msgid "Restart GUI (Enigma2)"
+msgstr "Перезапуск GUI (Enigma2)"
+
+msgid "Retry count"
+msgstr "Кількість повторів"
+
+msgid "Return a best-effort service name for a ref string."
+msgstr "Повернути назву сервісу (best-effort) для рядка ref."
+
+msgid "Return a copy of current background auto-translate stats."
+msgstr "Повернути копію поточної статистики фонового автоперекладу."
+
+msgid "Return a list of playable service ref strings inside a bouquet."
+msgstr "Повернути список ref-рядків відтворюваних сервісів у букеті."
+
+msgid "Return cached translation immediately; if not cached, warm cache asynchronously and return original text."
+msgstr "Повернути переклад з кешу негайно; якщо в кеші немає — підігріти кеш асинхронно та повернути оригінальний текст."
+
+msgid "Return default cache file path based on available mount points."
+msgstr "Повернути типовий шлях до файлу кешу на основі доступних точок монтування."
+
+msgid "Romanian (Română)"
+msgstr "Румунська (Română)"
+
+msgid "Romansh (Rumantsch)"
+msgstr "Ретороманська (Rumantsch)"
+
+msgid "Russian"
+msgstr "Російська"
+
+msgid "Schedule background EPG translation for a service after zapping or after settings changes."
+msgstr "Запланувати фоновий переклад EPG для сервісу після перемикання або після зміни налаштувань."
+
+msgid "Schedule restoring translated EPG for a service shortly after zapping."
+msgstr "Запланувати відновлення перекладеного EPG для сервісу невдовзі після перемикання."
+
+msgid "Select bouquet to translate"
+msgstr "Виберіть букет для перекладу"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Виберіть букет для перекладу (у фоні)"
+
+msgid "Select cache directory"
+msgstr "Виберіть папку кешу"
+
+msgid "Select cache to clear"
+msgstr "Виберіть кеш для очищення"
+
+msgid "Select EPG title/description language first."
+msgstr "Спочатку виберіть мову заголовку/опису EPG."
+
+msgid "Select EPG translations cache directory"
+msgstr "Виберіть папку кешу перекладів EPG"
+
+msgid "Select translation language"
+msgstr "Виберіть мову перекладу"
+
+msgid "Select value"
+msgstr "Виберіть значення"
+
+msgid "Selected bouquet"
+msgstr "Вибраний букет"
+
+msgid "Serbian (Srpski/Српски)"
+msgstr "Сербська (Srpski/Српски)"
+
+msgid "Services processed: %s"
+msgstr "Сервіси оброблено: %s"
+
+msgid "Services: %s"
+msgstr "Сервіси: %s"
+
+msgid "Set a default log file path for this module (optional)."
+msgstr "Встановити типовий шлях до файлу журналу для цього модуля (необов’язково)."
+
+msgid "Set a minimum delay between translation requests (module-global)."
+msgstr "Встановити мінімальну затримку між запитами перекладу (глобально для модуля)."
+
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+msgid "Show available TV bouquets, then start translating the selected bouquet in background."
+msgstr "Показати доступні ТВ-букети, потім запустити переклад вибраного букета у фоні."
+
+msgid "Show available TV bouquets, then translate the selected bouquet."
+msgstr "Показати доступні ТВ-букети, потім перекласти вибраний букет."
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Пропущено (порожній EPG): %s"
+
+msgid "Slovak (Slovenčina)"
+msgstr "Словацька (Slovenčina)"
+
+msgid "Slovenian (Slovenščina)"
+msgstr "Словенська (Slovenščina)"
+
+msgid "Spanish"
+msgstr "Іспанська"
+
+msgid "Spanish (Mexico)"
+msgstr "Іспанська (Мексика)"
+
+msgid "Start an eTimer in a way that works across images (start(ms, True) vs start(ms))."
+msgstr "Запустити eTimer так, щоб працювало на різних іміджах (start(ms, True) vs start(ms))."
+
+msgid "Starting..."
+msgstr "Запуск..."
+
+msgid "Submit background work to pool if available, otherwise spawn a daemon thread."
+msgstr "Передати фонову роботу в пул, якщо доступно, інакше створити daemon-потік."
+
+msgid "Swedish (Svenska)"
+msgstr "Шведська (Svenska)"
+
+msgid "Swiss German (Schwiizerdütsch)"
+msgstr "Швейцарська німецька (Schwiizerdütsch)"
+
+msgid "System returned empty EPG list"
+msgstr "Система повернула порожній список EPG"
+
+msgid "Timer callback: process a few services per tick."
+msgstr "Callback таймера: обробляти кілька сервісів за один тик."
+
+msgid "Translate InfoBar"
+msgstr "Перекласти InfoBar"
+
+msgid "Translate Bouquet"
+msgstr "Перекласти букет"
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Перекласти букет (виберіть зі списку)"
+
+msgid "Translate bouquet in background"
+msgstr "Перекласти букет у фоні"
+
+msgid "Translate Bouquet: %s"
+msgstr "Перекласти букет: %s"
+
+msgid "Translate Current Channel EPG"
+msgstr "Перекласти EPG поточного каналу"
+
+msgid "Translate Current Event"
+msgstr "Перекласти поточну подію"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "Переклад поточної події вимкнено в налаштуваннях."
+
+msgid "Translate in background then call callback(translated_text) on UI thread."
+msgstr "Перекласти у фоні, потім викликати callback(translated_text) у UI-потоці."
+
+msgid "translate provider error: %s"
+msgstr "Помилка провайдера перекладу: %s"
+
+msgid "Translate to a specific lang in background then callback(translated_text) on UI thread."
+msgstr "Перекласти у фоні на конкретну мову, потім callback(translated_text) у UI-потоці."
+
+msgid "translate_async worker error: %s"
+msgstr "Помилка воркера translate_async: %s"
+
+msgid "translate_async_with_callback error: %s"
+msgstr "Помилка translate_async_with_callback: %s"
+
+msgid "translate_text internal error: %s"
+msgstr "Внутрішня помилка translate_text: %s"
+
+msgid "translate_to_async_with_callback error: %s"
+msgstr "Помилка translate_to_async_with_callback: %s"
+
+msgid "translate_to_cached_or_async worker error: %s"
+msgstr "Помилка воркера translate_to_cached_or_async: %s"
+
+msgid "translated (%.3fs) lang=%s text=%s"
+msgstr "перекладено (%.3с) lang=%s text=%s"
+
+msgid "Translated Event Cache: %d"
+msgstr "Кеш перекладених подій: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Перекладених подій у букеті: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Перекладених подій у кеші: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Перекладені події в кеші: (контролер не готовий)"
+
+msgid "Translated in background: %d"
+msgstr "Перекладено у фоні: %d"
+
+msgid "Translated in Background: %d"
+msgstr "Перекладено у фоні: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Перекладено в букеті: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Перекладено: %d   |   Пропущено: %d"
+
+msgid "Translated: %s"
+msgstr "Перекладено: %s"
+
+msgid "Translation completed"
+msgstr "Переклад завершено"
+
+msgid "Translation language"
+msgstr "Мова перекладу"
+
+msgid "translation result invalid"
+msgstr "некоректний результат перекладу"
+
+msgid "translation returned empty"
+msgstr "переклад повернув порожнє значення"
+
+msgid "translation returned None"
+msgstr "переклад повернув None"
+
+msgid "Turkish"
+msgstr "Турецька"
+
+msgid "Ukrainian (Українська)"
+msgstr "Українська (Українська)"
+
+msgid "Unhandled error: %s"
+msgstr "Неперехоплена помилка: %s"
+
+msgid "Until dismissed"
+msgstr "До закриття"
+
+msgid "Urdu (اردو)"
+msgstr "Урду (اردو)"
+
+msgid "userbouquet.favourites.%s"
+msgstr "userbouquet.favourites.%s"
+
+msgid "Warm translation cache in background without blocking UI."
+msgstr "Підігрівати кеш перекладів у фоні без блокування UI."
+
+msgid "Worker threads"
+msgstr "Робочі потоки"
+
+msgid "Yield bouquet directory refs from bouquets.tv (or bouquets.radio)."
+msgstr "Отримувати ref-и каталогів букетів з bouquets.tv (або bouquets.radio)."
+
+msgid "Clear cache"
+msgstr "Очистити кеш"
+
+msgid "Clear Cache"
+msgstr "Очистити кеш"
+
+msgid "Delete cache"
+msgstr "Видалити кеш"
