@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-05 19:49+0000\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "AIFury Info"
+msgstr "Infos AIFury"
+
+msgid "AIFury Setup"
+msgstr "Paramètres AIFury"
+
+msgid "AIFury controller is not initialized."
+msgstr "Le contrôleur AIFury n’est pas initialisé."
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Restaurer automatiquement l’EPG traduit lors du zapping"
+
+msgid "Auto translate EPG in background"
+msgstr "Traduire automatiquement l’EPG en arrière-plan"
+
+msgid "Auto translate horizon"
+msgstr "Horizon de traduction automatique"
+
+msgid "Auto translate max events"
+msgstr "Nombre max. d’événements auto"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Écart min. auto (minutes)"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Le bouquet est vide/invalide."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Impossible de démarrer la traduction EPG : %s"
+
+msgid "Clear caches only"
+msgstr "Vider les caches uniquement"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Contrôleur non prêt, impossible de vider le cache."
+
+msgid "Done notification timeout"
+msgstr "Durée d’affichage de la notification de fin"
+
+msgid "EPG path"
+msgstr "Chemin EPG"
+
+msgid "EPG title language"
+msgstr "Langue du titre EPG"
+
+msgid "Enable Translate"
+msgstr "Activer la traduction"
+
+msgid "Enable Translate Current Event"
+msgstr "Activer la traduction de l’événement actuel"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "Erreur lors du vidage du cache :\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "Erreur lors de l’ouverture de l’écran d’info :\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "Événements : %s  Traduit : %s  Importé : %s\\nErreurs T/S/L : %s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "Erreur d’importation : %s"
+
+msgid "Imported in background: %d"
+msgstr "Importé en arrière-plan : %d"
+
+msgid "Imported to RAM: %d"
+msgstr "Importé en RAM : %d"
+
+msgid "Imported: %s"
+msgstr "Importé : %s"
+
+msgid "Main path"
+msgstr "Chemin principal"
+
+msgid "Min request interval (ms)"
+msgstr "Intervalle min. des requêtes (ms)"
+
+msgid "Network timeout (sec)"
+msgstr "Délai réseau (s)"
+
+msgid "No bouquets found."
+msgstr "Aucun bouquet trouvé."
+
+msgid "No current service is available."
+msgstr "Aucun service actuel n’est disponible."
+
+msgid "No playable services found in: %s"
+msgstr "Aucun service lisible trouvé dans : %s"
+
+msgid "No services found in Favourites bouquet."
+msgstr "Aucun service trouvé dans le bouquet Favoris."
+
+msgid "Notify translation end"
+msgstr "Notifier la fin de la traduction"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Choisir | Vert = Enregistrer | Jaune = Vider le cache | Bleu = Stats | Rouge/EXIT = Annuler"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Sélectionner | EXIT = Annuler"
+
+msgid "Periodic restore interval"
+msgstr "Intervalle de restauration périodique"
+
+msgid "Preparing..."
+msgstr "Préparation..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Réinitialiser : défauts + caches"
+
+msgid "Reset: Defaults only"
+msgstr "Réinitialiser : défauts uniquement"
+
+msgid "Retry count"
+msgstr "Nombre de tentatives"
+
+msgid "Select EPG title/description language first."
+msgstr "Sélectionnez d’abord la langue du titre/description EPG."
+
+msgid "Select EPG translations cache directory"
+msgstr "Sélectionner le dossier de cache des traductions EPG"
+
+msgid "Select bouquet to translate"
+msgstr "Sélectionner le bouquet à traduire"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Sélectionner le bouquet à traduire (arrière-plan)"
+
+msgid "Select cache directory"
+msgstr "Sélectionner le dossier de cache"
+
+msgid "Select cache to clear"
+msgstr "Sélectionner le cache à vider"
+
+msgid "Select translation language"
+msgstr "Sélectionner la langue de traduction"
+
+msgid "Select value"
+msgstr "Sélectionner une valeur"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Ignoré (EPG vide) : %s"
+
+msgid "Skipped: %s"
+msgstr "Ignoré : %s"
+
+msgid "Total events: %s"
+msgstr "Total d’événements : %s"
+
+msgid "Translate Bouquet"
+msgstr "Traduire le bouquet"
+
+msgid "Translate Current Channel EPG"
+msgstr "Traduire l’EPG de la chaîne actuelle"
+
+msgid "Translate Current Event"
+msgstr "Traduire l’événement actuel"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "La traduction de l’événement actuel est désactivée dans les paramètres."
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Traduire un bouquet (choisir dans la liste)"
+
+msgid "Translate bouquet in background"
+msgstr "Traduire le bouquet en arrière-plan"
+
+msgid "Translated Event Cache: %d"
+msgstr "Cache d’événements traduits : %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Événements traduits dans le bouquet : %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Événements traduits en cache : %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Événements traduits en cache : (contrôleur non prêt)"
+
+msgid "Translated in Background: %d"
+msgstr "Traduit en arrière-plan : %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Traduit dans le bouquet : %d"
+
+msgid "Translated in background: %d"
+msgstr "Traduit en arrière-plan : %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Traduit : %d | Ignoré : %d"
+
+msgid "Translated: %s"
+msgstr "Traduit : %s"
+
+msgid "Translation language"
+msgstr "Langue de traduction"
+
+msgid "Worker threads"
+msgstr "Threads de travail"
+
+msgid "\\nImport error: %s"
+msgstr "\\nErreur d’importation : %s"

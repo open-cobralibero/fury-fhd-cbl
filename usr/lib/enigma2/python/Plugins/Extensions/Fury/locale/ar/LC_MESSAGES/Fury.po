@@ -1,0 +1,541 @@
+# Arabic translations for Fury-FHD Plugin
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury-FHD Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-06 00:00+0200\n"
+"PO-Revision-Date: 2026-02-06 15:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 && n%100<=10) ? 3 : (n%100>=11 && n%100<=99) ? 4 : 5);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "+10%"
+msgstr "+10%"
+
+msgid "+13%"
+msgstr "+13%"
+
+msgid "+15%"
+msgstr "+15%"
+
+msgid "+2%"
+msgstr "+2%"
+
+msgid "+20%"
+msgstr "+20%"
+
+msgid "+25%"
+msgstr "+25%"
+
+msgid "+30%"
+msgstr "+30%"
+
+msgid "+5%"
+msgstr "+5%"
+
+msgid "+7%"
+msgstr "+7%"
+
+msgid "+9%"
+msgstr "+9%"
+
+msgid "-10%"
+msgstr "-10%"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "-20%"
+msgstr "-20%"
+
+msgid "-25%"
+msgstr "-25%"
+
+msgid "-5%"
+msgstr "-5%"
+
+msgid "..."
+msgstr "..."
+
+msgid "12h HH:MM AM/PM (e.g. 09:45 PM)"
+msgstr "12h HH:MM AM/PM (e.g. 09:45 PM)"
+
+msgid "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+msgstr "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+
+msgid "2025 Jan 01"
+msgstr "2025 Jan 01"
+
+msgid "2025/01/01 Monday"
+msgstr "2025/01/01 Monday"
+
+msgid "24h HH:MM (e.g. 21:45)"
+msgstr "24h HH:MM (e.g. 21:45)"
+
+msgid "24h HH:MM:SS (e.g. 21:45:09)"
+msgstr "24h HH:MM:SS (e.g. 21:45:09)"
+
+msgid "Black"
+msgstr "أسود"
+
+msgid "Blue"
+msgstr "أزرق"
+
+msgid "Brown"
+msgstr "بني"
+
+msgid "Channel Background Selected Color:"
+msgstr "لون الخلفية عند تحديد القناة:"
+
+msgid "Channel Description Color:"
+msgstr "لون وصف القناة:"
+
+msgid "Channel Foreground Color:"
+msgstr "لون الخط (القناة):"
+
+msgid "Channel Selected Description Color:"
+msgstr "لون وصف القناة عند التحديد:"
+
+msgid "Channel Selected Foreground Color:"
+msgstr "لون الخط عند تحديد القناة:"
+
+msgid "ChannelSelection Style:"
+msgstr "نمط قائمة القنوات (Channel Selection):"
+
+msgid "ChannelSelection2_12_Posters"
+msgstr "اختيار القنوات 2 - 12 Poster"
+
+msgid "ChannelSelection2_1_Posters"
+msgstr "اختيار القنوات 2 - Poster"
+
+msgid "ChannelSelection2_4_Posters"
+msgstr "اختيار القنوات 2 - 4 Poster"
+
+msgid "ChannelSelection2_6_Posters"
+msgstr "اختيار القنوات 2 - 6 Poster"
+
+msgid "ChannelSelection2_NO_Posters"
+msgstr "اختيار القنوات 2 No Posters"
+
+msgid "ChannelSelection_5_Backdrop"
+msgstr "اختيار القنوات - 5 -Backdrop"
+
+msgid "ChannelSelection_5_Posters"
+msgstr "اختيار القنوات - 5 Poster"
+
+msgid "ChannelSelection_NO_Posters"
+msgstr "اختيار القنوات No Posters"
+
+msgid "Color Style:"
+msgstr "نمط الألوان:"
+
+msgid "Cravelo"
+msgstr "Cravelo"
+
+msgid "Cyan"
+msgstr "سماوي"
+
+msgid "Dark Purple"
+msgstr "بنفسجي غامق"
+
+msgid "Dark Red"
+msgstr "أحمر غامق"
+
+msgid "DarkPurple"
+msgstr "بنفسجي غامق"
+
+msgid "DarkRed"
+msgstr "أحمر غامق"
+
+msgid "Date Format:"
+msgstr "تنسيق التاريخ:"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "DD Mon YYYY (e.g. 06 Feb 2026)"
+msgstr "DD Mon YYYY (e.g. 06 Feb 2026)"
+
+msgid "DD Month YYYY (e.g. 06 February 2026)"
+msgstr "DD Month YYYY (e.g. 06 February 2026)"
+
+msgid "DD Month, YYYY (e.g. 06 February, 2026)"
+msgstr "DD Month, YYYY (e.g. 06 February, 2026)"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+msgid "Default"
+msgstr "الافتراضي"
+
+msgid "Download in progress..."
+msgstr "التنزيل جارٍ..."
+
+msgid "Downloading Fury..."
+msgstr "جارٍ تنزيل Fury..."
+
+msgid "EPGSelection Style:"
+msgstr "نمط اختيار دليل البرامج (EPG):"
+
+msgid "EPGSelection_1_Posters"
+msgstr "اختيار دليل البرامج - بوستر واحد"
+
+msgid "EPGSelection_No_Posters"
+msgstr "اختيار دليل البرامج بدون بوسترات"
+
+msgid "Error by processing the skin file !!!"
+msgstr "خطأ أثناء معالجة ملف السكين!!!"
+
+msgid "Error downloading files!"
+msgstr "خطأ أثناء تنزيل الملفات!"
+
+msgid "EventView Style:"
+msgstr "نمط عرض الأحداث (Event View):"
+
+msgid "EventView_11_Posters"
+msgstr "عرض الأحداث - 11 Poster"
+
+msgid "EventView_12_Posters"
+msgstr "عرض الأحداث - 12 Poster"
+
+msgid "EventView_7_Posters"
+msgstr "عرض الأحداث - 7 Poster"
+
+msgid "EventView_NO_Posters"
+msgstr "عرض الأحداث No Posters"
+
+msgid "Font Size:"
+msgstr "حجم الخط:"
+
+msgid "Fury"
+msgstr "Fury"
+
+msgid "Fury update was done!!!\\nDo you want to restart the GUI now?"
+msgstr "تم تحديث Fury بنجاح!!!\\nهل تريد إعادة تشغيل الواجهة الآن؟"
+
+msgid "Fury-FHD Skin Mod AbouYassin7"
+msgstr "Fury-FHD Skin Mod AbouYassin7"
+
+msgid "Green"
+msgstr "أخضر"
+
+msgid "Green2"
+msgstr "أخضر 2"
+
+msgid "Grey"
+msgstr "رمادي"
+
+msgid "Grey2"
+msgstr "رمادي 2"
+
+msgid "GUI needs a restart to apply a new skin.\\nDo you want to Restart the GUI now?"
+msgstr "يلزم إعادة تشغيل الواجهة لتطبيق السكين الجديد.\\nهل تريد إعادة تشغيل الواجهة الآن؟"
+
+msgid "HandelGotDBol"
+msgstr "HandelGotDBol"
+
+msgid "Info..."
+msgstr "معلومات..."
+
+msgid "InfoBar Style:"
+msgstr "نمط شريط المعلومات (Infobar):"
+
+msgid "Infobar2_2_Logo"
+msgstr "Infobar2_2_لوجو"
+
+msgid "Infobar2_2_Posters"
+msgstr "Infobar2_2_بوستر"
+
+msgid "Infobar2_3_Backdrop"
+msgstr "Infobar2_3_باك دروب"
+
+msgid "Infobar2_3_Posters"
+msgstr "Infobar2 _3_بوسترات"
+
+msgid "Infobar2_NO_Posters"
+msgstr "Infobar2_NO_بوستر"
+
+msgid "Infobar3_2_Backdrop"
+msgstr "Infobar3 - بوسترين + باك دروب"
+
+msgid "Infobar3_2_Backdrop_Black"
+msgstr "Infobar3 باك دروب"
+
+msgid "Infobar3_2_Logo"
+msgstr "Infobar3 + لوجو"
+
+msgid "Infobar3_2_Posters"
+msgstr "Infobar3 - بوسترين"
+
+msgid "Infobar3_2_Posters_Black"
+msgstr "Infobar3 - بوسترين"
+
+msgid "Infobar3_3_Posters"
+msgstr "Infobar3 - 3 بوسترات"
+
+msgid "Infobar3_3_Posters_Black"
+msgstr "Infobar3 - 3 بوسترات"
+
+msgid "Infobar3_NO_Posters"
+msgstr "Infobar3 بدون بوسترات"
+
+msgid "Infobar3_NO_Posters_Black"
+msgstr "Infobar3 بدون بوسترات"
+
+msgid "Infobar4_1_Logo"
+msgstr "Infobar4 + لوجو"
+
+msgid "Infobar4_1_Posters"
+msgstr "Infobar4 - بوستر واحد"
+
+msgid "Infobar4_3_Posters"
+msgstr "Infobar4 - 3 بوسترات"
+
+msgid "Infobar4_BackDrop"
+msgstr "Infobar4 باك دروب"
+
+msgid "Infobar4_NO_Posters"
+msgstr "Infobar4 بدون بوسترات"
+
+msgid "Infobar5_2_Logo"
+msgstr "Infobar5 + لوجو"
+
+msgid "Infobar5_2_Posters"
+msgstr "Infobar5 - بوسترين"
+
+msgid "Infobar5_3_Posters"
+msgstr "Infobar5 - 3 بوسترات"
+
+msgid "Infobar5_NO_Posters"
+msgstr "Infobar5 بدون بوسترات"
+
+msgid "Infobar5_star_3_Backdrop"
+msgstr "Infobar5 بخلفية"
+
+msgid "Infobar5_star_3_Posters"
+msgstr "Infobar5 - 3 بوسترات"
+
+msgid "Infobar_2_Posters"
+msgstr "Infobar_2_بوستر"
+
+msgid "Infobar_2_Round"
+msgstr "Infobar_2_مستدير"
+
+msgid "Infobar_3_Posters"
+msgstr "Infobar_3_بوستر"
+
+msgid "Infobar_Mini"
+msgstr "Infobar_صغير"
+
+msgid "Infobar_Mini_2"
+msgstr "Infobar_صغير + بوسترين"
+
+msgid "Infobar_Mini_2_Logo"
+msgstr "Infobar_Mini_2_لوجو"
+
+msgid "Infobar_NO_Posters"
+msgstr "Infobar_NO_بوسترات"
+
+msgid "Infobar_Round"
+msgstr "Infobar_مستدير"
+
+msgid "Install failed!"
+msgstr "فشل التثبيت!"
+
+msgid "Installing updates!"
+msgstr "جارٍ تثبيت التحديثات!"
+
+msgid "January 01, 2025"
+msgstr "January 01, 2025"
+
+msgid "Joyful"
+msgstr "Joyful"
+
+msgid "LightWhite"
+msgstr "أبيض فاتح"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+msgid "Mon 01 Jan 2025"
+msgstr "Mon 01 Jan 2025"
+
+msgid "Mon DD, YYYY (e.g. Feb 06, 2026)"
+msgstr "Mon DD, YYYY (e.g. Feb 06, 2026)"
+
+msgid "Monday, 01 01 2025"
+msgstr "Monday, 01 01 2025"
+
+msgid "Mongule"
+msgstr "Mongule"
+
+msgid "Month DD, YYYY (e.g. February 06, 2026)"
+msgstr "Month DD, YYYY (e.g. February 06, 2026)"
+
+msgid "Nexa"
+msgstr "Nexa"
+
+msgid "Oily"
+msgstr "زيتي"
+
+msgid "Orange"
+msgstr "برتقالي"
+
+msgid "Pink"
+msgstr "وردي"
+
+msgid "Poetsen_One "
+msgstr "Poetsen - One "
+
+msgid "Red"
+msgstr "أحمر"
+
+msgid "Restart GUI now?"
+msgstr "إعادة تشغيل الواجهة الآن؟"
+
+msgid "SecondInfobar Style:"
+msgstr "نمط الشريط الثاني (Second Infobar):"
+
+msgid "SecondInfobar2_NO_Posters"
+msgstr "SecondInfobar2 بدون بوسترات"
+
+msgid "SecondInfobar2_Posters"
+msgstr "SecondInfobar2_بوستر"
+
+msgid "SecondInfobar3_NO_Posters"
+msgstr "SecondInfobar3_NO_بوستر"
+
+msgid "SecondInfobar3_Posters"
+msgstr "SecondInfobar3_بوستر"
+
+msgid "SecondInfobar4_NO_Posters"
+msgstr "SecondInfobar4 بدون بوسترات"
+
+msgid "SecondInfobar4_Posters"
+msgstr "SecondInfobar4_بوستر"
+
+msgid "SecondInfobar5_Signal"
+msgstr "SecondInfobar5_مضخم الاشارة"
+
+msgid "SecondInfobar_NO_Posters"
+msgstr "SecondInfobar_NO_بوستر"
+
+msgid "SecondInfobar_Posters"
+msgstr "SecondInfobar_بوستر"
+
+msgid "Select Your Font:"
+msgstr "اختر الخط:"
+
+msgid "Server version:"
+msgstr "إصدار السيرفر:"
+
+msgid "Setup Fury for Fury-FHD v.%s"
+msgstr "إعداد Fury لـ Fury-FHD الإصدار %s"
+
+msgid "Skin Style:"
+msgstr "نمط السكين:"
+
+msgid "Tenada"
+msgstr "Tenada"
+
+msgid "The update is available!\\n\\nDo you want to run the update now?"
+msgstr "يوجد تحديث متاح!\\n\\nهل تريد تشغيل التحديث الآن؟"
+
+msgid "Time Format:"
+msgstr "تنسيق الوقت:"
+
+msgid "Tommy "
+msgstr "Tommy "
+
+msgid "Transparency:"
+msgstr "الشفافية:"
+
+msgid "Update failed. Please check %s"
+msgstr "فشل التحديث. من فضلك راجع %s"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Version installed:"
+msgstr "الإصدار المُثبت:"
+
+msgid "volume2"
+msgstr "مستوى الصوت 2"
+
+msgid "volume3"
+msgstr "مستوى الصوت 3"
+
+msgid "volume4"
+msgstr "مستوى الصوت 4"
+
+msgid "VolumeBar Style:"
+msgstr "نمط شريط الصوت:"
+
+msgid "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+msgstr "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+
+msgid "Yellow"
+msgstr "أصفر"
+
+msgid "You have the current version Fury!"
+msgstr "لديك أحدث إصدار من Fury!"
+
+msgid "You have version %s!!!"
+msgstr "لديك الإصدار %s!!!"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "Zero"
+msgstr "بدون شفافية (0%)"
+
+msgid "~10%"
+msgstr "حوالي 10%"
+
+msgid "~15%"
+msgstr "حوالي 15%"
+
+msgid "~20%"
+msgstr "حوالي 20%"
+
+msgid "~25%"
+msgstr "حوالي 25%"
+
+msgid "~30%"
+msgstr "حوالي 30%"
+
+msgid "~35%"
+msgstr "حوالي 35%"
+
+msgid "~40%"
+msgstr "حوالي 40%"
+
+msgid "~45%"
+msgstr "حوالي 45%"
+
+msgid "~5%"
+msgstr "حوالي 5%"
+
+msgid "~50%"
+msgstr "حوالي 50%"

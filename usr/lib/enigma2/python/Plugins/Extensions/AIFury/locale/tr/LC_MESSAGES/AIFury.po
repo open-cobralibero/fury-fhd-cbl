@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-06 08:38+0200\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "AIFury Info"
+msgstr "AIFury Bilgisi"
+
+msgid "AIFury Setup"
+msgstr "AIFury Kurulumu"
+
+msgid "AIFury controller is not initialized."
+msgstr "AIFury denetleyicisi başlatılmadı."
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Kanal değişiminde çevrilmiş EPG'yi otomatik geri yükle"
+
+msgid "Auto translate EPG in background"
+msgstr "EPG'yi arka planda otomatik çevir"
+
+msgid "Auto translate horizon"
+msgstr "Otomatik çeviri ufku"
+
+msgid "Auto translate max events"
+msgstr "Otomatik çeviri için azami etkinlik"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Otomatik çeviri asgari aralık (dakika)"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Buklet boş/geçersiz."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "EPG çevirisi başlatılamadı: %s"
+
+msgid "Clear caches only"
+msgstr "Yalnızca önbellekleri temizle"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Denetleyici hazır değil, önbellek temizlenemiyor."
+
+msgid "Done notification timeout"
+msgstr "Bitti bildirimi zaman aşımı"
+
+msgid "EPG path"
+msgstr "EPG yolu"
+
+msgid "EPG title language"
+msgstr "EPG başlık dili"
+
+msgid "Enable Translate"
+msgstr "Çeviriyi etkinleştir"
+
+msgid "Enable Translate Current Event"
+msgstr "Mevcut etkinliği çeviriyi etkinleştir"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "Önbellek temizleme hatası:\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "Bilgi ekranı açma hatası:\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "Etkinlikler: %s  Çevrilen: %s  İçe aktarılan: %s\\nHatalar T/S/L: %s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "İçe aktarma hatası: %s"
+
+msgid "Imported in background: %d"
+msgstr "Arka planda içe aktarılan: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "RAM'e içe aktarılan: %d"
+
+msgid "Imported: %s"
+msgstr "İçe aktarılan: %s"
+
+msgid "Main path"
+msgstr "Ana yol"
+
+msgid "Min request interval (ms)"
+msgstr "Asgari istek aralığı (ms)"
+
+msgid "Network timeout (sec)"
+msgstr "Ağ zaman aşımı (sn)"
+
+msgid "No bouquets found."
+msgstr "Buklet bulunamadı."
+
+msgid "No current service is available."
+msgstr "Geçerli hizmet mevcut değil."
+
+msgid "No playable services found in: %s"
+msgstr "%s içinde oynatılabilir hizmet bulunamadı."
+
+msgid "No services found in Favourites bouquet."
+msgstr "Favoriler bukletinde hizmet bulunamadı."
+
+msgid "Notify translation end"
+msgstr "Çeviri bitiş bildirimi"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Seçenek   |   Yeşil = Kaydet   |   Sarı = Önbelleği temizle   |   Mavi = İstatistik   |   Kırmızı/EXIT = İptal"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Seç   |   EXIT = İptal"
+
+msgid "Periodic restore interval"
+msgstr "Periyodik geri yükleme aralığı"
+
+msgid "Preparing..."
+msgstr "Hazırlanıyor..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Sıfırla: Varsayılanlar + Önbellekler"
+
+msgid "Reset: Defaults only"
+msgstr "Sıfırla: Yalnızca varsayılanlar"
+
+msgid "Retry count"
+msgstr "Yeniden deneme sayısı"
+
+msgid "Select EPG title/description language first."
+msgstr "Önce EPG başlık/açıklama dilini seçin."
+
+msgid "Select EPG translations cache directory"
+msgstr "EPG çeviri önbellek dizinini seçin"
+
+msgid "Select bouquet to translate"
+msgstr "Çevrilecek bukleti seçin"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Çevrilecek bukleti seçin (arka plan)"
+
+msgid "Select cache directory"
+msgstr "Önbellek dizinini seçin"
+
+msgid "Select cache to clear"
+msgstr "Temizlenecek önbelleği seçin"
+
+msgid "Select translation language"
+msgstr "Çeviri dilini seçin"
+
+msgid "Select value"
+msgstr "Değer seçin"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Atlandı (boş EPG): %s"
+
+msgid "Skipped: %s"
+msgstr "Atlandı: %s"
+
+msgid "Total events: %s"
+msgstr "Toplam etkinlik: %s"
+
+msgid "Translate Bouquet"
+msgstr "Bukleti çevir"
+
+msgid "Translate Current Channel EPG"
+msgstr "Mevcut kanal EPG'sini çevir"
+
+msgid "Translate Current Event"
+msgstr "Mevcut etkinliği çevir"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "Mevcut etkinlik çevirisi ayarlarda devre dışı."
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Bukleti çevir (listeden seç)"
+
+msgid "Translate bouquet in background"
+msgstr "Bukleti arka planda çevir"
+
+msgid "Translated Event Cache: %d"
+msgstr "Çevrilmiş Etkinlik Önbelleği: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Buklette çevrilmiş etkinlikler: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Önbellekte çevrilmiş etkinlikler: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Önbellekte çevrilmiş etkinlikler: (denetleyici hazır değil)"
+
+msgid "Translated in Background: %d"
+msgstr "Arka planda çevrilen: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Buklette çevrilen: %d"
+
+msgid "Translated in background: %d"
+msgstr "Arka planda çevrilen: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Çevrilen: %d   |   Atlanan: %d"
+
+msgid "Translated: %s"
+msgstr "Çevrilen: %s"
+
+msgid "Translation language"
+msgstr "Çeviri dili"
+
+msgid "Worker threads"
+msgstr "Çalışan iş parçacıkları"
+
+msgid "\\nImport error: %s"
+msgstr "\\nİçe aktarma hatası: %s"

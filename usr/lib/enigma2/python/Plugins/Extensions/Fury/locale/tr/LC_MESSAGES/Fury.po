@@ -1,0 +1,541 @@
+# Arabic translations for Fury-FHD Plugin
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury-FHD Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-06 00:00+0200\n"
+"PO-Revision-Date: 2026-02-06 17:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "+10%"
+msgstr "+10%"
+
+msgid "+13%"
+msgstr "+13%"
+
+msgid "+15%"
+msgstr "+15%"
+
+msgid "+2%"
+msgstr "+2%"
+
+msgid "+20%"
+msgstr "+20%"
+
+msgid "+25%"
+msgstr "+25%"
+
+msgid "+30%"
+msgstr "+30%"
+
+msgid "+5%"
+msgstr "+5%"
+
+msgid "+7%"
+msgstr "+7%"
+
+msgid "+9%"
+msgstr "+9%"
+
+msgid "-10%"
+msgstr "-10%"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "-20%"
+msgstr "-20%"
+
+msgid "-25%"
+msgstr "-25%"
+
+msgid "-5%"
+msgstr "-5%"
+
+msgid "..."
+msgstr "..."
+
+msgid "12h HH:MM AM/PM (e.g. 09:45 PM)"
+msgstr "12h HH:MM AM/PM (e.g. 09:45 PM)"
+
+msgid "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+msgstr "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+
+msgid "2025 Jan 01"
+msgstr "2025 Jan 01"
+
+msgid "2025/01/01 Monday"
+msgstr "2025/01/01 Monday"
+
+msgid "24h HH:MM (e.g. 21:45)"
+msgstr "24h HH:MM (e.g. 21:45)"
+
+msgid "24h HH:MM:SS (e.g. 21:45:09)"
+msgstr "24h HH:MM:SS (e.g. 21:45:09)"
+
+msgid "Black"
+msgstr "Siyah"
+
+msgid "Blue"
+msgstr "Mavi"
+
+msgid "Brown"
+msgstr "Kahverengi"
+
+msgid "Channel Background Selected Color:"
+msgstr "Kanal seçiliyken arka plan rengi:"
+
+msgid "Channel Description Color:"
+msgstr "Kanal açıklaması rengi:"
+
+msgid "Channel Foreground Color:"
+msgstr "Yazı rengi (kanal):"
+
+msgid "Channel Selected Description Color:"
+msgstr "Seçiliyken kanal açıklaması rengi:"
+
+msgid "Channel Selected Foreground Color:"
+msgstr "Kanal seçiliyken yazı rengi:"
+
+msgid "ChannelSelection Style:"
+msgstr "Kanal seçimi stili (Channel Selection):"
+
+msgid "ChannelSelection2_12_Posters"
+msgstr "Kanal seçimi 2 - 12 Poster"
+
+msgid "ChannelSelection2_1_Posters"
+msgstr "Kanal seçimi 2 - Poster"
+
+msgid "ChannelSelection2_4_Posters"
+msgstr "Kanal seçimi 2 - 4 Poster"
+
+msgid "ChannelSelection2_6_Posters"
+msgstr "Kanal seçimi 2 - 6 Poster"
+
+msgid "ChannelSelection2_NO_Posters"
+msgstr "Kanal seçimi 2 No Posters"
+
+msgid "ChannelSelection_5_Backdrop"
+msgstr "Kanal seçimi - 5 -Backdrop"
+
+msgid "ChannelSelection_5_Posters"
+msgstr "Kanal seçimi - 5 Poster"
+
+msgid "ChannelSelection_NO_Posters"
+msgstr "Kanal seçimi No Posters"
+
+msgid "Color Style:"
+msgstr "Renk şeması:"
+
+msgid "Cravelo"
+msgstr "Cravelo"
+
+msgid "Cyan"
+msgstr "Camgöbeği"
+
+msgid "Dark Purple"
+msgstr "Koyu Mor"
+
+msgid "Dark Red"
+msgstr "Koyu Kırmızı"
+
+msgid "DarkPurple"
+msgstr "Koyu Mor"
+
+msgid "DarkRed"
+msgstr "Koyu Kırmızı"
+
+msgid "Date Format:"
+msgstr "Tarih biçimi:"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "DD Mon YYYY (e.g. 06 Feb 2026)"
+msgstr "DD Mon YYYY (e.g. 06 Feb 2026)"
+
+msgid "DD Month YYYY (e.g. 06 February 2026)"
+msgstr "DD Month YYYY (e.g. 06 February 2026)"
+
+msgid "DD Month, YYYY (e.g. 06 February, 2026)"
+msgstr "DD Month, YYYY (e.g. 06 February, 2026)"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Download in progress..."
+msgstr "İndiriliyor..."
+
+msgid "Downloading Fury..."
+msgstr "Fury indiriliyor..."
+
+msgid "EPGSelection Style:"
+msgstr "EPG seçim stili:"
+
+msgid "EPGSelection_1_Posters"
+msgstr "EPG seçimi - بوستر واحد"
+
+msgid "EPGSelection_No_Posters"
+msgstr "EPG seçimi بدون بوسترات"
+
+msgid "Error by processing the skin file !!!"
+msgstr "Skin dosyası işlenirken hata!!!"
+
+msgid "Error downloading files!"
+msgstr "Dosyalar indirilirken hata!"
+
+msgid "EventView Style:"
+msgstr "Etkinlik görünümü stili (Event View):"
+
+msgid "EventView_11_Posters"
+msgstr "Etkinlik görünümü - 11 Poster"
+
+msgid "EventView_12_Posters"
+msgstr "Etkinlik görünümü - 12 Poster"
+
+msgid "EventView_7_Posters"
+msgstr "Etkinlik görünümü - 7 Poster"
+
+msgid "EventView_NO_Posters"
+msgstr "Etkinlik görünümü No Posters"
+
+msgid "Font Size:"
+msgstr "Yazı boyutu:"
+
+msgid "Fury"
+msgstr "Fury"
+
+msgid "Fury update was done!!!\\nDo you want to restart the GUI now?"
+msgstr "Fury güncellemesi yapıldı!!!\\ nGUI'yi şimdi yeniden başlatmak istiyor musunuz?"
+
+msgid "Fury-FHD Skin Mod AbouYassin7"
+msgstr "Fury-FHD Skin Mod AbouYassin7"
+
+msgid "Green"
+msgstr "Yeşil"
+
+msgid "Green2"
+msgstr "Yeşil 2"
+
+msgid "Grey"
+msgstr "Gri"
+
+msgid "Grey2"
+msgstr "Gri 2"
+
+msgid "GUI needs a restart to apply a new skin.\\nDo you want to Restart the GUI now?"
+msgstr "Yeni bir dış görünüm uygulamak için GUI'nin yeniden başlatılması gerekiyor.\\ nGUI'yi şimdi yeniden başlatmak istiyor musunuz?"
+
+msgid "HandelGotDBol"
+msgstr "HandelGotDBol"
+
+msgid "Info..."
+msgstr "Bilgi..."
+
+msgid "InfoBar Style:"
+msgstr "Bilgi çubuğu stili (Infobar):"
+
+msgid "Infobar2_2_Logo"
+msgstr "Infobar2_2_Logo"
+
+msgid "Infobar2_2_Posters"
+msgstr "Infobar2_2_Poster'lar"
+
+msgid "Infobar2_3_Backdrop"
+msgstr "Infobar2_3_Backdrop"
+
+msgid "Infobar2_3_Posters"
+msgstr "Infobar2_3_Poster'lar"
+
+msgid "Infobar2_NO_Posters"
+msgstr "Infobar2_NO_Poster"
+
+msgid "Infobar3_2_Backdrop"
+msgstr "Infobar3 - 2 Poster + Backdrop"
+
+msgid "Infobar3_2_Backdrop_Black"
+msgstr "Infobar3_2_Backdrop_Siyah"
+
+msgid "Infobar3_2_Logo"
+msgstr "Infobar3 + Logo"
+
+msgid "Infobar3_2_Posters"
+msgstr "Infobar3_2_Poster'lar"
+
+msgid "Infobar3_2_Posters_Black"
+msgstr "Infobar3_2_Poster_Siyah"
+
+msgid "Infobar3_3_Posters"
+msgstr "Infobar3_3_Poster'lar"
+
+msgid "Infobar3_3_Posters_Black"
+msgstr "Infobar3_3_Poster_Siyah"
+
+msgid "Infobar3_NO_Posters"
+msgstr "Infobar3_NO_Posters"
+
+msgid "Infobar3_NO_Posters_Black"
+msgstr "INFOBAR3_NO_POSTERS_SYH"
+
+msgid "Infobar4_1_Logo"
+msgstr "Infobar4 + Logo"
+
+msgid "Infobar4_1_Posters"
+msgstr "Infobar4 - 1 Poster"
+
+msgid "Infobar4_3_Posters"
+msgstr "Infobar4_3_Poster'lar"
+
+msgid "Infobar4_BackDrop"
+msgstr "Infobar4 Backdrop"
+
+msgid "Infobar4_NO_Posters"
+msgstr "Infobar4_NO_Posters"
+
+msgid "Infobar5_2_Logo"
+msgstr "Infobar5 + Logo"
+
+msgid "Infobar5_2_Posters"
+msgstr "Infobar5 - 2 Poster"
+
+msgid "Infobar5_3_Posters"
+msgstr "Infobar5 - 3 Posterات"
+
+msgid "Infobar5_NO_Posters"
+msgstr "INFOBAR5_NO_POSTERS"
+
+msgid "Infobar5_star_3_Backdrop"
+msgstr "Infobar5_star_3_Backdrop"
+
+msgid "Infobar5_star_3_Posters"
+msgstr "Infobar5_star_3_Poster'lar"
+
+msgid "Infobar_2_Posters"
+msgstr "Infobar_2_Poster'lar"
+
+msgid "Infobar_2_Round"
+msgstr "Infobar_2_Round"
+
+msgid "Infobar_3_Posters"
+msgstr "Infobar_3_Poster"
+
+msgid "Infobar_Mini"
+msgstr "Infobar_Küçük"
+
+msgid "Infobar_Mini_2"
+msgstr "Infobar_Küçük + 2 Poster"
+
+msgid "Infobar_Mini_2_Logo"
+msgstr "Infobar_Mini_2_Logo"
+
+msgid "Infobar_NO_Posters"
+msgstr "INFOBAR_NO_POSTERS"
+
+msgid "Infobar_Round"
+msgstr "Infobar_Yuvarlak"
+
+msgid "Install failed!"
+msgstr "Kurulum başarısız!"
+
+msgid "Installing updates!"
+msgstr "Güncellemeler kuruluyor!"
+
+msgid "January 01, 2025"
+msgstr "January 01, 2025"
+
+msgid "Joyful"
+msgstr "Joyful"
+
+msgid "LightWhite"
+msgstr "Açık Beyaz"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+msgid "Mon 01 Jan 2025"
+msgstr "Mon 01 Jan 2025"
+
+msgid "Mon DD, YYYY (e.g. Feb 06, 2026)"
+msgstr "Mon DD, YYYY (e.g. Feb 06, 2026)"
+
+msgid "Monday, 01 01 2025"
+msgstr "Monday, 01 01 2025"
+
+msgid "Mongule"
+msgstr "Mongule"
+
+msgid "Month DD, YYYY (e.g. February 06, 2026)"
+msgstr "Month DD, YYYY (e.g. February 06, 2026)"
+
+msgid "Nexa"
+msgstr "Nexa"
+
+msgid "Oily"
+msgstr "Zeytin"
+
+msgid "Orange"
+msgstr "Turuncu"
+
+msgid "Pink"
+msgstr "Pembe"
+
+msgid "Poetsen_One "
+msgstr "Poetsen - One "
+
+msgid "Red"
+msgstr "Kırmızı"
+
+msgid "Restart GUI now?"
+msgstr "Arayüz şimdi yeniden başlatılsın mı?"
+
+msgid "SecondInfobar Style:"
+msgstr "İkinci bilgi çubuğu stili (Second Infobar):"
+
+msgid "SecondInfobar2_NO_Posters"
+msgstr "SecondInfobar2_NO_Posters"
+
+msgid "SecondInfobar2_Posters"
+msgstr "SecondInfobar2_Poster"
+
+msgid "SecondInfobar3_NO_Posters"
+msgstr "SecondInfobar3_NO_Poster"
+
+msgid "SecondInfobar3_Posters"
+msgstr "SecondInfobar3_Poster"
+
+msgid "SecondInfobar4_NO_Posters"
+msgstr "SecondInfobar4_NO_Posters"
+
+msgid "SecondInfobar4_Posters"
+msgstr "SecondInfobar4_Poster"
+
+msgid "SecondInfobar5_Signal"
+msgstr "SecondInfobar5_Sinyal güçlendirici"
+
+msgid "SecondInfobar_NO_Posters"
+msgstr "SecondInfobar_NO_Poster"
+
+msgid "SecondInfobar_Posters"
+msgstr "SecondInfobar_Poster"
+
+msgid "Select Your Font:"
+msgstr "Yazı tipi seç:"
+
+msgid "Server version:"
+msgstr "Sunucu sürümü:"
+
+msgid "Setup Fury for Fury-FHD v.%s"
+msgstr "Fury, Fury-FHD sürüm %s için ayarlanıyor"
+
+msgid "Skin Style:"
+msgstr "Skin stili:"
+
+msgid "Tenada"
+msgstr "Tenada"
+
+msgid "The update is available!\\n\\nDo you want to run the update now?"
+msgstr "Güncelleme mevcut!\\n\\nGüncellemeyi şimdi çalıştırmak istiyor musunuz?"
+
+msgid "Time Format:"
+msgstr "Saat biçimi:"
+
+msgid "Tommy "
+msgstr "Tommy "
+
+msgid "Transparency:"
+msgstr "Saydamlık:"
+
+msgid "Update failed. Please check %s"
+msgstr "Güncelleme başarısız. Lütfen %s dosyasını kontrol edin"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Version installed:"
+msgstr "Yüklü sürüm:"
+
+msgid "volume2"
+msgstr "Ses seviyesi 2"
+
+msgid "volume3"
+msgstr "Ses seviyesi 3"
+
+msgid "volume4"
+msgstr "Ses seviyesi 4"
+
+msgid "VolumeBar Style:"
+msgstr "Ses çubuğu stili:"
+
+msgid "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+msgstr "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+
+msgid "Yellow"
+msgstr "Sarı"
+
+msgid "You have the current version Fury!"
+msgstr "Fury’nin en son sürümüne sahipsiniz!"
+
+msgid "You have version %s!!!"
+msgstr "%s sürümüne sahipsiniz!!!"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "Zero"
+msgstr "Saydamlık yok (0%)"
+
+msgid "~10%"
+msgstr "Yaklaşık %10"
+
+msgid "~15%"
+msgstr "Yaklaşık %15"
+
+msgid "~20%"
+msgstr "Yaklaşık %20"
+
+msgid "~25%"
+msgstr "Yaklaşık %25"
+
+msgid "~30%"
+msgstr "Yaklaşık %30"
+
+msgid "~35%"
+msgstr "Yaklaşık %35"
+
+msgid "~40%"
+msgstr "Yaklaşık %40"
+
+msgid "~45%"
+msgstr "Yaklaşık %45"
+
+msgid "~5%"
+msgstr "Yaklaşık %5"
+
+msgid "~50%"
+msgstr "Yaklaşık %50"

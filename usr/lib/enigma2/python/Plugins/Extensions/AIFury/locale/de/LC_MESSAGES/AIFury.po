@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-05 19:49+0000\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "AIFury Info"
+msgstr "AIFury-Info"
+
+msgid "AIFury Setup"
+msgstr "AIFury-Einstellungen"
+
+msgid "AIFury controller is not initialized."
+msgstr "AIFury-Controller ist nicht initialisiert."
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Übersetztes EPG beim Zappen automatisch wiederherstellen"
+
+msgid "Auto translate EPG in background"
+msgstr "EPG im Hintergrund automatisch übersetzen"
+
+msgid "Auto translate horizon"
+msgstr "Automatische Übersetzungsreichweite"
+
+msgid "Auto translate max events"
+msgstr "Max. Ereignisse auto"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Min. Abstand auto (Minuten)"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Bouquet ist leer/ungültig."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "EPG-Übersetzung kann nicht gestartet werden: %s"
+
+msgid "Clear caches only"
+msgstr "Nur Caches leeren"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Controller nicht bereit, Cache kann nicht geleert werden."
+
+msgid "Done notification timeout"
+msgstr "Anzeigezeit der Fertig-Benachrichtigung"
+
+msgid "EPG path"
+msgstr "EPG-Pfad"
+
+msgid "EPG title language"
+msgstr "EPG-Titelsprache"
+
+msgid "Enable Translate"
+msgstr "Übersetzung aktivieren"
+
+msgid "Enable Translate Current Event"
+msgstr "Übersetzung des aktuellen Ereignisses aktivieren"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "Fehler beim Leeren des Caches:\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "Fehler beim Öffnen des Info-Bildschirms:\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "Ereignisse: %s  Übersetzt: %s  Importiert: %s\\nFehler T/S/L: %s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "Importfehler: %s"
+
+msgid "Imported in background: %d"
+msgstr "Im Hintergrund importiert: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "In RAM importiert: %d"
+
+msgid "Imported: %s"
+msgstr "Importiert: %s"
+
+msgid "Main path"
+msgstr "Hauptpfad"
+
+msgid "Min request interval (ms)"
+msgstr "Min. Anfrageintervall (ms)"
+
+msgid "Network timeout (sec)"
+msgstr "Netzwerk-Timeout (Sek.)"
+
+msgid "No bouquets found."
+msgstr "Keine Bouquets gefunden."
+
+msgid "No current service is available."
+msgstr "Kein aktueller Service verfügbar."
+
+msgid "No playable services found in: %s"
+msgstr "Keine abspielbaren Services gefunden in: %s"
+
+msgid "No services found in Favourites bouquet."
+msgstr "Keine Services im Favoriten-Bouquet gefunden."
+
+msgid "Notify translation end"
+msgstr "Bei Übersetzungsende benachrichtigen"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Option wählen | Grün = Speichern | Gelb = Cache leeren | Blau = Statistik | Rot/EXIT = Abbrechen"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Auswählen | EXIT = Abbrechen"
+
+msgid "Periodic restore interval"
+msgstr "Intervall für periodische Wiederherstellung"
+
+msgid "Preparing..."
+msgstr "Vorbereitung..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Zurücksetzen: Standards + Caches"
+
+msgid "Reset: Defaults only"
+msgstr "Zurücksetzen: nur Standards"
+
+msgid "Retry count"
+msgstr "Anzahl Wiederholungen"
+
+msgid "Select EPG title/description language first."
+msgstr "Bitte zuerst EPG-Titel/Beschreibungssprache wählen."
+
+msgid "Select EPG translations cache directory"
+msgstr "Cache-Verzeichnis für EPG-Übersetzungen wählen"
+
+msgid "Select bouquet to translate"
+msgstr "Bouquet zum Übersetzen auswählen"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Bouquet zum Übersetzen auswählen (Hintergrund)"
+
+msgid "Select cache directory"
+msgstr "Cache-Verzeichnis auswählen"
+
+msgid "Select cache to clear"
+msgstr "Cache zum Leeren auswählen"
+
+msgid "Select translation language"
+msgstr "Übersetzungssprache auswählen"
+
+msgid "Select value"
+msgstr "Wert auswählen"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Übersprungen (leeres EPG): %s"
+
+msgid "Skipped: %s"
+msgstr "Übersprungen: %s"
+
+msgid "Total events: %s"
+msgstr "Gesamtanzahl Ereignisse: %s"
+
+msgid "Translate Bouquet"
+msgstr "Bouquet übersetzen"
+
+msgid "Translate Current Channel EPG"
+msgstr "Aktuelles Kanal-EPG übersetzen"
+
+msgid "Translate Current Event"
+msgstr "Aktuelles Ereignis übersetzen"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "„Aktuelles Ereignis übersetzen“ ist in den Einstellungen deaktiviert."
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Bouquet übersetzen (aus Liste wählen)"
+
+msgid "Translate bouquet in background"
+msgstr "Bouquet im Hintergrund übersetzen"
+
+msgid "Translated Event Cache: %d"
+msgstr "Cache übersetzter Ereignisse: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Übersetzte Ereignisse im Bouquet: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Übersetzte Ereignisse im Cache: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Übersetzte Ereignisse im Cache: (Controller nicht bereit)"
+
+msgid "Translated in Background: %d"
+msgstr "Im Hintergrund übersetzt: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Im Bouquet übersetzt: %d"
+
+msgid "Translated in background: %d"
+msgstr "Im Hintergrund übersetzt: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Übersetzt: %d | Übersprungen: %d"
+
+msgid "Translated: %s"
+msgstr "Übersetzt: %s"
+
+msgid "Translation language"
+msgstr "Übersetzungssprache"
+
+msgid "Worker threads"
+msgstr "Worker-Threads"
+
+msgid "\\nImport error: %s"
+msgstr "\\nImportfehler: %s"

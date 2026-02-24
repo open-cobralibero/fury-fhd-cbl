@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-06 08:34+0200\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "AIFury Info"
+msgstr "Информация AIFury"
+
+msgid "AIFury Setup"
+msgstr "Настройка AIFury"
+
+msgid "AIFury controller is not initialized."
+msgstr "Контроллер AIFury не инициализирован."
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Автовосстановление переведённого EPG при переключении"
+
+msgid "Auto translate EPG in background"
+msgstr "Автоперевод EPG в фоне"
+
+msgid "Auto translate horizon"
+msgstr "Горизонт автоперевода"
+
+msgid "Auto translate max events"
+msgstr "Максимум событий для автоперевода"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Мин. интервал автоперевода (минуты)"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Букет пустой/недействителен."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Не удалось запустить перевод EPG: %s"
+
+msgid "Clear caches only"
+msgstr "Очистить только кэш"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Контроллер не готов, очистка кэша невозможна."
+
+msgid "Done notification timeout"
+msgstr "Тайм-аут уведомления о завершении"
+
+msgid "EPG path"
+msgstr "Путь к EPG"
+
+msgid "EPG title language"
+msgstr "Язык заголовка EPG"
+
+msgid "Enable Translate"
+msgstr "Включить перевод"
+
+msgid "Enable Translate Current Event"
+msgstr "Включить перевод текущего события"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "Ошибка очистки кэша:\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "Ошибка открытия экрана информации:\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "События: %s  Переведено: %s  Импортировано: %s\\nОшибки T/S/L: %s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "Ошибка импорта: %s"
+
+msgid "Imported in background: %d"
+msgstr "Импортировано в фоне: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "Импортировано в ОЗУ: %d"
+
+msgid "Imported: %s"
+msgstr "Импортировано: %s"
+
+msgid "Main path"
+msgstr "Основной путь"
+
+msgid "Min request interval (ms)"
+msgstr "Мин. интервал запросов (мс)"
+
+msgid "Network timeout (sec)"
+msgstr "Тайм-аут сети (сек)"
+
+msgid "No bouquets found."
+msgstr "Букеты не найдены."
+
+msgid "No current service is available."
+msgstr "Текущая служба недоступна."
+
+msgid "No playable services found in: %s"
+msgstr "В %s не найдено воспроизводимых сервисов."
+
+msgid "No services found in Favourites bouquet."
+msgstr "В букете Избранное сервисы не найдены."
+
+msgid "Notify translation end"
+msgstr "Уведомлять об окончании перевода"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Выбрать опцию   |   Зелёная = Сохранить   |   Жёлтая = Очистить кэш   |   Синяя = Статистика   |   Красная/EXIT = Отмена"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Выбрать   |   EXIT = Отмена"
+
+msgid "Periodic restore interval"
+msgstr "Интервал периодического восстановления"
+
+msgid "Preparing..."
+msgstr "Подготовка..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Сброс: по умолчанию + кэши"
+
+msgid "Reset: Defaults only"
+msgstr "Сброс: только по умолчанию"
+
+msgid "Retry count"
+msgstr "Количество повторов"
+
+msgid "Select EPG title/description language first."
+msgstr "Сначала выберите язык заголовка/описания EPG."
+
+msgid "Select EPG translations cache directory"
+msgstr "Выберите каталог кэша переводов EPG"
+
+msgid "Select bouquet to translate"
+msgstr "Выберите букет для перевода"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Выберите букет для перевода (в фоне)"
+
+msgid "Select cache directory"
+msgstr "Выберите каталог кэша"
+
+msgid "Select cache to clear"
+msgstr "Выберите кэш для очистки"
+
+msgid "Select translation language"
+msgstr "Выберите язык перевода"
+
+msgid "Select value"
+msgstr "Выберите значение"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Пропущено (пустой EPG): %s"
+
+msgid "Skipped: %s"
+msgstr "Пропущено: %s"
+
+msgid "Total events: %s"
+msgstr "Всего событий: %s"
+
+msgid "Translate Bouquet"
+msgstr "Перевести букет"
+
+msgid "Translate Current Channel EPG"
+msgstr "Перевести EPG текущего канала"
+
+msgid "Translate Current Event"
+msgstr "Перевести текущее событие"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "Перевод текущего события отключён в настройках."
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Перевести букет (выберите из списка)"
+
+msgid "Translate bouquet in background"
+msgstr "Перевести букет в фоне"
+
+msgid "Translated Event Cache: %d"
+msgstr "Кэш переведённых событий: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Переведённых событий в букете: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Переведённых событий в кэше: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Переведённых событий в кэше: (контроллер не готов)"
+
+msgid "Translated in Background: %d"
+msgstr "Переведено в фоне: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Переведено в букете: %d"
+
+msgid "Translated in background: %d"
+msgstr "Переведено в фоне: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Переведено: %d   |   Пропущено: %d"
+
+msgid "Translated: %s"
+msgstr "Переведено: %s"
+
+msgid "Translation language"
+msgstr "Язык перевода"
+
+msgid "Worker threads"
+msgstr "Потоки-работники"
+
+msgid "\\nImport error: %s"
+msgstr "\\nОшибка импорта: %s"

@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'Removing package : Fury ...' 
+exit 0

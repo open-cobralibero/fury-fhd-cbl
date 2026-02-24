@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-05 19:49+0000\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "AIFury Info"
+msgstr "AIFury 情報"
+
+msgid "AIFury Setup"
+msgstr "AIFury 設定"
+
+msgid "AIFury controller is not initialized."
+msgstr "AIFury コントローラが初期化されていません。"
+
+msgid "Auto restore translated EPG on zap"
+msgstr "チャンネル切替時に翻訳EPGを自動復元"
+
+msgid "Auto translate EPG in background"
+msgstr "バックグラウンドでEPGを自動翻訳"
+
+msgid "Auto translate horizon"
+msgstr "自動翻訳の範囲"
+
+msgid "Auto translate max events"
+msgstr "自動翻訳の最大イベント数"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "自動翻訳の最小間隔（分）"
+
+msgid "Bouquet is empty/invalid."
+msgstr "ブーケが空/無効です。"
+
+msgid "Cannot start EPG translation: %s"
+msgstr "EPG翻訳を開始できません：%s"
+
+msgid "Clear caches only"
+msgstr "キャッシュのみ削除"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "コントローラ未準備のため、キャッシュを削除できません。"
+
+msgid "Done notification timeout"
+msgstr "完了通知の表示時間"
+
+msgid "EPG path"
+msgstr "EPGパス"
+
+msgid "EPG title language"
+msgstr "EPGタイトル言語"
+
+msgid "Enable Translate"
+msgstr "翻訳を有効化"
+
+msgid "Enable Translate Current Event"
+msgstr "現在の番組翻訳を有効化"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "キャッシュ削除エラー：\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "情報画面のオープンエラー：\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "イベント：%s  翻訳：%s  インポート：%s\\nエラー T/S/L：%s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "インポートエラー：%s"
+
+msgid "Imported in background: %d"
+msgstr "バックグラウンドでインポート：%d"
+
+msgid "Imported to RAM: %d"
+msgstr "RAMにインポート：%d"
+
+msgid "Imported: %s"
+msgstr "インポート済み：%s"
+
+msgid "Main path"
+msgstr "メインパス"
+
+msgid "Min request interval (ms)"
+msgstr "最小リクエスト間隔（ms）"
+
+msgid "Network timeout (sec)"
+msgstr "ネットワークタイムアウト（秒）"
+
+msgid "No bouquets found."
+msgstr "ブーケが見つかりません。"
+
+msgid "No current service is available."
+msgstr "現在のサービスが利用できません。"
+
+msgid "No playable services found in: %s"
+msgstr "再生可能なサービスが見つかりません：%s"
+
+msgid "No services found in Favourites bouquet."
+msgstr "お気に入りブーケにサービスが見つかりません。"
+
+msgid "Notify translation end"
+msgstr "翻訳終了を通知"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = 選択 | 緑 = 保存 | 黄 = キャッシュ削除 | 青 = 統計 | 赤/EXIT = キャンセル"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = 選択 | EXIT = キャンセル"
+
+msgid "Periodic restore interval"
+msgstr "定期復元間隔"
+
+msgid "Preparing..."
+msgstr "準備中..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "リセット：既定値 + キャッシュ"
+
+msgid "Reset: Defaults only"
+msgstr "リセット：既定値のみ"
+
+msgid "Retry count"
+msgstr "再試行回数"
+
+msgid "Select EPG title/description language first."
+msgstr "先にEPGタイトル/説明の言語を選択してください。"
+
+msgid "Select EPG translations cache directory"
+msgstr "EPG翻訳キャッシュフォルダーを選択"
+
+msgid "Select bouquet to translate"
+msgstr "翻訳するブーケを選択"
+
+msgid "Select bouquet to translate (background)"
+msgstr "翻訳するブーケを選択（バックグラウンド）"
+
+msgid "Select cache directory"
+msgstr "キャッシュフォルダーを選択"
+
+msgid "Select cache to clear"
+msgstr "削除するキャッシュを選択"
+
+msgid "Select translation language"
+msgstr "翻訳言語を選択"
+
+msgid "Select value"
+msgstr "値を選択"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "スキップ（EPGなし）：%s"
+
+msgid "Skipped: %s"
+msgstr "スキップ：%s"
+
+msgid "Total events: %s"
+msgstr "総イベント数：%s"
+
+msgid "Translate Bouquet"
+msgstr "ブーケを翻訳"
+
+msgid "Translate Current Channel EPG"
+msgstr "現在のチャンネルのEPGを翻訳"
+
+msgid "Translate Current Event"
+msgstr "現在の番組を翻訳"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "「現在の番組の翻訳」は設定で無効になっています。"
+
+msgid "Translate bouquet (choose from list)"
+msgstr "ブーケを翻訳（リストから選択）"
+
+msgid "Translate bouquet in background"
+msgstr "バックグラウンドでブーケを翻訳"
+
+msgid "Translated Event Cache: %d"
+msgstr "翻訳イベントキャッシュ：%d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "ブーケ内の翻訳済みイベント：%d"
+
+msgid "Translated events in cache: %d"
+msgstr "キャッシュ内の翻訳済みイベント：%d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "キャッシュ内の翻訳済みイベント：（コントローラ未準備）"
+
+msgid "Translated in Background: %d"
+msgstr "バックグラウンドで翻訳：%d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "ブーケで翻訳：%d"
+
+msgid "Translated in background: %d"
+msgstr "バックグラウンドで翻訳：%d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "翻訳：%d | スキップ：%d"
+
+msgid "Translated: %s"
+msgstr "翻訳済み：%s"
+
+msgid "Translation language"
+msgstr "翻訳言語"
+
+msgid "Worker threads"
+msgstr "ワーカースレッド"
+
+msgid "\\nImport error: %s"
+msgstr "\\nインポートエラー：%s"

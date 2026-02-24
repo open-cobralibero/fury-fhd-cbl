@@ -1,0 +1,730 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury\n"
+"POT-Creation-Date: 2026-02-06 08:04+0000\n"
+"PO-Revision-Date: 2026-02-13 05:55+0200\n"
+"Language-Team: Croatian\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+
+msgid "10 minutes"
+msgstr "10 minuta"
+
+msgid "10 seconds"
+msgstr "10 sekundi"
+
+msgid "12 hours"
+msgstr "12 sati"
+
+msgid "15 seconds"
+msgstr "15 sekundi"
+
+msgid "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+msgstr "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+
+msgid "2 minutes"
+msgstr "2 minute"
+
+msgid "20 seconds"
+msgstr "20 sekundi"
+
+msgid "24 hours"
+msgstr "24 sata"
+
+msgid "3 hours"
+msgstr "3 sata"
+
+msgid "3 minutes"
+msgstr "3 minute"
+
+msgid "3 seconds"
+msgstr "3 sekunde"
+
+msgid "30 seconds"
+msgstr "30 sekundi"
+
+msgid "48 hours"
+msgstr "48 sati"
+
+msgid "5 minutes"
+msgstr "5 minuta"
+
+msgid "5 seconds"
+msgstr "5 sekundi"
+
+msgid "6 hours"
+msgstr "6 sati"
+
+msgid "60 seconds"
+msgstr "60 sekundi"
+
+msgid "7 days"
+msgstr "7 dana"
+
+msgid "8 seconds"
+msgstr "8 sekundi"
+
+msgid "90 seconds"
+msgstr "90 sekundi"
+
+msgid "Accumulate stats for background auto-translate runs."
+msgstr "Prikupljaj statistiku za pozadinske automatske prijevode."
+
+msgid "AIFury - EPG Translation Stats"
+msgstr "AIFury - Statistika prijevoda EPG-a"
+
+msgid "AIFury - EPGTranslation"
+msgstr "AIFury - Prijevod EPG-a"
+
+msgid "AIFury - translation control"
+msgstr "AIFury - upravljanje prijevodom"
+
+msgid "AIFury controller is not initialized."
+msgstr "AIFury kontroler nije inicijaliziran."
+
+msgid "AIFury Info"
+msgstr "AIFury informacije"
+
+msgid "AIFury Setup"
+msgstr "AIFury postavke"
+
+msgid "aifury-cache"
+msgstr "aifury-cache"
+
+msgid "aifury-epg-cache"
+msgstr "aifury-epg-cache"
+
+msgid "Albanian (Shqip)"
+msgstr "Albanski (Shqip)"
+
+msgid "Arabic"
+msgstr "Arapski"
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Automatski vrati prevedeni EPG pri promjeni kanala"
+
+msgid "Auto translate EPG in background"
+msgstr "Automatski prevodi EPG u pozadini"
+
+msgid "Auto translate EPG in background: %s"
+msgstr "Automatski prevodi EPG u pozadini: %s"
+
+msgid "Auto translate horizon"
+msgstr "Horizont automatskog prijevoda"
+
+msgid "Auto translate max events"
+msgstr "Maks. događaja za automatski prijevod"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Min. razmak za automatski prijevod (minute)"
+
+msgid "auto_translate_epg error: %s"
+msgstr "greška auto_translate_epg: %s"
+
+msgid "Background runs: %d"
+msgstr "Pozadinska pokretanja: %d"
+
+msgid "Belgium"
+msgstr "Belgija"
+
+msgid "bg job error: %s"
+msgstr "greška pozadinskog posla: %s"
+
+msgid "Bosnian (Bosanski)"
+msgstr "Bosanski (Bosanski)"
+
+msgid "Bouquet (package): %s"
+msgstr "Bukét (paket): %s"
+
+msgid "Bouquet (package): Not selected yet"
+msgstr "Bukét (paket): Još nije odabran"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Bukét je prazan/neispravan."
+
+msgid "Bouquet services: %d"
+msgstr "Usluge u buketu: %d"
+
+msgid "Bouquet translation already running in background: %s"
+msgstr "Prijevod buketa već radi u pozadini: %s"
+
+msgid "Bouquet: %s"
+msgstr "Bukét: %s"
+
+msgid "Bulgarian (Български)"
+msgstr "Bugarski (Български)"
+
+msgid "cache cleared"
+msgstr "predmemorija očišćena"
+
+msgid "Cache cleared successfully."
+msgstr "Predmemorija uspješno očišćena."
+
+msgid "cache loaded: %s (%d items)"
+msgstr "predmemorija učitana: %s (%d stavki)"
+
+msgid "cache saved: %s (%d items)"
+msgstr "predmemorija spremljena: %s (%d stavki)"
+
+msgid "Cached-only fast path for a specific language; warms cache asynchronously if missing."
+msgstr "Brzi put samo iz predmemorije za određeni jezik; ako nedostaje, zagrijava predmemoriju asinkrono."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Nije moguće pokrenuti prijevod EPG-a: %s"
+
+msgid "Chinese (中文)"
+msgstr "Kineski (中文)"
+
+msgid "ChoiceBox callback for background bouquet translation."
+msgstr "ChoiceBox povratni poziv za pozadinski prijevod buketa."
+
+msgid "Clear AIFury caches"
+msgstr "Očisti AIFury predmemorije"
+
+msgid "Clear aifury_cache (main cache)"
+msgstr "Očisti aifury_cache (glavna predmemorija)"
+
+msgid "Clear aifury_epg_cache (EPG translations cache)"
+msgstr "Očisti aifury_epg_cache (predmemorija prijevoda EPG-a)"
+
+msgid "Clear both caches"
+msgstr "Očisti obje predmemorije"
+
+msgid "Clear caches only"
+msgstr "Očisti samo predmemorije"
+
+msgid "Controller initialized. cache=%s log=%s"
+msgstr "Kontroler inicijaliziran. cache=%s log=%s"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Kontroler nije spreman, ne mogu očistiti predmemoriju."
+
+msgid "Count unique cached translated events across relevant language keys."
+msgstr "Prebroji jedinstvene prevedene događaje u predmemoriji kroz relevantne jezične ključeve."
+
+msgid "Croatian (Hrvatski)"
+msgstr "Hrvatski"
+
+msgid "Czech (Čeština)"
+msgstr "Češki (Čeština)"
+
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+msgid "Done notification timeout"
+msgstr "Vremensko ograničenje obavijesti o završetku"
+
+msgid "empty EPG"
+msgstr "prazan EPG"
+
+msgid "empty translation"
+msgstr "prazan prijevod"
+
+msgid "Enable Translate"
+msgstr "Omogući prijevod"
+
+msgid "Enable Translate Current Event"
+msgstr "Omogući prijevod trenutnog događaja"
+
+msgid "Enabled"
+msgstr "Omogućeno"
+
+msgid "English"
+msgstr "Engleski"
+
+msgid "epg"
+msgstr "EPG"
+
+msgid "EPG descr language : %s"
+msgstr "Jezik opisa EPG-a: %s"
+
+msgid "EPG description language"
+msgstr "Jezik opisa EPG-a"
+
+msgid "EPG import error: %s"
+msgstr "Greška u uvozu EPG-a: %s"
+
+msgid "EPG import functions are not available on this image"
+msgstr "Funkcije uvoza EPG-a nisu dostupne na ovoj slici"
+
+msgid "EPG import: %s"
+msgstr "Uvoz EPG-a: %s"
+
+msgid "EPG path"
+msgstr "Putanja EPG-a"
+
+msgid "EPG read error: %s"
+msgstr "Greška pri čitanju EPG-a: %s"
+
+msgid "EPG read: %s"
+msgstr "Čitanje EPG-a: %s"
+
+msgid "EPG title language"
+msgstr "Jezik naslova EPG-a"
+
+msgid "EPG title language : %s"
+msgstr "Jezik naslova EPG-a: %s"
+
+msgid "EPG Title Language: %s"
+msgstr "Jezik naslova EPG-a: %s"
+
+msgid "EPG translation language: Disabled"
+msgstr "Jezik prijevoda EPG-a: Onemogućeno"
+
+msgid "epg_cache_put_events error: %s"
+msgstr "greška epg_cache_put_events: %s"
+
+msgid "EPGCache is not available on this image"
+msgstr "EPGCache nije dostupan na ovoj slici"
+
+msgid "EpgFury v.%s"
+msgstr "EpgFury v.%s"
+
+msgid "EPGSelection debounce fire error: %s"
+msgstr "Greška EPGSelection debounce fire: %s"
+
+msgid "Error building stats"
+msgstr "Greška pri izradi statistike"
+
+msgid "Error clearing cache"
+msgstr "Greška pri čišćenju predmemorije"
+
+msgid "Error opening info screen"
+msgstr "Greška pri otvaranju info zaslona"
+
+msgid "Errors - Title: %d   Short: %d   Long: %d"
+msgstr "Greške - Naslov: %d   Kratko: %d   Dugo: %d"
+
+msgid "Errors - Title: %s  Short: %s  Long: %s"
+msgstr "Greške - Naslov: %s  Kratko: %s  Dugo: %s"
+
+msgid "Errors: %s"
+msgstr "Greške: %s"
+
+msgid "Events translated: %s"
+msgstr "Prevedeni događaji: %s"
+
+msgid "EXIT = Cancel"
+msgstr "EXIT = Odustani"
+
+msgid "EXIT = Cancel (stops UI only)"
+msgstr "EXIT = Odustani (zaustavlja samo UI)"
+
+msgid "Failed to start background bouquet translation."
+msgstr "Neuspješno pokretanje pozadinskog prijevoda buketa."
+
+msgid "Finished translating bouquet."
+msgstr "Završen prijevod buketa."
+
+msgid "Finnish (Suomi)"
+msgstr "Finski (Suomi)"
+
+msgid "French"
+msgstr "Francuski"
+
+msgid "German"
+msgstr "Njemački"
+
+msgid "Greek (Ελληνικά)"
+msgstr "Grčki (Ελληνικά)"
+
+msgid "Hindi (हिन्दी)"
+msgstr "Hindski (हिन्दी)"
+
+msgid "Hungarian (Magyar)"
+msgstr "Mađarski (Magyar)"
+
+msgid "Import error: %s"
+msgstr "Greška u uvozu: %s"
+
+msgid "Import ORIGINAL EPG texts for a service (if saved) back into eEPGCache (RAM)."
+msgstr "Uvezi IZVORNE EPG tekstove za uslugu (ako su spremljeni) natrag u eEPGCache (RAM)."
+
+msgid "Imported in background: %d"
+msgstr "Uvezeno u pozadini: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "Uvezeno u RAM: %d"
+
+msgid "Imported: %s"
+msgstr "Uvezeno: %s"
+
+msgid "Indonesian (Bahasa Indonesia)"
+msgstr "Indonezijski (Bahasa Indonesia)"
+
+msgid "Italian"
+msgstr "Talijanski"
+
+msgid "Japanese (日本語)"
+msgstr "Japanski (日本語)"
+
+msgid "Korean (한국어)"
+msgstr "Korejski (한국어)"
+
+msgid "Last background run: %s"
+msgstr "Zadnje pozadinsko pokretanje: %s"
+
+msgid "Last service: %s"
+msgstr "Zadnja usluga: %s"
+
+msgid "Main path"
+msgstr "Glavna putanja"
+
+msgid "Min request interval (ms)"
+msgstr "Min. interval zahtjeva (ms)"
+
+msgid "Nederlands"
+msgstr "Nizozemski"
+
+msgid "Network timeout (sec)"
+msgstr "Mrežno vremensko ograničenje (sek)"
+
+msgid "No bouquets found."
+msgstr "Nisu pronađeni buketi."
+
+msgid "no cache file, created: %s"
+msgstr "nema datoteke predmemorije, stvorena: %s"
+
+msgid "No current service is available."
+msgstr "Nema dostupne trenutne usluge."
+
+msgid "No EPG translation language selected"
+msgstr "Nije odabran jezik prijevoda EPG-a"
+
+msgid "no path"
+msgstr "nema putanje"
+
+msgid "No playable services found in: %s"
+msgstr "Nema reprodukcijskih usluga u: %s"
+
+msgid "No services found in bouquet."
+msgstr "Nema usluga u buketu."
+
+msgid "No services found in Favourites bouquet."
+msgstr "Nema usluga u buketu Favoriti."
+
+msgid "Norwegian (Norsk)"
+msgstr "Norveški (Norsk)"
+
+msgid "Not selected yet"
+msgstr "Još nije odabrano"
+
+msgid "Notify translation end"
+msgstr "Obavijesti kraj prijevoda"
+
+msgid "Off"
+msgstr "Isključeno"
+
+msgid "OK / EXIT = Close"
+msgstr "OK / EXIT = Zatvori"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Odaberi opciju   |   Zeleno = Spremi   |   Žuto = Očisti predmemoriju   |   Plavo = Statistika   |   Crveno/EXIT = Odustani"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Odaberi   |   EXIT = Odustani"
+
+msgid "Periodic restore interval"
+msgstr "Interval periodičnog vraćanja"
+
+msgid "Periodically re-apply translated EPG for the currently playing service."
+msgstr "Periodično ponovno primijeni prevedeni EPG za trenutno reproduciranu uslugu."
+
+msgid "Persian/Farsi (فارسی)"
+msgstr "Perzijski/Farsi (فارسی)"
+
+msgid "Persist ORIGINAL (provider) EPG texts for events we translated, so we can revert later."
+msgstr "Spremi IZVORNE (pružatelj) EPG tekstove za događaje koje smo preveli, kako bismo ih kasnije mogli vratiti."
+
+msgid "Persist translated EPG events for a service so they survive channel zapping."
+msgstr "Spremi prevedene EPG događaje za uslugu kako bi preživjeli promjenu kanala."
+
+msgid "Polish (Polski)"
+msgstr "Poljski (Polski)"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugalski (Brazil)"
+
+msgid "Portuguese (Português)"
+msgstr "Portugalski (Português)"
+
+msgid "Preparing..."
+msgstr "Priprema..."
+
+msgid "Read periodic keep-restore interval from config (seconds) and return milliseconds."
+msgstr "Pročitaj periodični interval čuvanja/vraćanja iz konfiguracije (sekunde) i vrati milisekunde."
+
+msgid "Remove AIFury cache files (best-effort)."
+msgstr "Ukloni AIFury datoteke predmemorije (najbolji pokušaj)."
+
+msgid "Reset AIFury settings to defaults"
+msgstr "Vrati AIFury postavke na zadane"
+
+msgid "Reset ONLY AIFury plugin config to defaults and persist."
+msgstr "Vrati SAMO konfiguraciju AIFury dodatka na zadane i spremi."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Reset: Zadano + predmemorije"
+
+msgid "Reset: Defaults only"
+msgstr "Reset: Samo zadano"
+
+msgid "Restart Enigma2 GUI only."
+msgstr "Ponovno pokreni samo Enigma2 GUI."
+
+msgid "Restart GUI (Enigma2)"
+msgstr "Ponovno pokreni GUI (Enigma2)"
+
+msgid "Retry count"
+msgstr "Broj ponovnih pokušaja"
+
+msgid "Return a best-effort service name for a ref string."
+msgstr "Vrati naziv usluge (najbolji pokušaj) za ref string."
+
+msgid "Return a copy of current background auto-translate stats."
+msgstr "Vrati kopiju trenutne statistike pozadinskog automatskog prijevoda."
+
+msgid "Return a list of playable service ref strings inside a bouquet."
+msgstr "Vrati popis ref stringova reprodukcijskih usluga unutar buketa."
+
+msgid "Return cached translation immediately; if not cached, warm cache asynchronously and return original text."
+msgstr "Odmah vrati prijevod iz predmemorije; ako nije u predmemoriji, zagrij predmemoriju asinkrono i vrati izvorni tekst."
+
+msgid "Return default cache file path based on available mount points."
+msgstr "Vrati zadanu putanju datoteke predmemorije na temelju dostupnih točaka montiranja."
+
+msgid "Romanian (Română)"
+msgstr "Rumunjski (Română)"
+
+msgid "Romansh (Rumantsch)"
+msgstr "Retoromanski (Rumantsch)"
+
+msgid "Russian"
+msgstr "Ruski"
+
+msgid "Schedule background EPG translation for a service after zapping or after settings changes."
+msgstr "Zakaži pozadinski prijevod EPG-a za uslugu nakon promjene kanala ili promjene postavki."
+
+msgid "Schedule restoring translated EPG for a service shortly after zapping."
+msgstr "Zakaži vraćanje prevedenog EPG-a za uslugu ubrzo nakon promjene kanala."
+
+msgid "Select bouquet to translate"
+msgstr "Odaberi buket za prijevod"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Odaberi buket za prijevod (pozadina)"
+
+msgid "Select cache directory"
+msgstr "Odaberi direktorij predmemorije"
+
+msgid "Select cache to clear"
+msgstr "Odaberi predmemoriju za čišćenje"
+
+msgid "Select EPG title/description language first."
+msgstr "Najprije odaberite jezik naslova/opisa EPG-a."
+
+msgid "Select EPG translations cache directory"
+msgstr "Odaberi direktorij predmemorije prijevoda EPG-a"
+
+msgid "Select translation language"
+msgstr "Odaberi jezik prijevoda"
+
+msgid "Select value"
+msgstr "Odaberi vrijednost"
+
+msgid "Selected bouquet"
+msgstr "Odabrani buket"
+
+msgid "Serbian (Srpski/Српски)"
+msgstr "Srpski (Srpski/Српски)"
+
+msgid "Services processed: %s"
+msgstr "Usluge obrađene: %s"
+
+msgid "Services: %s"
+msgstr "Usluge: %s"
+
+msgid "Set a default log file path for this module (optional)."
+msgstr "Postavi zadanu putanju log datoteke za ovaj modul (neobavezno)."
+
+msgid "Set a minimum delay between translation requests (module-global)."
+msgstr "Postavi minimalno kašnjenje između zahtjeva za prijevod (globalno za modul)."
+
+msgid "Settings saved."
+msgstr "Postavke spremljene."
+
+msgid "Show available TV bouquets, then start translating the selected bouquet in background."
+msgstr "Prikaži dostupne TV bukete, zatim pokreni prijevod odabranog buketa u pozadini."
+
+msgid "Show available TV bouquets, then translate the selected bouquet."
+msgstr "Prikaži dostupne TV bukete, zatim prevedi odabrani buket."
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Preskočeno (prazan EPG): %s"
+
+msgid "Slovak (Slovenčina)"
+msgstr "Slovački (Slovenčina)"
+
+msgid "Slovenian (Slovenščina)"
+msgstr "Slovenski (Slovenščina)"
+
+msgid "Spanish"
+msgstr "Španjolski"
+
+msgid "Spanish (Mexico)"
+msgstr "Španjolski (Meksiko)"
+
+msgid "Start an eTimer in a way that works across images (start(ms, True) vs start(ms))."
+msgstr "Pokreni eTimer na način koji radi na svim slikama (start(ms, True) vs start(ms))."
+
+msgid "Starting..."
+msgstr "Pokretanje..."
+
+msgid "Submit background work to pool if available, otherwise spawn a daemon thread."
+msgstr "Pošalji pozadinski posao u pool ako je dostupan, inače pokreni demon-nit."
+
+msgid "Swedish (Svenska)"
+msgstr "Švedski (Svenska)"
+
+msgid "Swiss German (Schwiizerdütsch)"
+msgstr "Švicarski njemački (Schwiizerdütsch)"
+
+msgid "System returned empty EPG list"
+msgstr "Sustav je vratio prazan popis EPG-a"
+
+msgid "Timer callback: process a few services per tick."
+msgstr "Timer povratni poziv: obradi nekoliko usluga po ticku."
+
+msgid "Translate InfoBar"
+msgstr "Prevedi InfoBar"
+
+msgid "Translate Bouquet"
+msgstr "Prevedi buket"
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Prevedi buket (odaberi s popisa)"
+
+msgid "Translate bouquet in background"
+msgstr "Prevedi buket u pozadini"
+
+msgid "Translate Bouquet: %s"
+msgstr "Prevedi buket: %s"
+
+msgid "Translate Current Channel EPG"
+msgstr "Prevedi EPG trenutnog kanala"
+
+msgid "Translate Current Event"
+msgstr "Prevedi trenutni događaj"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "Prevod trenutnog događaja je onemogućen u postavkama."
+
+msgid "Translate in background then call callback(translated_text) on UI thread."
+msgstr "Prevedi u pozadini pa pozovi callback(translated_text) na UI niti."
+
+msgid "translate provider error: %s"
+msgstr "greška prevoditelja pružatelja: %s"
+
+msgid "Translate to a specific lang in background then callback(translated_text) on UI thread."
+msgstr "Prevedi na određeni jezik u pozadini pa callback(translated_text) na UI niti."
+
+msgid "translate_async worker error: %s"
+msgstr "greška radnika translate_async: %s"
+
+msgid "translate_async_with_callback error: %s"
+msgstr "greška translate_async_with_callback: %s"
+
+msgid "translate_text internal error: %s"
+msgstr "unutarnja greška translate_text: %s"
+
+msgid "translate_to_async_with_callback error: %s"
+msgstr "greška translate_to_async_with_callback: %s"
+
+msgid "translate_to_cached_or_async worker error: %s"
+msgstr "greška radnika translate_to_cached_or_async: %s"
+
+msgid "translated (%.3fs) lang=%s text=%s"
+msgstr "prevedeno (%.3fs) lang=%s text=%s"
+
+msgid "Translated Event Cache: %d"
+msgstr "Predmemorija prevedenih događaja: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Prevedeni događaji u buketu: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Prevedeni događaji u predmemoriji: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Prevedeni događaji u predmemoriji: (kontroler nije spreman)"
+
+msgid "Translated in background: %d"
+msgstr "Prevedeno u pozadini: %d"
+
+msgid "Translated in Background: %d"
+msgstr "Prevedeno u pozadini: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Prevedeno u buketu: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Prevedeno: %d   |   Preskočeno: %d"
+
+msgid "Translated: %s"
+msgstr "Prevedeno: %s"
+
+msgid "Translation completed"
+msgstr "Prijevod dovršen"
+
+msgid "Translation language"
+msgstr "Jezik prijevoda"
+
+msgid "translation result invalid"
+msgstr "rezultat prijevoda neispravan"
+
+msgid "translation returned empty"
+msgstr "prijevod je vratio prazno"
+
+msgid "translation returned None"
+msgstr "prijevod je vratio None"
+
+msgid "Turkish"
+msgstr "Turski"
+
+msgid "Ukrainian (Українська)"
+msgstr "Ukrajinski (Українська)"
+
+msgid "Unhandled error: %s"
+msgstr "Neobrađena greška: %s"
+
+msgid "Until dismissed"
+msgstr "Dok se ne odbaci"
+
+msgid "Urdu (اردو)"
+msgstr "Urdski (اردو)"
+
+msgid "userbouquet.favourites.%s"
+msgstr "userbouquet.favourites.%s"
+
+msgid "Warm translation cache in background without blocking UI."
+msgstr "Zagrij predmemoriju prijevoda u pozadini bez blokiranja UI-a."
+
+msgid "Worker threads"
+msgstr "Radničke niti"
+
+msgid "Yield bouquet directory refs from bouquets.tv (or bouquets.radio)."
+msgstr "Daj refove direktorija buketa iz bouquets.tv (ili bouquets.radio)."
+
+msgid "Clear cache"
+msgstr "Očisti predmemoriju"
+
+msgid "Clear Cache"
+msgstr "Očisti predmemoriju"
+
+msgid "Delete cache"
+msgstr "Izbriši predmemoriju"

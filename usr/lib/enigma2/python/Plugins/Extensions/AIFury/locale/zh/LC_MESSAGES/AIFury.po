@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury\n"
+"POT-Creation-Date: 2026-02-06 08:04+0000\n"
+"PO-Revision-Date: 2026-02-06 11:32+0200\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+
+msgid "10 minutes"
+msgstr "10 分钟"
+
+msgid "10 seconds"
+msgstr "10 秒"
+
+msgid "12 hours"
+msgstr "12 小时"
+
+msgid "15 seconds"
+msgstr "15 秒"
+
+msgid "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+msgstr "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+
+msgid "2 minutes"
+msgstr "2 分钟"
+
+msgid "20 seconds"
+msgstr "20 秒"
+
+msgid "24 hours"
+msgstr "24 小时"
+
+msgid "3 hours"
+msgstr "3 小时"
+
+msgid "3 minutes"
+msgstr "3 分钟"
+
+msgid "3 seconds"
+msgstr "3 秒"
+
+msgid "30 seconds"
+msgstr "30 秒"
+
+msgid "48 hours"
+msgstr "48 小时"
+
+msgid "5 minutes"
+msgstr "5 分钟"
+
+msgid "5 seconds"
+msgstr "5 秒"
+
+msgid "6 hours"
+msgstr "6 小时"
+
+msgid "60 seconds"
+msgstr "60 秒"
+
+msgid "7 days"
+msgstr "7 天"
+
+msgid "8 seconds"
+msgstr "8 秒"
+
+msgid "90 seconds"
+msgstr "90 秒"
+
+msgid "Accumulate stats for background auto-translate runs."
+msgstr "累积后台自动翻译运行的统计信息。"
+
+msgid "AIFury - EPG Translation Stats"
+msgstr "AIFury - EPG 翻译统计"
+
+msgid "AIFury - EPGTranslation"
+msgstr "AIFury - EPG 翻译"
+
+msgid "AIFury - translation control"
+msgstr "AIFury - 翻译控制"
+
+msgid "AIFury controller is not initialized."
+msgstr "AIFury 控制器未初始化。"
+
+msgid "AIFury Info"
+msgstr "AIFury 信息"
+
+msgid "AIFury Setup"
+msgstr "AIFury 设置"
+
+msgid "aifury-cache"
+msgstr "aifury-缓存"
+
+msgid "aifury-epg-cache"
+msgstr "aifury-epg-缓存"
+
+msgid "Albanian (Shqip)"
+msgstr "阿尔巴尼亚语 (Shqip)"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Auto restore translated EPG on zap"
+msgstr "切台时自动恢复已翻译的 EPG"
+
+msgid "Auto translate EPG in background"
+msgstr "在后台自动翻译 EPG"
+
+msgid "Auto translate EPG in background: %s"
+msgstr "在后台自动翻译 EPG：%s"
+
+msgid "Auto translate horizon"
+msgstr "自动翻译时间范围"
+
+msgid "Auto translate max events"
+msgstr "自动翻译最大事件数"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "自动翻译最小间隔（分钟）"
+
+msgid "auto_translate_epg error: %s"
+msgstr "auto_translate_epg 错误：%s"
+
+msgid "Background runs: %d"
+msgstr "后台运行次数：%d"
+
+msgid "Belgium"
+msgstr "比利时"
+
+msgid "bg job error: %s"
+msgstr "后台任务错误：%s"
+
+msgid "Bosnian (Bosanski)"
+msgstr "波斯尼亚语 (Bosanski)"
+
+msgid "Bouquet (package): %s"
+msgstr "频道组（套餐）：%s"
+
+msgid "Bouquet (package): Not selected yet"
+msgstr "频道组（套餐）：尚未选择"
+
+msgid "Bouquet is empty/invalid."
+msgstr "频道组为空/无效。"
+
+msgid "Bouquet services: %d"
+msgstr "频道组服务数：%d"
+
+msgid "Bouquet translation already running in background: %s"
+msgstr "频道组翻译已在后台运行：%s"
+
+msgid "Bouquet: %s"
+msgstr "频道组：%s"
+
+msgid "Bulgarian (Български)"
+msgstr "保加利亚语 (Български)"
+
+msgid "cache cleared"
+msgstr "缓存已清除"
+
+msgid "Cache cleared successfully."
+msgstr "缓存清除成功。"
+
+msgid "cache loaded: %s (%d items)"
+msgstr "缓存已加载: %s (%d items)"
+
+msgid "cache saved: %s (%d items)"
+msgstr "缓存已保存: %s (%d items)"
+
+msgid "Cached-only fast path for a specific language; warms cache asynchronously if missing."
+msgstr "缓存d-only fast path for a specific language; warms 缓存 asynchronously if missing."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "无法开始 EPG 翻译：%s"
+
+msgid "Chinese (中文)"
+msgstr "中文"
+
+msgid "ChoiceBox callback for background bouquet translation."
+msgstr "用于后台频道组翻译的 ChoiceBox 回调。"
+
+msgid "Clear AIFury caches"
+msgstr "清除 AIFury 缓存"
+
+msgid "Clear aifury_cache (main cache)"
+msgstr "清除 aifury_缓存 (main 缓存)"
+
+msgid "Clear aifury_epg_cache (EPG translations cache)"
+msgstr "清除 aifury_epg_cache（EPG 翻译缓存）"
+
+msgid "Clear both caches"
+msgstr "清除两个缓存"
+
+msgid "Clear caches only"
+msgstr "仅清除缓存"
+
+msgid "Controller initialized. cache=%s log=%s"
+msgstr "控制器 已初始化. 缓存=%s log=%s"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "控制器 未就绪, 无法 清除 缓存."
+
+msgid "Count unique cached translated events across relevant language keys."
+msgstr "统计 唯一 缓存d 已翻译 事件 across relevant language keys."
+
+msgid "Croatian (Hrvatski)"
+msgstr "克罗地亚语 (Hrvatski)"
+
+msgid "Czech (Čeština)"
+msgstr "捷克语 (Čeština)"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Done notification timeout"
+msgstr "完成通知超时"
+
+msgid "empty EPG"
+msgstr "EPG 为空"
+
+msgid "empty translation"
+msgstr "空翻译"
+
+msgid "Enable Translate"
+msgstr "启用翻译"
+
+msgid "Enable Translate Current Event"
+msgstr "启用翻译当前事件"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "English"
+msgstr "英语"
+
+msgid "epg"
+msgstr "EPG"
+
+msgid "EPG descr language : %s"
+msgstr "EPG 描述语言 : %s"
+
+msgid "EPG description language"
+msgstr "EPG 描述语言"
+
+msgid "EPG import error: %s"
+msgstr "EPG 导入 错误: %s"
+
+msgid "EPG import functions are not available on this image"
+msgstr "EPG 导入 functions are not available on this image"
+
+msgid "EPG import: %s"
+msgstr "EPG 导入: %s"
+
+msgid "EPG path"
+msgstr "EPG 路径"
+
+msgid "EPG read error: %s"
+msgstr "EPG 读取 错误: %s"
+
+msgid "EPG read: %s"
+msgstr "EPG 读取: %s"
+
+msgid "EPG title language"
+msgstr "EPG 标题语言"
+
+msgid "EPG title language : %s"
+msgstr "EPG 标题语言 : %s"
+
+msgid "EPG Title Language: %s"
+msgstr "EPG 标题语言：%s"
+
+msgid "EPG translation language: Disabled"
+msgstr "EPG 翻译语言：已禁用"
+
+msgid "epg_cache_put_events error: %s"
+msgstr "epg_缓存_put_事件 错误: %s"
+
+msgid "EPGCache is not available on this image"
+msgstr "EPG缓存 is not available on this image"
+
+msgid "EpgFury v.%s"
+msgstr "EpgFury 版本 %s"
+
+msgid "EPGSelection debounce fire error: %s"
+msgstr "EPG选择ion debounce fire 错误: %s"
+
+msgid "Error building stats"
+msgstr "构建统计时出错"
+
+msgid "Error clearing cache"
+msgstr "Error 清除ing 缓存"
+
+msgid "Error opening info screen"
+msgstr "打开信息界面时出错"
+
+msgid "Errors - Title: %d   Short: %d   Long: %d"
+msgstr "错误 - 标题：%d   简短：%d   详细：%d"
+
+msgid "Errors - Title: %s  Short: %s  Long: %s"
+msgstr "错误 - 标题：%s  简短：%s  详细：%s"
+
+msgid "Errors: %s"
+msgstr "错误：%s"
+
+msgid "Events translated: %s"
+msgstr "上次导入: %s 节目"
+
+msgid "EXIT = Cancel"
+msgstr "EXIT = 取消"
+
+msgid "EXIT = Cancel (stops UI only)"
+msgstr "EXIT = 取消（仅停止界面）"
+
+msgid "Failed to start background bouquet translation."
+msgstr "启动后台频道组翻译失败。"
+
+msgid "Finished translating bouquet."
+msgstr "频道组翻译完成。"
+
+msgid "Finnish (Suomi)"
+msgstr "芬兰语 (Suomi)"
+
+msgid "French"
+msgstr "法语"
+
+msgid "German"
+msgstr "德语"
+
+msgid "Greek (Ελληνικά)"
+msgstr "希腊语 (Ελληνικά)"
+
+msgid "Hindi (हिन्दी)"
+msgstr "印地语 (हिन्दी)"
+
+msgid "Hungarian (Magyar)"
+msgstr "匈牙利语 (Magyar)"
+
+msgid "Import error: %s"
+msgstr "Import 错误: %s"
+
+msgid "Import ORIGINAL EPG texts for a service (if saved) back into eEPGCache (RAM)."
+msgstr "Import ORIGINAL EPG texts for a service (if saved) back into eEPG缓存 (RAM)."
+
+msgid "Imported in background: %d"
+msgstr "后台已导入：%d"
+
+msgid "Imported to RAM: %d"
+msgstr "已导入到 RAM：%d"
+
+msgid "Imported: %s"
+msgstr "已导入：%s"
+
+msgid "Indonesian (Bahasa Indonesia)"
+msgstr "印度尼西亚语 (Bahasa Indonesia)"
+
+msgid "Italian"
+msgstr "意大利语"
+
+msgid "Japanese (日本語)"
+msgstr "日语 (日本語)"
+
+msgid "Korean (한국어)"
+msgstr "韩语 (한국어)"
+
+msgid "Last background run: %s"
+msgstr "上次后台运行：%s"
+
+msgid "Last service: %s"
+msgstr "最后一个服务：%s"
+
+msgid "Main path"
+msgstr "主路径"
+
+msgid "Min request interval (ms)"
+msgstr "最小请求间隔（毫秒）"
+
+msgid "Nederlands"
+msgstr "荷兰语"
+
+msgid "Network timeout (sec)"
+msgstr "网络超时（秒）"
+
+msgid "No bouquets found."
+msgstr "未找到频道组。"
+
+msgid "no cache file, created: %s"
+msgstr "no 缓存 file, created: %s"
+
+msgid "No current service is available."
+msgstr "当前没有可用的服务。"
+
+msgid "No EPG translation language selected"
+msgstr "未选择 EPG 翻译语言"
+
+msgid "no path"
+msgstr "无路径"
+
+msgid "No playable services found in: %s"
+msgstr "在 %s 中未找到可播放的服务"
+
+msgid "No services found in bouquet."
+msgstr "频道组中未找到服务。"
+
+msgid "No services found in Favourites bouquet."
+msgstr "收藏频道组中未找到服务。"
+
+msgid "Norwegian (Norsk)"
+msgstr "挪威语 (Norsk)"
+
+msgid "Not selected yet"
+msgstr "尚未选择"
+
+msgid "Notify translation end"
+msgstr "通知翻译结束"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "OK / EXIT = Close"
+msgstr "OK / EXIT = 关闭"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Choose option   |   Green = Save   |   Yellow = 清除 缓存   |   Blue = Stats   |   Red/EXIT = Cancel"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = 选择   |   EXIT = Cancel"
+
+msgid "Periodic restore interval"
+msgstr "周期性恢复间隔"
+
+msgid "Periodically re-apply translated EPG for the currently playing service."
+msgstr "Periodically re-apply 已翻译 EPG for the currently playing service."
+
+msgid "Persian/Farsi (فارسی)"
+msgstr "波斯语/法尔西语 (فارسی)"
+
+msgid "Persist ORIGINAL (provider) EPG texts for events we translated, so we can revert later."
+msgstr "Persist ORIGINAL (provider) EPG texts for 事件 we 已翻译, so we can revert later."
+
+msgid "Persist translated EPG events for a service so they survive channel zapping."
+msgstr "Persist 已翻译 EPG 事件 for a service so they survive channel zapping."
+
+msgid "Polish (Polski)"
+msgstr "波兰语 (Polski)"
+
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙语（巴西）"
+
+msgid "Portuguese (Português)"
+msgstr "葡萄牙语 (Português)"
+
+msgid "Preparing..."
+msgstr "准备中…"
+
+msgid "Read periodic keep-restore interval from config (seconds) and return milliseconds."
+msgstr "Read 周期性 keep-恢复 间隔 from config (秒) and return milliseconds."
+
+msgid "Remove AIFury cache files (best-effort)."
+msgstr "Remove AIFury 缓存 files (best-effort)."
+
+msgid "Reset AIFury settings to defaults"
+msgstr "将 AIFury 设置重置为默认值"
+
+msgid "Reset ONLY AIFury plugin config to defaults and persist."
+msgstr "仅将 AIFury 插件配置重置为默认值并保存。"
+
+msgid "Reset: Defaults + Caches"
+msgstr "Reset: Defaults + 缓存s"
+
+msgid "Reset: Defaults only"
+msgstr "重置：仅默认值"
+
+msgid "Restart Enigma2 GUI only."
+msgstr "仅重启 Enigma2 界面。"
+
+msgid "Restart GUI (Enigma2)"
+msgstr "重启界面 (Enigma2)"
+
+msgid "Retry count"
+msgstr "重试次数"
+
+msgid "Return a best-effort service name for a ref string."
+msgstr "尽力为引用字符串返回一个服务名称。"
+
+msgid "Return a copy of current background auto-translate stats."
+msgstr "返回当前后台自动翻译统计的副本。"
+
+msgid "Return a list of playable service ref strings inside a bouquet."
+msgstr "返回频道组内可播放服务引用字符串列表。"
+
+msgid "Return cached translation immediately; if not cached, warm cache asynchronously and return original text."
+msgstr "立即返回缓存的翻译；若未缓存，则异步预热缓存并返回原文。"
+
+msgid "Return default cache file path based on available mount points."
+msgstr "Return default 缓存 file path based on available mount points."
+
+msgid "Romanian (Română)"
+msgstr "罗马尼亚语 (Română)"
+
+msgid "Romansh (Rumantsch)"
+msgstr "罗曼什语 (Rumantsch)"
+
+msgid "Russian"
+msgstr "俄语"
+
+msgid "Schedule background EPG translation for a service after zapping or after settings changes."
+msgstr "在切台或设置更改后，为某个服务安排后台 EPG 翻译。"
+
+msgid "Schedule restoring translated EPG for a service shortly after zapping."
+msgstr "Schedule restoring 已翻译 EPG for a service shortly after zapping."
+
+msgid "Select bouquet to translate"
+msgstr "选择 bouquet to translate"
+
+msgid "Select bouquet to translate (background)"
+msgstr "选择 bouquet to translate (background)"
+
+msgid "Select cache directory"
+msgstr "选择 缓存 目录"
+
+msgid "Select cache to clear"
+msgstr "选择 缓存 to 清除"
+
+msgid "Select EPG title/description language first."
+msgstr "选择 EPG title/description language first."
+
+msgid "Select EPG translations cache directory"
+msgstr "选择 EPG 翻译缓存目录"
+
+msgid "Select translation language"
+msgstr "选择翻译语言"
+
+msgid "Select value"
+msgstr "选择数值"
+
+msgid "Selected bouquet"
+msgstr "已选频道组"
+
+msgid "Serbian (Srpski/Српски)"
+msgstr "塞尔维亚语 (Srpski/Српски)"
+
+msgid "Services processed: %s"
+msgstr "已处理服务：%s"
+
+msgid "Services: %s"
+msgstr "服务：%s"
+
+msgid "Set a default log file path for this module (optional)."
+msgstr "为此模块设置默认日志文件路径（可选）。"
+
+msgid "Set a minimum delay between translation requests (module-global)."
+msgstr "设置翻译请求之间的最小延迟（模块全局）。"
+
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+msgid "Show available TV bouquets, then start translating the selected bouquet in background."
+msgstr "显示可用的电视频道组，然后在后台开始翻译所选频道组。"
+
+msgid "Show available TV bouquets, then translate the selected bouquet."
+msgstr "显示可用的电视频道组，然后翻译所选频道组。"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "已跳过（EPG 为空）：%s"
+
+msgid "Slovak (Slovenčina)"
+msgstr "斯洛伐克语 (Slovenčina)"
+
+msgid "Slovenian (Slovenščina)"
+msgstr "斯洛文尼亚语 (Slovenščina)"
+
+msgid "Spanish"
+msgstr "西班牙语"
+
+msgid "Spanish (Mexico)"
+msgstr "西班牙语（墨西哥）"
+
+msgid "Start an eTimer in a way that works across images (start(ms, True) vs start(ms))."
+msgstr "以兼容不同镜像的方式启动 eTimer（start(ms, True) 与 start(ms)）。"
+
+msgid "Starting..."
+msgstr "正在开始…"
+
+msgid "Submit background work to pool if available, otherwise spawn a daemon thread."
+msgstr "Submit background work to pool if available, otherwise spawn a daemon th读取."
+
+msgid "Swedish (Svenska)"
+msgstr "瑞典语 (Svenska)"
+
+msgid "Swiss German (Schwiizerdütsch)"
+msgstr "瑞士德语 (Schwiizerdütsch)"
+
+msgid "System returned empty EPG list"
+msgstr "系统返回空的 EPG 列表"
+
+msgid "Timer callback: process a few services per tick."
+msgstr "定时器回调：每次 tick 处理少量服务。"
+
+msgid "Translate Bouquet"
+msgstr "翻译频道组"
+
+msgid "Translate bouquet (choose from list)"
+msgstr "翻译频道组（从列表选择）"
+
+msgid "Translate bouquet in background"
+msgstr "在后台翻译频道组"
+
+msgid "Translate Bouquet: %s"
+msgstr "翻译频道组：%s"
+
+msgid "Translate Current Channel EPG"
+msgstr "翻译当前频道 EPG"
+
+msgid "Translate Current Event"
+msgstr "翻译当前事件"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "设置中已禁用“翻译当前事件”。"
+
+msgid "Translate in background then call callback(translated_text) on UI thread."
+msgstr "在后台翻译，然后在 UI 线程调用 callback(translated_text)。"
+
+msgid "translate provider error: %s"
+msgstr "translate provider 错误: %s"
+
+msgid "Translate to a specific lang in background then callback(translated_text) on UI thread."
+msgstr "在后台翻译为指定语言，然后在 UI 线程调用 callback(translated_text)。"
+
+msgid "translate_async worker error: %s"
+msgstr "translate_async worker 错误: %s"
+
+msgid "translate_async_with_callback error: %s"
+msgstr "translate_async_with_callback 错误: %s"
+
+msgid "translate_text internal error: %s"
+msgstr "translate_text internal 错误: %s"
+
+msgid "translate_to_async_with_callback error: %s"
+msgstr "translate_to_async_with_callback 错误: %s"
+
+msgid "translate_to_cached_or_async worker error: %s"
+msgstr "translate_to_缓存d_or_async worker 错误: %s"
+
+msgid "translated (%.3fs) lang=%s text=%s"
+msgstr "已翻译 (%.3fs) lang=%s text=%s"
+
+msgid "Translated Event Cache: %d"
+msgstr "已翻译事件缓存：%d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "频道组中已翻译事件：%d"
+
+msgid "Translated events in cache: %d"
+msgstr "缓存中已翻译事件：%d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "缓存中已翻译事件：（控制器未就绪）"
+
+msgid "Translated in background: %d"
+msgstr "后台已翻译：%d"
+
+msgid "Translated in Background: %d"
+msgstr "后台已翻译：%d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "频道组中已翻译：%d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "已翻译：%d   |   已跳过：%d"
+
+msgid "Translated: %s"
+msgstr "已翻译：%s"
+
+msgid "Translation completed"
+msgstr "翻译完成"
+
+msgid "Translation language"
+msgstr "翻译语言"
+
+msgid "translation result invalid"
+msgstr "翻译结果无效"
+
+msgid "translation returned empty"
+msgstr "翻译返回为空"
+
+msgid "translation returned None"
+msgstr "翻译返回 None"
+
+msgid "Turkish"
+msgstr "土耳其语"
+
+msgid "Ukrainian (Українська)"
+msgstr "乌克兰语 (Українська)"
+
+msgid "Unhandled error: %s"
+msgstr "Unhandled 错误: %s"
+
+msgid "Until dismissed"
+msgstr "直到手动关闭"
+
+msgid "Urdu (اردو)"
+msgstr "乌尔都语 (اردو)"
+
+msgid "userbouquet.favourites.%s"
+msgstr "userbouquet.favourites.%s"
+
+msgid "Warm translation cache in background without blocking UI."
+msgstr "Warm translation 缓存 in background without blocking UI."
+
+msgid "Worker threads"
+msgstr "工作线程"
+
+msgid "Yield bouquet directory refs from bouquets.tv (or bouquets.radio)."
+msgstr "从 bouquets.tv（或 bouquets.radio）产出频道组目录引用。"
+
+msgid "Clear cache"
+msgstr "明确"
+
+msgid "Clear Cache"
+msgstr "清除缓存"

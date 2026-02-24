@@ -1,0 +1,56 @@
+<screen name="EventView" position="fill" title="Eventview" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="p800_Template" />
+  <panel name="p700_DateMid" />
+  <panel name="p800_Ext" />
+  <panel name="ScreenTemplateAllColorButtons_template1" />
+  <panel name="MI" />
+  <!-- cf#_#picon -->
+  <!-- Provider Name -->
+  <widget source="Service" render="Picon" position="1000,150" size="220,132" backgroundColor="header" transparent="1" zPosition="2" alphatest="blend">
+    <convert type="ServiceName">Reference</convert>
+  </widget>
+  <widget name="channel" position="70,170" size="740,60" font="Regular;46" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="2" />
+  <widget name="datetime" position="70,240" size="300,40" font="Regular;34" foregroundColor="yellow" backgroundColor="header" transparent="1" zPosition="2" />
+  <widget name="duration" position="374,240" size="300,40" font="Regular;34" backgroundColor="header" transparent="1" zPosition="2" />
+  <eLabel position="70,290" size="1160,2" backgroundColor="white" zPosition="2" />
+  <widget name="epg_description" position="70,299" size="850,345" font="Regular;25" backgroundColor="header" transparent="1" zPosition="1" />
+  <!-- widget name="FullDescription" position="70,600" size="1150,300" font="Regular;32" foregroundColor="#73c6ff" backgroundColor="#10000000" transparent="1"/-->
+  <eLabel text="N e x t" position="1266,34" size="600,90" font="Regular;110" halign="center" valign="center" foregroundColor="white" backgroundColor="background2" transparent="1" zPosition="1" />
+  <eLabel text="Start" position="1280,145" size="100,145" font="Regular;36" backgroundColor="header" transparent="1" zPosition="1" />
+  <widget source="session.Event_Next" render="Label" position="1370,145" size="200,100" font="Regular;36" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="2">
+    <convert type="EventTime">StartTime</convert>
+    <convert type="ClockToText">Default</convert>
+  </widget>
+  <eLabel text="-" position="1490,145" size="20,95" font="Regular;36" halign="center" backgroundColor="header" transparent="1" zPosition="1" />
+  <widget source="session.Event_Next" render="Label" position="1530,145" size="200,40" font="Regular;36" foregroundColor="red" backgroundColor="header" transparent="1" zPosition="2">
+    <convert type="EventTime">Duration</convert>
+    <convert type="ClockToText">InMinutes</convert>
+  </widget>
+  <!-- Next Event 1 -->
+  <widget source="session.Event_Next" render="Label" position="1280,200" size="580,40" font="Regular;34" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="5">
+    <convert type="EpgFuryEvent">Name</convert>
+  </widget>
+  <widget source="session.Event_Next" render="Label" position="1275,420" size="580,510" font="Regular;32" backgroundColor="bluette" transparent="1" zPosition="2">
+  <convert type="EpgFuryEvent">FullDescription</convert>
+</widget>
+  <!--
+		<widget source="session.Event_Next" render="Label" position="1280,180" size="580,100" font="Regular;36" foregroundColor="#303030" halign="left" backgroundColor="bluette" transparent="1" zPosition="5"  >
+			<convert type="EpgFuryEvent">Name</convert>
+		</widget>
+		-->
+  <!--eLabel name="DEBUG" text="S112" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  <widget source="Event" render="furyPosterX" nexts="1" position="71,650" size="185,278" zPosition="9" cornerRadius="15" />
+  <widget source="Event" render="furyPosterX" nexts="2" position="262,651" size="185,278" zPosition="9" cornerRadius="15" />
+  <widget source="Event" render="furyPosterX" nexts="3" position="454,650" size="185,278" zPosition="9" cornerRadius="15" />
+  <widget source="Event" render="furyPosterX" nexts="4" position="649,650" size="185,278" zPosition="9" cornerRadius="15" />
+  <widget source="Event" render="furyPosterX" nexts="5" position="842,650" size="185,278" zPosition="9" cornerRadius="15" />
+  <widget source="Event" render="furyPosterX" nexts="6" position="1036,650" size="185,278" zPosition="9" cornerRadius="15" />
+  <widget source="Event" render="furyPosterX" position="932,299" size="280,345" zPosition="9" cornerRadius="15" borderWidth="1" borderColor="white" />
+  <eLabel name="" position="1269,250" size="591,2" backgroundColor="white" zPosition="2" />
+  <widget source="Event" render="furyBackdropX" position="1275,264" size="580,140" zPosition="13" alphatest="blend" borderWidth="1" borderColor="white" />
+  <widget source="Event" render="Label" position="850,171" size="53,53" font="Regular;26" halign="center" valign="center" foregroundColor="white" zPosition="20" transparent="0" cornerRadius="25" backgroundColor="CursorBackground" borderWidth="1" borderColor="#fff3e7">
+    <convert type="EpgFuryEvent">SmallRating</convert>
+  </widget>
+  <widget source="Event" render="furyStarX" pixmap="s/star.png" position="773,251" size="210,21" alphatest="blend" transparent="1" zPosition="2" />
+  <ePixmap pixmap="s/star_b.png" position="773,251" size="210,21" alphatest="blend" zPosition="1" transparent="1" />
+</screen>
