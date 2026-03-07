@@ -1,0 +1,6 @@
+<screen name="Volume" position="60,60" size="230,150" title="Volume" flags="wfNoBorder" backgroundColor="transparent" zPosition="99">
+  <widget name="Volume" position="17,107" size="193,23" zPosition="0" transparent="1" foregroundColor="gradient_BGLM" />
+  <ePixmap position="0,0" size="230,150" zPosition="1" pixmap="icons/volume_background.png" transparent="1" alphatest="blend" name="3" />
+  <widget font="Regular;45" foregroundColor="white" backgroundColor="darkgrey" halign="center" valign="center" render="VolumeText" source="global.CurrentTime" position="109,17" size="105,79" zPosition="20" transparent="1" />
+  <widget name="Volume" pixmap="icons/volume_up.png" position="17,107" zPosition="2" size="193,23" transparent="1" />
+</screen>

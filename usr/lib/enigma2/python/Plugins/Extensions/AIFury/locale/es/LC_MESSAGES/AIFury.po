@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury\n"
+"POT-Creation-Date: 2026-02-06 08:04+0000\n"
+"PO-Revision-Date: 2026-02-06 12:20+0200\n"
+"Language-Team: es_ES\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+
+msgid "10 minutes"
+msgstr "10 minutos"
+
+msgid "10 seconds"
+msgstr "10 segundos"
+
+msgid "12 hours"
+msgstr "12 horas"
+
+msgid "15 seconds"
+msgstr "15 segundos"
+
+msgid "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+msgstr "1:7:1:0:0:0:0:0:0:0:FROM Bouquet \"%s\" ORDER BY bouquet"
+
+msgid "2 minutes"
+msgstr "2 minutos"
+
+msgid "20 seconds"
+msgstr "20 segundos"
+
+msgid "24 hours"
+msgstr "24 horas"
+
+msgid "3 hours"
+msgstr "3 horas"
+
+msgid "3 minutes"
+msgstr "3 minutos"
+
+msgid "3 seconds"
+msgstr "3 segundos"
+
+msgid "30 seconds"
+msgstr "30 segundos"
+
+msgid "48 hours"
+msgstr "48 horas"
+
+msgid "5 minutes"
+msgstr "5 minutos"
+
+msgid "5 seconds"
+msgstr "5 segundos"
+
+msgid "6 hours"
+msgstr "6 horas"
+
+msgid "60 seconds"
+msgstr "60 segundos"
+
+msgid "7 days"
+msgstr "7 días"
+
+msgid "8 seconds"
+msgstr "8 segundos"
+
+msgid "90 seconds"
+msgstr "90 segundos"
+
+msgid "Accumulate stats for background auto-translate runs."
+msgstr "Accumulate estadísticas for segundo plano auto-traducir ejecuciones."
+
+msgid "AIFury - EPG Translation Stats"
+msgstr "AIFury - EPG Traducción Estadísticas"
+
+msgid "AIFury - EPGTranslation"
+msgstr "AIFury - EPGTranslation"
+
+msgid "AIFury - translation control"
+msgstr "AIFury - traducción control"
+
+msgid "AIFury controller is not initialized."
+msgstr "AIFury controlador is no inicializado."
+
+msgid "AIFury Info"
+msgstr "Información de AIFury"
+
+msgid "AIFury Setup"
+msgstr "Configuración de AIFury"
+
+msgid "aifury-cache"
+msgstr "aifury-cache"
+
+msgid "aifury-epg-cache"
+msgstr "aifury-epg-cache"
+
+msgid "Albanian (Shqip)"
+msgstr "Albanés (Shqip)"
+
+msgid "Arabic"
+msgstr "Árabe"
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Auto restaurar traducido EPG en zapping"
+
+msgid "Auto translate EPG in background"
+msgstr "Auto traducir EPG in segundo plano"
+
+msgid "Auto translate EPG in background: %s"
+msgstr "Auto traducir EPG in segundo plano: %s"
+
+msgid "Auto translate horizon"
+msgstr "Auto traducir horizonte"
+
+msgid "Auto translate max events"
+msgstr "Auto traducir máx. events"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Auto traducir mín. intervalo (minutos)"
+
+msgid "auto_translate_epg error: %s"
+msgstr "Error de auto_translate_epg: %s"
+
+msgid "Background runs: %d"
+msgstr "Segundo plano ejecuciones: %d"
+
+msgid "Belgium"
+msgstr "Bélgica"
+
+msgid "bg job error: %s"
+msgstr "Error de bg job: %s"
+
+msgid "Bosnian (Bosanski)"
+msgstr "Bosnio (Bosanski)"
+
+msgid "Bouquet (package): %s"
+msgstr "Bouquet (paquete): %s"
+
+msgid "Bouquet (package): Not selected yet"
+msgstr "Bouquet (paquete): No seleccionado todavía"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Bouquet is vacío/inválido."
+
+msgid "Bouquet services: %d"
+msgstr "Bouquet servicios: %d"
+
+msgid "Bouquet translation already running in background: %s"
+msgstr "Bouquet traducción ya ejecutándose in segundo plano: %s"
+
+msgid "Bouquet: %s"
+msgstr "Bouquet: %s"
+
+msgid "Bulgarian (Български)"
+msgstr "Bulgarian (ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸)"
+
+msgid "cache cleared"
+msgstr "caché borrada"
+
+msgid "Cache cleared successfully."
+msgstr "Caché borrada correctamente."
+
+msgid "cache loaded: %s (%d items)"
+msgstr "caché cargada: %s (%d elementos)"
+
+msgid "cache saved: %s (%d items)"
+msgstr "caché guardada: %s (%d elementos)"
+
+msgid "Cached-only fast path for a specific language; warms cache asynchronously if missing."
+msgstr "Cached-solo rápida ruta for a específico idioma; precalienta caché asíncronamente if faltante."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Cannot iniciar EPG traducción: %s"
+
+msgid "Chinese (中文)"
+msgstr "Chinese (ä¸­æ)"
+
+msgid "ChoiceBox callback for background bouquet translation."
+msgstr "ChoiceBox callback for segundo plano bouquet traducción."
+
+msgid "Clear AIFury caches"
+msgstr "Limpiar AIFury caches"
+
+msgid "Clear aifury_cache (main cache)"
+msgstr "Limpiar aifury_cache (main caché)"
+
+msgid "Clear aifury_epg_cache (EPG translations cache)"
+msgstr "Limpiar aifury_epg_cache (EPG translations caché)"
+
+msgid "Clear both caches"
+msgstr "Limpiar both caches"
+
+msgid "Clear caches only"
+msgstr "Limpiar caches solo"
+
+msgid "Controller initialized. cache=%s log=%s"
+msgstr "Controlador inicializado. caché=%s log=%s"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Controlador no ready, cannot limpiar caché."
+
+msgid "Count unique cached translated events across relevant language keys."
+msgstr "Conteo unique cached traducido events across relevant idioma keys."
+
+msgid "Croatian (Hrvatski)"
+msgstr "Croata (Hrvatski)"
+
+msgid "Czech (Čeština)"
+msgstr "Czech (ÄeÅ¡tina)"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Done notification timeout"
+msgstr "Hecho notificación tiempo de espera"
+
+msgid "empty EPG"
+msgstr "vacío EPG"
+
+msgid "empty translation"
+msgstr "vacío traducción"
+
+msgid "Enable Translate"
+msgstr "Habilitar Traducir"
+
+msgid "Enable Translate Current Event"
+msgstr "Habilitar Traducir Actual Event"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "epg"
+msgstr "epg"
+
+msgid "EPG descr language : %s"
+msgstr "EPG descr idioma : %s"
+
+msgid "EPG description language"
+msgstr "EPG description idioma"
+
+msgid "EPG import error: %s"
+msgstr "Error de importación EPG: %s"
+
+msgid "EPG import functions are not available on this image"
+msgstr "EPG importación functions are no disponible en this image"
+
+msgid "EPG import: %s"
+msgstr "EPG importación: %s"
+
+msgid "EPG path"
+msgstr "EPG ruta"
+
+msgid "EPG read error: %s"
+msgstr "Error de lectura EPG: %s"
+
+msgid "EPG read: %s"
+msgstr "EPG lectura: %s"
+
+msgid "EPG title language"
+msgstr "EPG título idioma"
+
+msgid "EPG title language : %s"
+msgstr "EPG título idioma : %s"
+
+msgid "EPG Title Language: %s"
+msgstr "EPG Título Idioma: %s"
+
+msgid "EPG translation language: Disabled"
+msgstr "EPG traducción idioma: Deshabilitado"
+
+msgid "epg_cache_put_events error: %s"
+msgstr "Error de epg_cache_put_events: %s"
+
+msgid "EPGCache is not available on this image"
+msgstr "EPGCache is no disponible en this image"
+
+msgid "EpgFury v.%s"
+msgstr "EpgFury v.%s"
+
+msgid "EPGSelection debounce fire error: %s"
+msgstr "Error de EPGSelection debounce fire: %s"
+
+msgid "Error building stats"
+msgstr "Error building estadísticas"
+
+msgid "Error clearing cache"
+msgstr "Error clearing caché"
+
+msgid "Error opening info screen"
+msgstr "Error abriendo info pantalla"
+
+msgid "Errors - Title: %d   Short: %d   Long: %d"
+msgstr "Errores - Título: %d   Corto: %d   Largo: %d"
+
+msgid "Errors - Title: %s  Short: %s  Long: %s"
+msgstr "Errores - Título: %s  Corto: %s  Largo: %s"
+
+msgid "Errors: %s"
+msgstr "Errores: %s"
+
+msgid "Events translated: %s"
+msgstr "Events traducido: %s"
+
+msgid "EXIT = Cancel"
+msgstr "EXIT = Cancelar"
+
+msgid "EXIT = Cancel (stops UI only)"
+msgstr "EXIT = Cancelar (stops UI solo)"
+
+msgid "Failed to start background bouquet translation."
+msgstr "Failed to iniciar segundo plano bouquet traducción."
+
+msgid "Finished translating bouquet."
+msgstr "Finalizado traduciendo bouquet."
+
+msgid "Finnish (Suomi)"
+msgstr "Finés (Suomi)"
+
+msgid "French"
+msgstr "Francés"
+
+msgid "German"
+msgstr "Alemán"
+
+msgid "Greek (Ελληνικά)"
+msgstr "Greek (ÎÎ»Î»Î·Î½Î¹ÎºÎ¬)"
+
+msgid "Hindi (हिन्दी)"
+msgstr "Hindi (à¤¹à¤¿à¤¨à¥à¤¦à¥)"
+
+msgid "Hungarian (Magyar)"
+msgstr "Húngaro (Magyar)"
+
+msgid "Import error: %s"
+msgstr "Error de Import: %s"
+
+msgid "Import ORIGINAL EPG texts for a service (if saved) back into eEPGCache (RAM)."
+msgstr "Importación ORIGINAL EPG texts for a servicio (if guardada) back into eEPGCache (RAM)."
+
+msgid "Imported in background: %d"
+msgstr "Importado in segundo plano: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "Importado to RAM: %d"
+
+msgid "Imported: %s"
+msgstr "Importado: %s"
+
+msgid "Indonesian (Bahasa Indonesia)"
+msgstr "Indonesio (Bahasa Indonesia)"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Japanese (日本語)"
+msgstr "Japanese (æ¥æ¬èª)"
+
+msgid "Korean (한국어)"
+msgstr "Korean (íêµ­ì´)"
+
+msgid "Last background run: %s"
+msgstr "Last segundo plano ejecución: %s"
+
+msgid "Last service: %s"
+msgstr "Last servicio: %s"
+
+msgid "Main path"
+msgstr "Main ruta"
+
+msgid "Min request interval (ms)"
+msgstr "Mín. request interval (ms)"
+
+msgid "Nederlands"
+msgstr "Neerlandés"
+
+msgid "Network timeout (sec)"
+msgstr "Red tiempo de espera (seg)"
+
+msgid "No bouquets found."
+msgstr "No bouquets encontrado."
+
+msgid "no cache file, created: %s"
+msgstr "No hay archivo de caché, creado: %s"
+
+msgid "No current service is available."
+msgstr "No actual servicio is disponible."
+
+msgid "No EPG translation language selected"
+msgstr "No EPG traducción idioma seleccionado"
+
+msgid "no path"
+msgstr "no ruta"
+
+msgid "No playable services found in: %s"
+msgstr "No playable servicios encontrado in: %s"
+
+msgid "No services found in bouquet."
+msgstr "No servicios encontrado in bouquet."
+
+msgid "No services found in Favourites bouquet."
+msgstr "No servicios encontrado in Favourites bouquet."
+
+msgid "Norwegian (Norsk)"
+msgstr "Noruego (Norsk)"
+
+msgid "Not selected yet"
+msgstr "No seleccionado todavía"
+
+msgid "Notify translation end"
+msgstr "Notify traducción end"
+
+msgid "Off"
+msgstr "Desactivado"
+
+msgid "OK / EXIT = Close"
+msgstr "OK / EXIT = Cerrar"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Choose option   |   Green = Guardar   |   Yellow = Limpiar caché   |   Blue = Estadísticas   |   Red/EXIT = Cancelar"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Seleccionar   |   EXIT = Cancelar"
+
+msgid "Periodic restore interval"
+msgstr "Periodic restaurar interval"
+
+msgid "Periodically re-apply translated EPG for the currently playing service."
+msgstr "Periodically re-apply traducido EPG for the currently playing servicio."
+
+msgid "Persian/Farsi (فارسی)"
+msgstr "Persian/Farsi (ÙØ§Ø±Ø³Û)"
+
+msgid "Persist ORIGINAL (provider) EPG texts for events we translated, so we can revert later."
+msgstr "Persist ORIGINAL (provider) EPG texts for events we traducido, so we can revert later."
+
+msgid "Persist translated EPG events for a service so they survive channel zapping."
+msgstr "Persist traducido EPG events for a servicio so they survive channel zapping."
+
+msgid "Polish (Polski)"
+msgstr "Polaco (Polski)"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugués (Brazil)"
+
+msgid "Portuguese (Português)"
+msgstr "Portugués (PortuguÃªs)"
+
+msgid "Preparing..."
+msgstr "Preparando..."
+
+msgid "Read periodic keep-restore interval from config (seconds) and return milliseconds."
+msgstr "Lectura periodic keep-restaurar interval from config (segundos) and return milliseconds."
+
+msgid "Remove AIFury cache files (best-effort)."
+msgstr "Remove AIFury caché files (best-effort)."
+
+msgid "Reset AIFury settings to defaults"
+msgstr "Restablecer AIFury ajustes to defaults"
+
+msgid "Reset ONLY AIFury plugin config to defaults and persist."
+msgstr "Restablecer Solo AIFury plugin config to defaults and persist."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Restablecer: Defaults + Caches"
+
+msgid "Reset: Defaults only"
+msgstr "Restablecer: Defaults solo"
+
+msgid "Restart Enigma2 GUI only."
+msgstr "Reiniciar Enigma2 GUI solo."
+
+msgid "Restart GUI (Enigma2)"
+msgstr "Reiniciar GUI (Enigma2)"
+
+msgid "Retry count"
+msgstr "Reintento conteo"
+
+msgid "Return a best-effort service name for a ref string."
+msgstr "Return a best-effort servicio name for a ref string."
+
+msgid "Return a copy of current background auto-translate stats."
+msgstr "Return a copy of actual segundo plano auto-traducir estadísticas."
+
+msgid "Return a list of playable service ref strings inside a bouquet."
+msgstr "Return a list of playable servicio ref strings inside a bouquet."
+
+msgid "Return cached translation immediately; if not cached, warm cache asynchronously and return original text."
+msgstr "Return cached traducción immediately; if no cached, warm caché asíncronamente and return original text."
+
+msgid "Return default cache file path based on available mount points."
+msgstr "Return default caché file ruta based en disponible mount points."
+
+msgid "Romanian (Română)"
+msgstr "Romanian (RomÃ¢nÄ)"
+
+msgid "Romansh (Rumantsch)"
+msgstr "Romanche (Rumantsch)"
+
+msgid "Russian"
+msgstr "Ruso"
+
+msgid "Schedule background EPG translation for a service after zapping or after settings changes."
+msgstr "Schedule segundo plano EPG traducción for a servicio after zapping or after ajustes changes."
+
+msgid "Schedule restoring translated EPG for a service shortly after zapping."
+msgstr "Schedule restoring traducido EPG for a servicio shortly after zapping."
+
+msgid "Select bouquet to translate"
+msgstr "Seleccionar bouquet to traducir"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Seleccionar bouquet to traducir (segundo plano)"
+
+msgid "Select cache directory"
+msgstr "Seleccionar caché directorio"
+
+msgid "Select cache to clear"
+msgstr "Seleccionar caché to limpiar"
+
+msgid "Select EPG title/description language first."
+msgstr "Seleccionar EPG título/description idioma first."
+
+msgid "Select EPG translations cache directory"
+msgstr "Seleccionar EPG translations caché directorio"
+
+msgid "Select translation language"
+msgstr "Seleccionar traducción idioma"
+
+msgid "Select value"
+msgstr "Seleccionar valor"
+
+msgid "Selected bouquet"
+msgstr "Seleccionado bouquet"
+
+msgid "Serbian (Srpski/Српски)"
+msgstr "Serbian (Srpski/Ð¡ÑÐ¿ÑÐºÐ¸)"
+
+msgid "Services processed: %s"
+msgstr "Servicios processed: %s"
+
+msgid "Services: %s"
+msgstr "Servicios: %s"
+
+msgid "Set a default log file path for this module (optional)."
+msgstr "Set a default log file ruta for this module (optional)."
+
+msgid "Set a minimum delay between translation requests (module-global)."
+msgstr "Set a minimum delay between traducción requests (module-global)."
+
+msgid "Settings saved."
+msgstr "Ajustes guardada."
+
+msgid "Show available TV bouquets, then start translating the selected bouquet in background."
+msgstr "Show disponible TV bouquets, then iniciar traduciendo the seleccionado bouquet in segundo plano."
+
+msgid "Show available TV bouquets, then translate the selected bouquet."
+msgstr "Show disponible TV bouquets, then traducir the seleccionado bouquet."
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Skipped (vacío EPG): %s"
+
+msgid "Slovak (Slovenčina)"
+msgstr "Slovak (SlovenÄina)"
+
+msgid "Slovenian (Slovenščina)"
+msgstr "Slovenian (SlovenÅ¡Äina)"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "Spanish (Mexico)"
+msgstr "Español (Mexico)"
+
+msgid "Start an eTimer in a way that works across images (start(ms, True) vs start(ms))."
+msgstr "Iniciar an eTimer in a way that works across images (iniciar(ms, True) vs iniciar(ms))."
+
+msgid "Starting..."
+msgstr "Iniciando..."
+
+msgid "Submit background work to pool if available, otherwise spawn a daemon thread."
+msgstr "Submit segundo plano work to pool if disponible, otherwise spawn a daemon thread."
+
+msgid "Swedish (Svenska)"
+msgstr "Sueco (Svenska)"
+
+msgid "Swiss German (Schwiizerdütsch)"
+msgstr "Swiss Alemán (SchwiizerdÃ¼tsch)"
+
+msgid "System returned empty EPG list"
+msgstr "System returned vacío EPG list"
+
+msgid "Timer callback: process a few services per tick."
+msgstr "Timer callback: process a few servicios per tick."
+
+msgid "Translate Bouquet"
+msgstr "Traducir Bouquet"
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Traducir bouquet (choose from list)"
+
+msgid "Translate bouquet in background"
+msgstr "Traducir bouquet in segundo plano"
+
+msgid "Translate Bouquet: %s"
+msgstr "Traducir Bouquet: %s"
+
+msgid "Translate Current Channel EPG"
+msgstr "Traducir Actual Channel EPG"
+
+msgid "Translate Current Event"
+msgstr "Traducir Actual Event"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "Traducir Actual Event is deshabilitado in ajustes."
+
+msgid "Translate in background then call callback(translated_text) on UI thread."
+msgstr "Traducir in segundo plano then call callback(translated_text) en UI thread."
+
+msgid "translate provider error: %s"
+msgstr "Error de translate provider: %s"
+
+msgid "Translate to a specific lang in background then callback(translated_text) on UI thread."
+msgstr "Traducir to a específico lang in segundo plano then callback(translated_text) en UI thread."
+
+msgid "translate_async worker error: %s"
+msgstr "Error de translate_async worker: %s"
+
+msgid "translate_async_with_callback error: %s"
+msgstr "Error de translate_async_with_callback: %s"
+
+msgid "translate_text internal error: %s"
+msgstr "Error de translate_text internal: %s"
+
+msgid "translate_to_async_with_callback error: %s"
+msgstr "Error de translate_to_async_with_callback: %s"
+
+msgid "translate_to_cached_or_async worker error: %s"
+msgstr "Error de translate_to_cached_or_async worker: %s"
+
+msgid "translated (%.3fs) lang=%s text=%s"
+msgstr "traducido (.3fs) lang=%s text=%s"
+
+msgid "Translated Event Cache: %d"
+msgstr "Traducido Event Caché: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Traducido events in bouquet: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Traducido events in caché: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Traducido events in caché: (controlador no ready)"
+
+msgid "Translated in background: %d"
+msgstr "Traducido in segundo plano: %d"
+
+msgid "Translated in Background: %d"
+msgstr "Traducido in Segundo plano: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Traducido in Bouquet: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Traducido: %d   |   Skipped: %d"
+
+msgid "Translated: %s"
+msgstr "Traducido: %s"
+
+msgid "Translation completed"
+msgstr "Traducción completed"
+
+msgid "Translation language"
+msgstr "Traducción idioma"
+
+msgid "translation result invalid"
+msgstr "traducción result inválido"
+
+msgid "translation returned empty"
+msgstr "traducción returned vacío"
+
+msgid "translation returned None"
+msgstr "traducción returned None"
+
+msgid "Turkish"
+msgstr "Turco"
+
+msgid "Ukrainian (Українська)"
+msgstr "Ukrainian (Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°)"
+
+msgid "Unhandled error: %s"
+msgstr "Error de Unhandled: %s"
+
+msgid "Until dismissed"
+msgstr "Hasta que se cierre"
+
+msgid "Urdu (اردو)"
+msgstr "Urdu (Ø§Ø±Ø¯Ù)"
+
+msgid "userbouquet.favourites.%s"
+msgstr "userbouquet.favourites.%s"
+
+msgid "Warm translation cache in background without blocking UI."
+msgstr "Warm traducción caché in segundo plano without blocking UI."
+
+msgid "Worker threads"
+msgstr "Trabajador hilos"
+
+msgid "Yield bouquet directory refs from bouquets.tv (or bouquets.radio)."
+msgstr "Generar bouquet directorio referencias from bouquets.tv (or bouquets.radio)."
+
+msgid "Clear cache"
+msgstr "Limpiar caché"
+
+msgid "Clear Cache"
+msgstr "Limpiar Caché"

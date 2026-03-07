@@ -1,0 +1,541 @@
+# Ukrainian translations for Fury-FHD Plugin
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury-FHD Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-06 00:00+0200\n"
+"PO-Revision-Date: 2026-02-06 16:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "+10%"
+msgstr "+10%"
+
+msgid "+13%"
+msgstr "+13%"
+
+msgid "+15%"
+msgstr "+15%"
+
+msgid "+2%"
+msgstr "+2%"
+
+msgid "+20%"
+msgstr "+20%"
+
+msgid "+25%"
+msgstr "+25%"
+
+msgid "+30%"
+msgstr "+30%"
+
+msgid "+5%"
+msgstr "+5%"
+
+msgid "+7%"
+msgstr "+7%"
+
+msgid "+9%"
+msgstr "+9%"
+
+msgid "-10%"
+msgstr "-10%"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "-20%"
+msgstr "-20%"
+
+msgid "-25%"
+msgstr "-25%"
+
+msgid "-5%"
+msgstr "-5%"
+
+msgid "..."
+msgstr "..."
+
+msgid "12h HH:MM AM/PM (e.g. 09:45 PM)"
+msgstr "12h HH:MM AM/PM (e.g. 09:45 PM)"
+
+msgid "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+msgstr "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+
+msgid "2025 Jan 01"
+msgstr "2025 Jan 01"
+
+msgid "2025/01/01 Monday"
+msgstr "2025/01/01 Monday"
+
+msgid "24h HH:MM (e.g. 21:45)"
+msgstr "24h HH:MM (e.g. 21:45)"
+
+msgid "24h HH:MM:SS (e.g. 21:45:09)"
+msgstr "24h HH:MM:SS (e.g. 21:45:09)"
+
+msgid "Black"
+msgstr "Чорний"
+
+msgid "Blue"
+msgstr "Синій"
+
+msgid "Brown"
+msgstr "Коричневий"
+
+msgid "Channel Background Selected Color:"
+msgstr "Колір фону каналу (вибрано):"
+
+msgid "Channel Description Color:"
+msgstr "Колір опису каналу:"
+
+msgid "Channel Foreground Color:"
+msgstr "Колір тексту каналу:"
+
+msgid "Channel Selected Description Color:"
+msgstr "Колір опису (вибраний канал):"
+
+msgid "Channel Selected Foreground Color:"
+msgstr "Колір тексту (вибраний канал):"
+
+msgid "ChannelSelection Style:"
+msgstr "Вибір каналів — Стиль:"
+
+msgid "ChannelSelection2_12_Posters"
+msgstr "Вибір каналів 12 — Постери"
+
+msgid "ChannelSelection2_1_Posters"
+msgstr "Вибір каналів 2 — Постери"
+
+msgid "ChannelSelection2_4_Posters"
+msgstr "Вибір каналів 4 — Постери"
+
+msgid "ChannelSelection2_6_Posters"
+msgstr "Вибір каналів 6 — Постери"
+
+msgid "ChannelSelection2_NO_Posters"
+msgstr "Вибір каналів — Без постерів"
+
+msgid "ChannelSelection_5_Backdrop"
+msgstr "Вибір каналів 5 — Фон"
+
+msgid "ChannelSelection_5_Posters"
+msgstr "Вибір каналів 5 — Постери"
+
+msgid "ChannelSelection_NO_Posters"
+msgstr "Вибір каналів — Без постерів"
+
+msgid "Color Style:"
+msgstr "Стиль кольору:"
+
+msgid "Cravelo"
+msgstr "Cravelo"
+
+msgid "Cyan"
+msgstr "Бірюзовий"
+
+msgid "Dark Purple"
+msgstr "Темно-фіолетовий"
+
+msgid "Dark Red"
+msgstr "Темно-червоний"
+
+msgid "DarkPurple"
+msgstr "ТемноФіолетовий"
+
+msgid "DarkRed"
+msgstr "ТемноЧервоний"
+
+msgid "Date Format:"
+msgstr "Формат дати:"
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "DD Mon YYYY (e.g. 06 Feb 2026)"
+msgstr "DD Mon YYYY (e.g. 06 Feb 2026)"
+
+msgid "DD Month YYYY (e.g. 06 February 2026)"
+msgstr "DD Month YYYY (e.g. 06 February 2026)"
+
+msgid "DD Month, YYYY (e.g. 06 February, 2026)"
+msgstr "DD Month, YYYY (e.g. 06 February, 2026)"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Download in progress..."
+msgstr "Завантаження триває..."
+
+msgid "Downloading Fury..."
+msgstr "Завантаження Fury..."
+
+msgid "EPGSelection Style:"
+msgstr "Вибір EPG — Стиль:"
+
+msgid "EPGSelection_1_Posters"
+msgstr "Вибір EPG 1 — Постери"
+
+msgid "EPGSelection_No_Posters"
+msgstr "Вибір EPG — Без постерів"
+
+msgid "Error by processing the skin file !!!"
+msgstr "Помилка обробки файлу скіна!"
+
+msgid "Error downloading files!"
+msgstr "Помилка завантаження файлів!"
+
+msgid "EventView Style:"
+msgstr "Перегляд подій — Стиль:"
+
+msgid "EventView_11_Posters"
+msgstr "Перегляд подій 11 — Постери"
+
+msgid "EventView_12_Posters"
+msgstr "Перегляд подій 12 — Постери"
+
+msgid "EventView_7_Posters"
+msgstr "Перегляд подій 7 — Постери"
+
+msgid "EventView_NO_Posters"
+msgstr "Перегляд подій — Без постерів"
+
+msgid "Font Size:"
+msgstr "Розмір шрифту:"
+
+msgid "Fury"
+msgstr "Fury"
+
+msgid "Fury update was done!!!\\nDo you want to restart the GUI now?"
+msgstr "Оновлення Fury завершено!!!\\\\nПерезапустити GUI зараз?"
+
+msgid "Fury-FHD Skin Mod AbouYassin7"
+msgstr "Fury-FHD Skin Mod AbouYassin7"
+
+msgid "Green"
+msgstr "Зелений"
+
+msgid "Green2"
+msgstr "Зелений 2"
+
+msgid "Grey"
+msgstr "Сірий"
+
+msgid "Grey2"
+msgstr "Сірий 2"
+
+msgid "GUI needs a restart to apply a new skin.\\nDo you want to Restart the GUI now?"
+msgstr "Потрібен перезапуск GUI, щоб застосувати нову тему.\\\\nПерезапустити GUI зараз?"
+
+msgid "HandelGotDBol"
+msgstr "HandelGotDBol"
+
+msgid "Info..."
+msgstr "Інфо..."
+
+msgid "InfoBar Style:"
+msgstr "Інфобар — Стиль:"
+
+msgid "Infobar2_2_Logo"
+msgstr "Інфобар 2 — Логотип"
+
+msgid "Infobar2_2_Posters"
+msgstr "Інфобар 2 — Постери"
+
+msgid "Infobar2_3_Backdrop"
+msgstr "Інфобар 3 — Фон"
+
+msgid "Infobar2_3_Posters"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar2_NO_Posters"
+msgstr "Інфобар — Без постерів"
+
+msgid "Infobar3_2_Backdrop"
+msgstr "Інфобар 2 — Фон"
+
+msgid "Infobar3_2_Backdrop_Black"
+msgstr "Інфобар 2 — Фон"
+
+msgid "Infobar3_2_Logo"
+msgstr "Інфобар 2 — Логотип"
+
+msgid "Infobar3_2_Posters"
+msgstr "Інфобар 2 — Постери"
+
+msgid "Infobar3_2_Posters_Black"
+msgstr "Інфобар 2 — Постери"
+
+msgid "Infobar3_3_Posters"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar3_3_Posters_Black"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar3_NO_Posters"
+msgstr "Інфобар — Без постерів"
+
+msgid "Infobar3_NO_Posters_Black"
+msgstr "Інфобар — Без постерів"
+
+msgid "Infobar4_1_Logo"
+msgstr "Інфобар 1 — Логотип"
+
+msgid "Infobar4_1_Posters"
+msgstr "Інфобар 1 — Постери"
+
+msgid "Infobar4_3_Posters"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar4_BackDrop"
+msgstr "Інфобар"
+
+msgid "Infobar4_NO_Posters"
+msgstr "Інфобар — Без постерів"
+
+msgid "Infobar5_2_Logo"
+msgstr "Інфобар 2 — Логотип"
+
+msgid "Infobar5_2_Posters"
+msgstr "Інфобар 2 — Постери"
+
+msgid "Infobar5_3_Posters"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar5_NO_Posters"
+msgstr "Інфобар — Без постерів"
+
+msgid "Infobar5_star_3_Backdrop"
+msgstr "Інфобар 3 — Фон"
+
+msgid "Infobar5_star_3_Posters"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar_2_Posters"
+msgstr "Інфобар 2 — Постери"
+
+msgid "Infobar_2_Round"
+msgstr "Інфобар"
+
+msgid "Infobar_3_Posters"
+msgstr "Інфобар 3 — Постери"
+
+msgid "Infobar_Mini"
+msgstr "Інфобар"
+
+msgid "Infobar_Mini_2"
+msgstr "Інфобар"
+
+msgid "Infobar_Mini_2_Logo"
+msgstr "Інфобар 2 — Логотип"
+
+msgid "Infobar_NO_Posters"
+msgstr "Інфобар — Без постерів"
+
+msgid "Infobar_Round"
+msgstr "Інфобар"
+
+msgid "Install failed!"
+msgstr "Помилка встановлення!"
+
+msgid "Installing updates!"
+msgstr "Встановлення оновлень!"
+
+msgid "January 01, 2025"
+msgstr "January 01, 2025"
+
+msgid "Joyful"
+msgstr "Joyful"
+
+msgid "LightWhite"
+msgstr "Світло-білий"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+msgid "Mon 01 Jan 2025"
+msgstr "Mon 01 Jan 2025"
+
+msgid "Mon DD, YYYY (e.g. Feb 06, 2026)"
+msgstr "Mon DD, YYYY (e.g. Feb 06, 2026)"
+
+msgid "Monday, 01 01 2025"
+msgstr "Monday, 01 01 2025"
+
+msgid "Mongule"
+msgstr "Mongule"
+
+msgid "Month DD, YYYY (e.g. February 06, 2026)"
+msgstr "Month DD, YYYY (e.g. February 06, 2026)"
+
+msgid "Nexa"
+msgstr "Nexa"
+
+msgid "Oily"
+msgstr "Оливковий"
+
+msgid "Orange"
+msgstr "Помаранчевий"
+
+msgid "Pink"
+msgstr "Рожевий"
+
+msgid "Poetsen_One "
+msgstr "Poetsen_One "
+
+msgid "Red"
+msgstr "Червоний"
+
+msgid "Restart GUI now?"
+msgstr "Перезапустити GUI зараз?"
+
+msgid "SecondInfobar Style:"
+msgstr "Другий інфобар — Стиль:"
+
+msgid "SecondInfobar2_NO_Posters"
+msgstr "Другий інфобар — Без постерів"
+
+msgid "SecondInfobar2_Posters"
+msgstr "Другий інфобар — Постери"
+
+msgid "SecondInfobar3_NO_Posters"
+msgstr "Другий інфобар — Без постерів"
+
+msgid "SecondInfobar3_Posters"
+msgstr "Другий інфобар — Постери"
+
+msgid "SecondInfobar4_NO_Posters"
+msgstr "Другий інфобар — Без постерів"
+
+msgid "SecondInfobar4_Posters"
+msgstr "Другий інфобар — Постери"
+
+msgid "SecondInfobar5_Signal"
+msgstr "Другий інфобар 5 — Сигнал"
+
+msgid "SecondInfobar_NO_Posters"
+msgstr "Другий інфобар — Без постерів"
+
+msgid "SecondInfobar_Posters"
+msgstr "Другий інфобар — Постери"
+
+msgid "Select Your Font:"
+msgstr "Виберіть шрифт:"
+
+msgid "Server version:"
+msgstr "Версія сервера:"
+
+msgid "Setup Fury for Fury-FHD v.%s"
+msgstr "Налаштування Fury для Fury-FHD v.%s"
+
+msgid "Skin Style:"
+msgstr "Стиль скіна:"
+
+msgid "Tenada"
+msgstr "Tenada"
+
+msgid "The update is available!\\n\\nDo you want to run the update now?"
+msgstr "Доступне оновлення!\\\\n\\\\nЗапустити оновлення зараз?"
+
+msgid "Time Format:"
+msgstr "Формат часу:"
+
+msgid "Tommy "
+msgstr "Tommy "
+
+msgid "Transparency:"
+msgstr "Прозорість:"
+
+msgid "Update failed. Please check %s"
+msgstr "Оновлення не вдалося. Перевірте %s"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Version installed:"
+msgstr "Встановлена версія:"
+
+msgid "volume2"
+msgstr "Гучність 2"
+
+msgid "volume3"
+msgstr "Гучність 3"
+
+msgid "volume4"
+msgstr "Гучність 4"
+
+msgid "VolumeBar Style:"
+msgstr "Стиль панелі гучності:"
+
+msgid "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+msgstr "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+
+msgid "Yellow"
+msgstr "Жовтий"
+
+msgid "You have the current version Fury!"
+msgstr "У вас поточна версія Fury!"
+
+msgid "You have version %s!!!"
+msgstr "У вас версія %s!!!"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "Zero"
+msgstr "Нуль"
+
+msgid "~10%"
+msgstr "≈10%"
+
+msgid "~15%"
+msgstr "≈15%"
+
+msgid "~20%"
+msgstr "≈20%"
+
+msgid "~25%"
+msgstr "≈25%"
+
+msgid "~30%"
+msgstr "≈30%"
+
+msgid "~35%"
+msgstr "≈35%"
+
+msgid "~40%"
+msgstr "≈40%"
+
+msgid "~45%"
+msgstr "≈45%"
+
+msgid "~5%"
+msgstr "≈5%"
+
+msgid "~50%"
+msgstr "≈50%"

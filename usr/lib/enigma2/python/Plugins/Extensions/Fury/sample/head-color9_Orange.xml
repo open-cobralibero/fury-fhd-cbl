@@ -1,0 +1,596 @@
+<skin>
+  <!-- Fury-FHD-CBL skin, Mod By Islam & With the help of Mohamed El-Safty -->
+  <!-- openDreamy skin, based on Dreamy by mmark  -->
+  <output id="0">
+    <resolution bpp="32" xres="1920" yres="1080" />
+  </output>
+  <parameters>
+    <parameter name="AutotimerEnabledIcon" value="8,3,36,36" />
+    <parameter name="AutotimerRecordIcon" value="48,8,30,30" />
+    <parameter name="ChoicelistDash" value="0,3,1000,50" />
+    <parameter name="ChoicelistName" value="75,0,1000,40" />
+    <parameter name="ChoicelistNameSingle" value="25,0,1000,40" />
+    <parameter name="ChoicelistIcon" value="10,4,64,50" />
+    <parameter name="ConfigListSeperator" value="600" />
+    <parameter name="ConfigListSlider" value="15,0" />
+    <parameter name="FileListName" value="68,0,1000,50" />
+    <parameter name="FileListIcon" value="10,12,36,27" />
+    <parameter name="FileListMultiName" value="100,0,1000,50" />
+    <parameter name="FileListMultiIcon" value="55,7,35,35" />
+    <parameter name="FileListMultiLock" value="8,4,35,35" />
+    <parameter name="PluginBrowserName" value="180,5,38" />
+    <parameter name="PluginBrowserDescr" value="180,39,27" />
+    <parameter name="PluginBrowserIcon" value="15,16,130,40" />
+    <parameter name="PluginBrowserDownloadName" value="120,8,38" />
+    <parameter name="PluginBrowserDownloadDescr" value="120,42,25" />
+    <parameter name="PluginBrowserDownloadIcon" value="15,0,90,76" />
+    <parameter name="EpgListMulti" value="255,220,155,25" />
+    <parameter name="ServiceInfo" value="0,0,450,50" />
+    <parameter name="ServiceInfoLeft" value="0,0,850,45" />
+    <parameter name="ServiceInfoRight" value="450,0,1400,45" />
+    <parameter name="SelectionListDescr" value="60,3,990,45" />
+    <parameter name="SelectionListLock" value="15,3,41,36" />
+    <parameter name="SelectionListLockOff" value="15,3,38,36" />
+    <parameter name="VirtualKeyboard" value="68,68"/>
+    <parameter name="VirtualKeyBoardAlignment" value="80,80"/>
+    <parameter name="VirtualKeyBoardPadding" value="4,4"/>
+    <parameter name="VirtualKeyboardFont" value="Regular;40"/>
+    <parameter name="VirtualKeyBoardShiftColors" value="0x00ffffff,0x00ffffff,0x0000ffff,0x00ff00ff"/>
+    <parameter name="AboutHddSplit" value="1" />
+    <parameter name="DreamexplorerName" value="62, 0, 1200, 38" />
+    <parameter name="DreamexplorerIcon" value="15, 4, 30, 30" />
+    <parameter name="PicturePlayerThumb" value="30, 285, 45, 300, 30, 25" />
+    <parameter name="PlayListName" value="65,2,1000,50" />
+    <parameter name="PlayListIcon" value="10,0,50,50" />
+    <parameter name="TMDbListFont" value="Regular;32" />
+    <parameter name="TMDbListName" value="10,0,1100,40" />
+    <parameter name="PiconManagerList" value="15,0,1680,35" />
+    <parameter name="PiconManagerListFont" value="Regular;30" />
+    <parameter name="WeatherPluginCity" value="10,5,400,40" />
+    <parameter name="WeatherPluginEntryListFont2" value="Regular;30" />
+    <parameter name="WeatherPluginDegreetype" value="410,5,80,40" />
+    <parameter name="OSCamInfoBGcolors" value="0x40fcfce1, 0x40f1f6e6, 0x40e2e0ef" />
+  </parameters>
+  <!-- Colors FHD -->
+  <colors>
+    <color name="#10000000" value="#10000000" />
+    <color name="#100066ea" value="#100066ea" />
+    <color name="#10083980" value="#10083980" />
+    <color name="#101010" value="#00101010" />
+    <color name="#10101010" value="#10101010" />
+    <color name="#10202020" value="#10202020" />
+    <color name="#102e59" value="#00102e59" />
+    <color name="#10303030" value="#10303030" />
+    <color name="#10333333" value="#10333333" />
+    <color name="#10404040" value="#10404040" />
+    <color name="#105a5a5a" value="#105a5a5a" />
+    <color name="#10808080" value="#10808080" />
+    <color name="#108091" value="#00108091" />
+    <color name="#1080911" value="#01080911" />
+    <color name="#10b3b3b3" value="#10b3b3b3" />
+    <color name="#114c0000" value="#114c0000" />
+    <color name="#120f2d" value="#00120f2d" />
+    <color name="#121212" value="#00121212" />
+    <color name="#14a7d2" value="#0014a7d2" />
+    <color name="#152a62" value="#00152a62" />
+    <color name="#16000000" value="#16000000" />
+    <color name="#1842" value="#00001842" />
+    <color name="#193e" value="#0000193e" />
+    <color name="#1a27408b" value="#1a27408b" />
+    <color name="#1d283c" value="#001d283c" />
+    <color name="#1e58" value="#00001e58" />
+    <color name="#1edb76" value="#001edb76" />
+    <color name="#20009f3c" value="#20009f3c" />
+    <color name="#20101010" value="#20101010" />
+    <color name="#202020" value="#00202020" />
+    <color name="#20202020" value="#20202020" />
+    <color name="#20224f" value="#0020224f" />
+    <color name="#20303030" value="#20303030" />
+    <color name="#203060" value="#00203060" />
+    <color name="#20343c4f" value="#20343c4f" />
+    <color name="#204176b6" value="#204176b6" />
+    <color name="#20808080" value="#20808080" />
+    <color name="#20b81c46" value="#20b81c46" />
+    <color name="#21000000" value="#21000000" />
+    <color name="#242fd" value="#000242fd" />
+    <color name="#25062748" value="#25062748" />
+    <color name="#254f7497" value="#254f7497" />
+    <color name="#2771ff" value="#002771ff" />
+    <color name="#293754" value="#00293754" />
+    <color name="#2b68ff" value="#002b68ff" />
+    <color name="#30000000" value="#30000000" />
+    <color name="#30008000" value="#30008000" />
+    <color name="#30101010" value="#30101010" />
+    <color name="#301b3c85" value="#301b3c85" />
+    <color name="#303030" value="#00303030" />
+    <color name="#30808080" value="#30808080" />
+    <color name="#31000000" value="#31000000" />
+    <color name="#325e" value="#0000325e" />
+    <color name="#33000000" value="#33000000" />
+    <color name="#33294a6b" value="#33294a6b" />
+    <color name="#333333" value="#00333333" />
+    <color name="#363b38" value="#00363b38" />
+    <color name="#389416" value="#00389416" />
+    <color name="#38ff48" value="#0038ff48" />
+    <color name="#40000000" value="#40000000" />
+    <color name="#404030" value="#00404030" />
+    <color name="#404040" value="#00404040" />
+    <color name="#40404040" value="#40404040" />
+    <color name="#41000000" value="#41000000" />
+    <color name="#4205" value="#00004205" />
+    <color name="#44000000" value="#44000000" />
+    <color name="#4e5a74" value="#004e5a74" />
+    <color name="#4f7497" value="#004f7497" />
+    <color name="#50000000" value="#50000000" />
+    <color name="#505050" value="#00505050" />
+    <color name="#50808080" value="#50808080" />
+    <color name="#50ef" value="#000050ef" />
+    <color name="#51fff7" value="#0051fff7" />
+    <color name="#5202020" value="#05202020" />
+    <color name="#5303030" value="#05303030" />
+    <color name="#54242424" value="#54242424" />
+    <color name="#5483fe" value="#005483fe" />
+    <color name="#55000000" value="#55000000" />
+    <color name="#5b00" value="#00005b00" />
+    <color name="#60000080" value="#60000080" />
+    <color name="#606060" value="#00606060" />
+    <color name="#60cecece" value="#60cecece" />
+    <color name="#66" value="#00000066" />
+    <color name="#66bfff" value="#0066bfff" />
+    <color name="#66ff" value="#000066ff" />
+    <color name="#6e6e6e" value="#006e6e6e" />
+    <color name="#707070" value="#00707070" />
+    <color name="#7300" value="#00007300" />
+    <color name="#74b1fe" value="#0074b1fe" />
+    <color name="#80000000" value="#80000000" />
+    <color name="#808080" value="#00808080" />
+    <color name="#818181" value="#00818181" />
+    <color name="#83980" value="#00083980" />
+    <color name="#92cbdf" value="#0092cbdf" />
+    <color name="#999999" value="#00999999" />
+    <color name="#9dc042" value="#009dc042" />
+    <color name="#a08500" value="#00a08500" />
+    <color name="#a0a0a0" value="#00a0a0a0" />
+    <color name="#aa001842" value="#aa001842" />
+    <color name="#abe9" value="#0000abe9" />
+    <color name="#b0b0b0" value="#00b0b0b0" />
+    <color name="#b8b8b8" value="#00b8b8b8" />
+    <color name="#bab329" value="#00bab329" />
+    <color name="#c4c4c4" value="#00c4c4c4" />
+    <color name="#cc4942" value="#00cc4942" />
+    <color name="#cccccc" value="#00cccccc" />
+    <color name="#d0d0d0" value="#00d0d0d0" />
+    <color name="#d1255" value="#000d1255" />
+    <color name="#daa520" value="#00daa520" />
+    <color name="#dc87ff" value="#00dc87ff" />
+    <color name="#dcaaaa" value="#00dcaaaa" />
+    <color name="#dcdcdc" value="#00dcdcdc" />
+    <color name="#dddddd" value="#00dddddd" />
+    <color name="#df0b1300" value="#df0b1300" />
+    <color name="#e1e1ef" value="#00e1e1ef" />
+    <color name="#e5b243" value="#00e5b243" />
+    <color name="#e83f5" value="#000e83f5" />
+    <color name="#ecbb41" value="#00ecbb41" />
+    <color name="#eeeeee" value="#00eeeeee" />
+    <color name="#f1f5e6" value="#00f1f5e6" />
+    <color name="#f2f2f2" value="#00f2f2f2" />
+    <color name="#fba207" value="#00fba207" />
+    <color name="#ff00" value="#0000ff00" />
+    <color name="#ff0000" value="#00ff0000" />
+    <color name="#ff000000" value="#ff000000" />
+    <color name="#ff101010" value="#ff101010" />
+    <color name="#ff2525" value="#00ff2525" />
+    <color name="#ffba00" value="#00ffba00" />
+    <color name="#ffd700" value="#00ffd700" />
+    <color name="#ffe500" value="#00ffe500" />
+    <color name="#fff000" value="#00fff000" />
+    <color name="#fff3e7" value="#00fff3e7" />
+    <color name="#ffff00" value="#00ffff00" />
+    <color name="#ffff40" value="#00ffff40" />
+    <color name="#ffffffff" value="#ffffffff" />
+    <color name="background" value="#20000000" />
+    <color name="backpurple" value="#0073c6ff" />
+    <color name="bkblue" value="#00162b49" />
+    <color name="bkinfobar" value="#00204372" />
+    <color name="black" value="#00000000" />
+    <color name="blue" value="#00879ce1" />
+    <color name="bluenew" value="#00272e43" />
+    <color name="bluetransparent" value="#08001e4b" />
+    <color name="bluette" value="#151311" />
+    <color name="dark" value="#00242424" />
+    <color name="darkgrey" value="#00555556" />
+    <color name="dreamy" value="#00182963" />
+    <color name="foreground" value="#00f0f0f0" />
+    <color name="green" value="#0056c856" />
+    <color name="greentransparent" value="#08004c00" />
+    <color name="grey" value="#00aaaaaa" />
+    <color name="header" value="#063d1905" />
+    <color name="infobarBG" value="#41080808" />
+    <color name="listbox" value="#000f56a4" />
+    <color name="ltbluette" value="#bf9f60" />
+    <color name="noTransBG" value="#00101214" />
+    <color name="orange" value="#00ffc000" />
+    <color name="rds_text_bg" value="#00003258" />
+    <color name="red" value="#00ff4a3c" />
+    <color name="redtransparent" value="#084c0000" />
+    <color name="rssviewtop" value="#00005050" />
+    <color name="secondBG" value="#18101214" />
+    <color name="secondFG" value="#00fcc000" />
+    <color name="selectedBG" value="#06303240" />
+    <color name="selectedFG" value="#00fcc000" />
+    <color name="transparent" value="#ff111111" />
+    <color name="transpBlack" value="#54111112" />
+    <color name="transpWhite" value="#70f0f0f0" />
+    <color name="trbluette" value="#201b3c85" />
+    <color name="white" value="#00ffffff" />
+    <color name="yellow" value="#00ffc000" />
+    <color name="yellowtransparent" value="#084b4b00" />
+	<color name="CursorBackground" value="#0037474f" />
+	<color name="gradient_BGLM" value="#1b5a91" />
+	<color name="#ededed" value="#00ededed" />
+  </colors>
+  <!-- Main screen colors (id=0 Framebuffer) FHD -->
+  <windowstyle type="skinned" id="0">
+    <title offset="130,15" font="Regular;40" />
+    <configList entryFont="Regular;28" valueFont="Regular;28" />
+    <scrolllabel scrollbarWidth="8" scrollbarBorderWidth="1" />
+    <listbox scrollbarWidth="8" scrollbarBorderWidth="1" pageSize="0" scrollbarOffset="5" />
+    <color name="Background" color="background" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="background" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="#204176b6" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="background" />
+    <color name="ListboxMarkedForeground" color="#ff00" />
+    <color name="ListboxMarkedAndSelectedBackground" color="#204176b6" />
+    <color name="ListboxMarkedAndSelectedForeground" color="#ff00" />
+    <color name="WindowTitleForeground" color="ltbluette" />
+    <color name="WindowTitleBackground" color="bluette" />
+    <!-- screen border png's -->
+    <borderset name="bsWindow">
+      <pixmap pos="bpTop" filename="Fury-FHD-CBL/border/Bg75/0F0F0F.png" />
+      <pixmap pos="bpLeft" filename="Fury-FHD-CBL/border/Bg7/0F0F0F.png" />
+      <pixmap pos="bpRight" filename="Fury-FHD-CBL/border/Bg7/0F0F0F.png" />
+      <pixmap pos="bpBottom" filename="Fury-FHD-CBL/border/Bg7/0F0F0F.png" />
+    </borderset>
+    <scrolllabel scrollbarWidth="8" scrollbarBorderWidth="1" />
+    <listbox scrollbarWidth="8" scrollbarBorderWidth="1" enableWrapAround="1" />
+  </windowstyle>
+  <!-- Main screen colors (id=1 LCD) FHD -->
+  <windowstyle type="skinned" id="1">
+    <color name="Background" color="header" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="header" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="header" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="header" />
+    <color name="ListboxMarkedForeground" color="white" />
+    <color name="ListboxMarkedAndSelectedBackground" color="header" />
+    <color name="ListboxMarkedAndSelectedForeground" color="white" />
+    <color name="WindowTitleForeground" color="white" />
+    <color name="WindowTitleBackground" color="header" />
+  </windowstyle>
+  <!-- Main screen colors (id=2 Color OLED (dm800se)) FHD -->
+  <windowstyle type="skinned" id="2">
+    <color name="Background" color="header" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="header" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="header" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="header" />
+    <color name="ListboxMarkedForeground" color="white" />
+    <color name="ListboxMarkedAndSelectedBackground" color="header" />
+    <color name="ListboxMarkedAndSelectedForeground" color="white" />
+    <color name="WindowTitleForeground" color="white" />
+    <color name="WindowTitleBackground" color="header" />
+  </windowstyle>
+  <!-- ePixmap position="960,640" size="256,256" pixmap="menu/camcenter.png" alphatest="blend"/><ePixmap position="1440,180" size="256,256" pixmap="menu/info_screen.png" alphatest="blend" backgroundColor="header" transparent="1" /-->
+  <!-- RDS info FHD -->
+  <screen name="RdsInfoDisplay" position="fill" backgroundColor="transparent" flags="wfNoBorder" zPosition="-2">
+    <widget name="RassLogo" position="70,600" size="100,50" pixmap="skin_default/icons/rass_logo.png" />
+    <widget name="RadioText" position="70,650" size="1800,50" font="Regular;32" noWrap="1" halign="left" backgroundColor="rds_text_bg" />
+    <widget name="RtpText" position="70,700" size="1800,50" font="Regular;32" noWrap="1" halign="right" backgroundColor="rds_text_bg" />
+    <!--eLabel name="DEBUG" text="S000" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Restart Panel FHD -->
+  <screen name="Standby" position="0,0" size="1920,1080" title="Standby" flags="wfNoBorder" backgroundColor="background">
+  </screen>
+  <screen name="QuitMainloopScreen" position="0,0" size="1920,1080" backgroundColor="black">
+    <ePixmap position="center,220" size="380,380" pixmap="Fury-FHD-CBL/menu/dreamybk.png" zPosition="1" alphatest="blend" />
+    <widget name="text" position="center,center" size="1200,196" font="Regular;40" valign="center" halign="center" backgroundColor="black" foregroundColor="white" />
+  </screen>
+  <!-- Subtitle area FHD -->
+  <screen name="SubtitleDisplay" position="fill" zPosition="-1" backgroundColor="transparent" flags="wfNoBorder" />
+  <screen name="QuickSubtitlesConfigMenu" position="398,225" size="1125,525" title="Subtitle settings" backgroundColor="transparent" flags="wfNoBorder">
+    <eLabel position="0,0" size="1125,525" zPosition="-11" backgroundColor="header" />
+    <eLabel position="2,2" size="1122,522" zPosition="-10" backgroundColor="header" />
+    <widget name="config" position="8,8" size="1110,450" itemHeight="45" font="Regular;30" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="header" transparent="1" />
+    <widget name="videofps" position="8,450" size="1110,75" backgroundColor="header" transparent="1" zPosition="1" font="Regular;30" valign="center" halign="center" />
+  </screen>
+  <!-- Scart -->
+  <screen name="Scart" position="fill" backgroundColor="transparent">
+    <!--eLabel name="DEBUG" text="S003" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Mute FHD -->
+  <screen name="Mute" title="Mute" position="915,105" size="79,55" backgroundColor="transparent" zPosition="10" flags="wfNoBorder">
+    <ePixmap pixmap="Fury-FHD-CBL/skin_default/mute.png" position="-1,0" size="79,55" transparent="1" alphatest="blend" zPosition="100" />
+  </screen>
+  <!-- Volumebar FHD -->
+  <screen name="Volume" position="783,21" size="340,75" title="Volume" flags="wfNoBorder" backgroundColor="transparent" zPosition="99" cornerRadius="20">
+    <widget name="Volume" position="73,33" size="178,5" foregroundColor="white" zPosition="3" transparent="1" />
+    <ePixmap position="8,4" size="64,84" backgroundColor="header" zPosition="1" pixmap="icons/volume.png" transparent="1" alphatest="blend" />
+    <widget name="VolumeText" position="250,12" size="85,50" font="Regular;35" backgroundColor="background" foregroundColor="white" halign="center" valign="center" zPosition="99" transparent="1" />
+    <eLabel position="73,35" size="178,1" backgroundColor="white" />
+    <eLabel position="3,3" size="334,69" zPosition="-1" transparent="0" name="2" cornerRadius="20" backgroundColor="header" />
+    <eLabel position="1,1" size="338,73" backgroundColor="ltbluette" zPosition="-2" transparent="0" cornerRadius="20" />
+    <!--eLabel name="DEBUG" text="S005" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Unhandled key FHD -->
+  <screen name="UnhandledKey" title="UnhandledKey" position="1770,40" size="80,105" backgroundColor="transparent" zPosition="100" flags="wfNoBorder">
+    <widget name="UnhandledKeyPixmap" pixmap="Fury-FHD-CBL/skin_default/unhandled-key.png" position="0,0" size="80,105" alphatest="off" />
+    <!--eLabel name="DEBUG" text="S006" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- NumberZap FHD -->
+  <screen name="NumberZap" title="Ch." position="center,center" size="500,200" backgroundColor="transparent" flags="wfNoBorder">
+    <widget name="number" position="0,0" size="500,90" font="Regular;90" valign="center" halign="center" foregroundColor="yellow" backgroundColor="header" transparent="0" borderColor="header" borderWidth="2" />
+    <widget name="servicename" position="0,80" size="500,60" font="Regular;44" valign="center" halign="center" foregroundColor="grey" backgroundColor="header" transparent="0" borderColor="header" borderWidth="2" />
+    <!--eLabel name="DEBUG" text="S007" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- NumberZapExt With Name FHD -->
+  <screen name="NumberZapWithName" title="Ch." position="70,40" size="800,200" backgroundColor="header" flags="wfNoBorder">
+    <widget name="channel" position="0,0" size="250,90" font="Regular;50" valign="center" halign="left" foregroundColor="grey" backgroundColor="transparent" transparent="1" borderColor="header" borderWidth="2" />
+    <widget name="number" position="200,0" size="350,90" font="Regular;50" valign="center" halign="left" foregroundColor="#303030" backgroundColor="transparent" transparent="1" borderColor="header" borderWidth="2" />
+    <widget name="servicename" position="0,80" size="780,60" font="Regular;44" valign="center" halign="left" foregroundColor="grey" backgroundColor="transparent" transparent="1" borderColor="header" borderWidth="2" />
+    <!--eLabel name="DEBUG" text="S007a" position="40,45" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- NumberZapExt FHD -->
+  <screen name="NumberZapExt" position="654,463" size="700,160" title="Channel">
+    <widget name="chPicon" position="474,10" size="220,132" alphatest="on" />
+    <widget name="number" position="5,35" size="190,30" halign="right" font="Regular;26" />
+    <widget name="chNum" position="210,34" size="240,30" halign="left" font="Regular;26" />
+    <widget name="channel" position="5,77" size="190,30" halign="right" font="Regular;26" />
+    <widget name="chName" position="209,75" size="254,30" halign="left" font="Regular;24" noWrap="1" />
+    <widget name="bouquet" position="5,115" size="190,30" halign="right" font="Regular;26" />
+    <widget name="chBouq" position="215,115" size="254,30" halign="left" font="Regular;24" noWrap="1" />
+    <!--eLabel name="DEBUG" text="S007b" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- TextBox FHD -->
+  <screen name="TextBox" position="center,center" size="900,400" title="Message...">
+    <widget name="text" position="10,5" size="880,380" font="Regular;32" foregroundColor="#b0b0b0" transparent="1" />
+    <!--eLabel name="DEBUG" text="S008" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Inputbox FHD -->
+  <screen name="InputBox" position="center,center" size="900,200" title="Input">
+    <widget name="text" position="10,20" size="880,80" font="Regular;34" />
+    <widget name="input" position="10,130" size="880,40" font="Regular;34" transparent="1" />
+    <!--eLabel name="DEBUG" text="S009" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Minute input FHD -->
+  <screen name="MinuteInput" position="center,center" size="400,100" title="Seek">
+    <widget name="minutes" position="80,30" size="240,50" halign="right" font="Regular;34" />
+    <!--eLabel name="DEBUG" text="S010" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Subservice quickzap FHD -->
+  <screen name="SubservicesQuickzap" position="center,center" size="600,300" title="Subservices" backgroundColor="transparent" flags="wfNoBorder">
+    <widget source="session.RecordState" render="Pixmap" pixmap="skin_default/icons/record.png" position="450,0" zPosition="2" size="14,14" alphatest="on">
+      <convert type="ConditionalShowHide">Blink</convert>
+    </widget>
+    <eLabel text="Subservices" position="0,0" size="600,30" font="Regular;24" backgroundColor="#33294a6b" />
+    <widget name="CurrentSubserviceNumber" position="10,40" size="200,68" font="Regular;26" backgroundColor="#33294a6b" shadowColor="header" shadowOffset="-1,-1" />
+    <widget source="session.CurrentService" render="Label" position="10,80" size="580,68" font="Regular;26" backgroundColor="#33294a6b" shadowColor="header" shadowOffset="-1,-1">
+      <convert type="ServiceName">Name</convert>
+    </widget>
+    <!--eLabel name="DEBUG" text="S012" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Video Finetune FHD -->
+  <screen name="VideoFinetune" position="fill" backgroundColor="header">
+    <widget source="Canvas" render="Canvas" position="center,center" size="1280,720" font="Regular;32" />
+    <!--eLabel name="DEBUG" text="S013" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- AutoVideo FHD -->
+  <screen name="AutoVideoModeLabel" title="AutoVideoMode" position="80,80" size="500,80" flags="wfNoBorder">
+    <widget name="content" position="10,5" size="480,40" font="Regular;32" transparent="1" />
+    <widget name="restxt" position="10,26" size="480,40" font="Regular;32" transparent="1" />
+    <!--eLabel name="DEBUG" text="S014" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- VideoMode FHD -->
+  <screen name="VideoMode" title="VideoMode" position="85,45" size="500,80" backgroundColor="transparent" flags="wfNoBorder">
+    <widget name="videomode" position="10,0" size="480,60" backgroundColor="transparent" transparent="1" font="Regular;32" borderColor="header" borderWidth="2" valign="center" halign="left" />
+    <!--eLabel name="DEBUG" text="S015" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- ChapterZap FHD -->
+  <screen name="ChapterZap" title="ChapterZap" position="center,center" size="350,500" flags="wfNoBorder">
+    <widget name="chapter" position="20,15" size="310,50" font="Regular;32" backgroundColor="#10101010" foregroundColor="#808080" transparent="1" />
+    <widget name="number" position="20,75" size="480,50" font="Regular;32" backgroundColor="#10101010" foregroundColor="backpurple" zPosition="1" transparent="1" />
+    <!--eLabel name="DEBUG" text="S016" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Picture in picture setup FHD -->
+  <screen name="PiPSetup" position="center,center" size="820,270" backgroundColor="header" flags="wfNoBorder" title="PiPSetup">
+    <widget name="text" position="10,10" size="800,240" font="Regular;30" transparent="1" />
+    <!--eLabel name="DEBUG" text="S017" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- PiP Zap FHD -->
+  <screen name="PictureInPictureZapping" title="PiPZap" position="center,80" size="200,60" zPosition="-1" backgroundColor="transparent" flags="wfNoBorder">
+    <eLabel text="PiP-Zap" position="0,0" size="200,60" backgroundColor="transparent" transparent="1" font="Regular;32" borderColor="header" borderWidth="3" valign="center" halign="center" />
+    <!--eLabel name="DEBUG" text="S018" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- ScreenSaver FHD -->
+<screen name="Screensaver" title="ScreenSaver" position="0,0" flags="wfNoBorder" backgroundColor="transparent" size="1920,1080">
+  <eLabel position="0,0" size="1920,1080" backgroundColor="background" zPosition="0" />
+  <widget name="picture" pixmap="Fury-FHD-CBL/picon_default.png" position="0,0" size="220,132" alphatest="on" zPosition="1" transparent="1" />
+</screen>  <!-- Virtual Keyboard FHD -->
+  <screen name="VirtualKeyBoard" title="Virtual KeyBoard" position="center,center" size="1920,1080" backgroundColor="transparent">
+    <widget name="header" conditional="header" position="170,190" size="990,45" font="Regular; 34" backgroundColor="header" foregroundColor="ltbluette" halign="left" transparent="1" noWrap="1" />
+    <widget name="prompt" conditional="prompt" position="170,190" size="990,45" font="Regular; 34" backgroundColor="header" foregroundColor="ltbluette" halign="left" transparent="1" noWrap="1" />
+    <eLabel position="170,280" size="780,50" backgroundColor="#10808080" />
+    <eLabel position="172,282" size="776,46" backgroundColor="header" zPosition="1" />
+    <widget name="text" position="180,280" size="750,42" font="Regular;36" transparent="1" noWrap="1" halign="right" backgroundColor="header" zPosition="5" />
+    <widget name="list" position="170,350" size="950,600" font="Regular;50" itemHeight="70" selectionDisabled="1" backgroundColor="#10101010" transparent="1" scrollbarMode="showNever" cornerRadius="10" />
+    <panel name="p800_Template" />
+    <panel name="p700_DateMid" />
+    <panel name="ScreenTemplateAllColorButtons_template1" />
+    <!--eLabel name="DEBUG" text="S021" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Numerical help dialog FHD -->
+  <screen name="NumericalTextInputHelpDialog" position="1260,30" size="609,244" backgroundColor="#10404040" zPosition="2" flags="wfNoBorder">
+    <eLabel position="2,2" size="609,244" backgroundColor="#404040" zPosition="-1" />
+    <widget name="key1" position="2,2" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key2" position="204,2" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key3" position="406,2" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key4" position="2,62" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key5" position="204,62" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key6" position="406,62" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key7" position="2,122" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key8" position="204,122" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key9" position="406,122" size="200,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="help1" position="2,183" size="100,59" font="Regular;25" halign="center" valign="center" />
+    <widget name="key0" position="104,183" size="400,59" font="Regular;28" halign="center" valign="center" />
+    <widget name="help2" position="506,183" size="100,59" font="Regular;25" halign="center" valign="center" />
+    <!--eLabel name="DEBUG" text="S022" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Help menu FHD -->
+  <screen name="HelpMenu" position="fill" title="HELP WINDOW" backgroundColor="transparent" flags="wfNoBorder">
+    <panel name="p800_Template" />
+    <panel name="p700_DateMid" />
+    <!-- Code -->
+    <ePixmap position="900,180" size="10,720" pixmap="Fury-FHD-CBL/box/maxbar.png" alphatest="blend" zPosition="3" />
+    <widget name="list" position="70,180" size="820,720" itemHeight="45" font="Regular;30" scrollbarMode="showOnDemand" transparent="1" zPosition="2" cornerRadius="10" />
+    <widget name="rc" position="1000,180" pixmaps="skin_default/rc.png,skin_default/rc1.png,skin_default/rc2.png" zPosition="10" size="160,500" alphatest="blend" />
+    <widget name="long_key" position="920,830" size="300,80" font="Regular;30" zPosition="10" halign="center" valign="center" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="arrowdown" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowdown2" pixmap="skin_default/arrowdown.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowup" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <widget name="arrowup2" pixmap="skin_default/arrowup.png" position="-100,-100" zPosition="11" size="37,70" alphatest="on" />
+    <ePixmap position="60,960" size="700,90" pixmap="Fury-FHD-CBL/icons/team_logo.png" alphatest="blend" zPosition="2" />
+    <!--eLabel name="DEBUG" text="S023" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
+  </screen>
+  <!-- Menu Horizental-->
+  <screen name="Animmain" position="0,0" size="1920,1080" title="Mainmenu" backgroundColor="transparent" flags="wfNoBorder">
+    <eLabel position="0,885" size="1920,195" backgroundColor="header" zPosition="-1" />
+    <eLabel position="0,885" size="1920,8" backgroundColor="bluette" zPosition="-1" />
+    <widget name="title" position="0,735" size="1920,150" zPosition="3" halign="center" valign="bottom" font="Regular;90" backgroundColor="header" transparent="1" />
+    <widget source="label1" render="Label" position="0,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label2" render="Label" position="384,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <eLabel position="765,906" size="306,156" zPosition="1" backgroundColor="bluette" />
+    <widget source="label3" render="Label" position="768,909" size="300,150" font="Regular;36" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="0" />
+    <widget source="label4" render="Label" position="1152,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget source="label5" render="Label" position="1536,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+  </screen>
+  <screen name="Iconmain" position="0,0" size="1920,1080" title="Mainmenu" backgroundColor="transparent" flags="wfNoBorder">
+    <widget name="title" position="0,735" size="1920,150" zPosition="3" halign="center" valign="bottom" font="Regular;90" backgroundColor="header" transparent="1" />
+    <eLabel position="0,885" size="1920,8" backgroundColor="bluette" zPosition="-1" />
+    <widget source="label1" render="Label" position="23,908" size="300,150" font="Regular;30" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label1s" render="Label" position="23,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="pixmap1" position="23,908" size="300,150" zPosition="1" transparent="1" alphatest="on" />
+    <widget source="label2" render="Label" position="338,908" size="300,150" font="Regular;30" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label2s" render="Label" position="338,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="pixmap2" position="338,908" size="300,150" zPosition="1" transparent="1" alphatest="on" />
+    <widget source="label3" render="Label" position="653,908" size="300,150" font="Regular;30" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label3s" render="Label" position="653,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="pixmap3" position="653,908" size="300,150" zPosition="1" transparent="1" alphatest="on" />
+    <widget source="label4" render="Label" position="968,908" size="300,150" font="Regular;30" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label4s" render="Label" position="968,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="pixmap4" position="968,908" size="300,150" zPosition="1" transparent="1" alphatest="on" />
+    <widget source="label5" render="Label" position="1283,908" size="300,150" font="Regular;30" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label5s" render="Label" position="1283,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="pixmap5" position="1283,908" size="300,150" zPosition="1" transparent="1" alphatest="on" />
+    <widget source="label6" render="Label" position="1598,908" size="300,150" font="Regular;30" halign="center" valign="center" zPosition="2" backgroundColor="header" transparent="1" />
+    <widget source="label6s" render="Label" position="1598,908" size="300,150" font="Regular;33" halign="center" valign="center" zPosition="2" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget name="pixmap6" position="1598,908" size="300,150" zPosition="1" transparent="1" alphatest="on" />
+  </screen>
+  <!-- Menu FHD -->
+  <screen name="Menu" position="fill" title="Menu" backgroundColor="transparent" flags="wfNoBorder">
+    <panel name="MenuTemplate" />
+    <ePixmap pixmap="menu/setup_selection.png" position="901,670" size="256,256" zPosition="2" alphatest="blend" />
+  </screen>
+  <!-- Info About FHD -->
+  <screen name="information">
+    <!--ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/OAWeather/Images/temp_high_low.png" position="1280,394" size="42,90" zPosition="3" transparent="1" alphatest="blend" /-->
+    <panel name="p800_Template" />
+    <panel name="p800_Ext" />
+    <panel name="p800_Date2" />
+    <panel name="M" />
+    <panel name="ScreenTemplateAllColorButtons_template1" />
+    <widget name="information" position="70,170" size="1170,750" colPosition="445" conditional="information" divideChar="|" leftColAlign="left" rightColAlign="left" split="1" font="Regular;28" backgroundColor="header" scrollbarMode="showOnDemand" transparent="1" />
+    <widget name="HintText" position="70,165" size="0,0" font="Regular;42" halign="left" foregroundColor="ltbluette" backgroundColor="header" transparent="1" />
+    <widget source="key_help" render="Label" position="1077,58" conditional="key_help" size="120,40" cornerRadius="10" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center" zPosition="1">
+      <convert type="ConditionalShowHide" />
+    </widget>
+    <widget source="key_menu" render="Label" position="1290,58" conditional="key_menu" size="120,40" cornerRadius="10" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center" zPosition="1">
+      <convert type="ConditionalShowHide" />
+    </widget>
+    <widget source="session.Event_Now" render="Progress" position="1335,650" size="500,8" foregroundColor="ltbluette" backgroundColor="header" transparent="1" borderColor="bluette" cornerRadius="5" borderWidth="1" zPosition="1">
+      <convert type="furyReceiverInfo">MemTotal</convert>
+    </widget>
+    <widget source="session.CurrentService" render="Label" position="1335,661" size="500,26" halign="left" valign="center" font="Regular;20" transparent="1" foregroundColor="white" backgroundColor="header" zPosition="1">
+      <convert type="furyReceiverInfo">MemTotal</convert>
+    </widget>
+    <ePixmap position="1283,650" zPosition="1" size="50,50" scale="1" pixmap="s/memory.png" alphatest="blend" />
+    <widget source="session.Event_Now" render="Progress" position="1335,700" size="500,8" foregroundColor="ltbluette" backgroundColor="header" transparent="1" borderColor="bluette" cornerRadius="5" borderWidth="1" zPosition="1">
+      <convert type="furyCpuUsage">$0</convert>
+    </widget>
+    <widget source="session.CurrentService" render="Label" position="1335,711" size="500,26" halign="left" valign="center" font="Regular;20" transparent="1" foregroundColor="white" backgroundColor="header" zPosition="1">
+      <convert type="furyCpuUsage">CPU:$0 (Core #1: $1, Core #2: $2)</convert>
+    </widget>
+    <ePixmap position="1283,701" zPosition="1" size="50,50" scale="1" pixmap="s/module.png" alphatest="blend" />
+    <widget source="session.Event_Now" render="Progress" position="1335,753" size="500,8" foregroundColor="ltbluette" backgroundColor="header" transparent="1" borderColor="bluette" cornerRadius="5" borderWidth="1" zPosition="1">
+      <convert type="furyReceiverInfo">FleshInfo</convert>
+    </widget>
+    <widget source="session.CurrentService" render="Label" position="1335,764" size="500,26" halign="left" valign="center" font="Regular;20" transparent="1" foregroundColor="white" backgroundColor="header" zPosition="1">
+      <convert type="furyReceiverInfo">Flesh</convert>
+    </widget>
+    <ePixmap position="1283,753" zPosition="1" size="50,50" scale="1" pixmap="s/module.png" alphatest="blend" />
+    <widget source="session.Event_Now" render="Progress" position="1335,805" size="500,8" foregroundColor="ltbluette" backgroundColor="header" transparent="1" borderColor="bluette" cornerRadius="5" borderWidth="1" zPosition="1">
+      <convert type="furyReceiverInfo">HddInfo</convert>
+    </widget>
+    <widget source="session.CurrentService" render="Label" position="1335,816" size="500,26" halign="left" valign="center" font="Regular;20" transparent="1" foregroundColor="white" backgroundColor="header" zPosition="1">
+      <convert type="furyReceiverInfo">HddInfo,Full</convert>
+    </widget>
+    <ePixmap position="1283,805" zPosition="1" size="50,50" scale="1" pixmap="s/hdd.png" alphatest="blend" />
+    <widget source="session.Event_Now" render="Progress" position="1335,857" size="500,8" foregroundColor="ltbluette" backgroundColor="header" transparent="1" borderColor="bluette" cornerRadius="5" borderWidth="1" zPosition="1">
+      <convert type="furyReceiverInfo">UsbInfo</convert>
+    </widget>
+    <widget source="session.CurrentService" render="Label" position="1335,868" size="500,26" halign="left" valign="center" font="Regular;20" transparent="1" foregroundColor="white" backgroundColor="header" zPosition="1">
+      <convert type="furyReceiverInfo">UsbInfo,Full</convert>
+    </widget>
+    <ePixmap position="1283,857" zPosition="1" size="50,50" scale="1" pixmap="s/usb.png" alphatest="blend" />
+    <ePixmap name="" position="1488,277" size="200,155" pixmap="imagelogo.png" alphatest="blend" zPosition="1" transparent="1" />
+    <widget source="session.CurrentService" render="furyBoxImage" position="1315,500" size="500,125" alphatest="on" scale="1" zPosition="99" />
+  </screen>
+  <screen name="Information" position="0,0" size="1920,1080" title="About" flags="wfNoBorder" backgroundColor="transparent">
+    <panel name="information" />
+  </screen>
+  <screen name="DistributionInformation" position="0,0" size="1920,1080" title="About" flags="wfNoBorder" backgroundColor="transparent">
+    <panel name="information" />
+  </screen>
+  <!--Setup Configs FHD -->
+<screen name="Setup" position="fill" title="Setup" flags="wfNoBorder" backgroundColor="transparent">
+  <panel name="p800_Template" />
+  <panel name="p800_Ext_BiN" />
+  <panel name="p800_Date2" />
+  <panel name="M" />
+  <panel name="ScreenTemplateAllColorButtons_template1" />
+  <widget name="config" position="80,160" size="1140,760" itemHeight="40" font="Regular; 30" scrollbarMode="showOnDemand" backgroundColor="header" backgroundColorSelected="bluette" />
+  <widget name="description" position="1294,439" size="550,350" font="Regular;32" halign="center" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="2" />
+  <ePixmap position="1440,170" size="256,256" pixmap="menu/info_screen.png" alphatest="blend" backgroundColor="header" transparent="1" zPosition="3" />
+  <widget name="footnote" position="1294,800" size="550,130" font="Regular;30" halign="center" foregroundColor="yellow" backgroundColor="header" transparent="1" zPosition="1" />
+  <widget name="HelpWindow" position="1260,30" size="609,244" transparent="1" alphatest="blend" />
+  <widget name="folderlist" position="80,160" size="1140,760" font="Regular;30" itemHeight="40" scrollbarMode="showOnDemand" scrollbarRadius="5" scrollbarOffset="5" scrollbarWidth="5" scrollbarBorderWidth="1" scrollbarBorderColor="ltbluette" scrollbarForegroundColor="ltbluette" scrollbarBackgroundColor="header" enableWrapAround="1" transparent="1" itemCornerRadius="15" valign="center" zPosition="2" textOffset="20,0" conditional="folderlist" />
+  <widget name="info" position="104,411" size="750,450" font="Regular;32" transparent="1" foregroundColor="white" zPosition="1" />
+  </screen>
+  <!-- ALL Time Setup -->
+  <screen name="setup_time" position="fill" title="Setup" flags="wfNoBorder" backgroundColor="transparent">
+    <panel name="p800_Template" />
+    <panel name="p800_Ext_BiN" />
+    <panel name="p800_Date2" />
+    <panel name="M" />
+    <panel name="ScreenTemplateAllColorButtons_template1" />
+    <widget name="config" position="80,160" size="1140,750" font="Regular;30" itemHeight="50" scrollbarMode="showOnDemand" scrollbarRadius="5" scrollbarOffset="5" scrollbarWidth="5" scrollbarBorderWidth="1" scrollbarBorderColor="ltbluette" scrollbarForegroundColor="ltbluette" scrollbarBackgroundColor="header" enableWrapAround="1" transparent="1" itemCornerRadius="15" valign="center" zPosition="5" textOffset="20,0" conditional="config" backgroundColor="header" backgroundColorSelected="bluette" />
+    <widget name="description" position="1294,439" size="550,350" font="Regular;32" halign="center" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="2" />
+    <ePixmap position="1440,170" size="256,256" pixmap="menu/info_screen.png" alphatest="blend" backgroundColor="header" transparent="1" zPosition="3" />
+    <widget name="footnote" position="1294,800" size="550,130" font="Regular;30" halign="center" foregroundColor="yellow" backgroundColor="header" transparent="1" zPosition="5" />
+    <widget name="HelpWindow" position="1260,30" size="609,244" transparent="1" alphatest="blend" />
+  </screen>

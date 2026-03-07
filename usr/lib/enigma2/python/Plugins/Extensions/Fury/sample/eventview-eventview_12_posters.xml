@@ -1,0 +1,37 @@
+<screen name="EventView" position="0,0" size="1920,1080" title="Eventview" flags="wfNoBorder" backgroundColor="#44000000">
+  <widget source="Title" render="Label" position="10,10" size="1300,100" font="Regular;60" foregroundColor="white" backgroundColor="#44000000" transparent="1" zPosition="2" />
+  <widget source="global.CurrentTime" render="Label" position="1504,962" size="342,100" font="Regular;80" halign="center" valign="center" backgroundColor="header" transparent="1" foregroundColor="#b0b0b0">
+    <convert type="ClockToText">
+    </convert>
+  </widget>
+  <panel name="ScreenTemplateAllColorButtons_template2" />
+  <widget source="Event" render="furyBackdropX" alphatest="blend" position="0,0" size="1920,950" zPosition="-1" />
+  <widget name="epg_description" position="7,170" size="1900,297" valign="bottom" font="Regular;30" foregroundColor="white" backgroundColor="transpBlack" transparent="1" zPosition="1" />
+  <widget source="Service" render="Picon" position="1672,9" size="220,132" backgroundColor="header" transparent="1" zPosition="2" alphatest="blend">
+    <convert type="ServiceName">Reference</convert>
+  </widget>
+  <widget source="Event" render="furyPosterX" nexts="1" position="8,475" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="2" position="326,475" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="3" position="643,475" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="4" position="962,475" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="5" position="1280,475" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="6" position="1597,475" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="7" position="8,712" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="8" position="326,710" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="9" position="643,710" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="10" position="962,710" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="11" position="1280,710" size="310,220" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="12" position="1597,710" size="310,220" cornerRadius="20" zPosition="1" />
+  <ePixmap alphatest="blend" pixmap="s/difuse2.png" position="0,0" size="1920,1080" cornerRadius="0" transparent="0" zPosition="-1" />
+  <widget source="ServiceEvent" render="Label" position="10,121" zPosition="1" size="100,42" font="Regular;25" halign="right" valign="center" backgroundColor="black" shadowColor="black" shadowOffset="-1,-1" transparent="1" foregroundColor="#ff00">
+    <convert type="EventTime">StartTime</convert>
+    <convert type="ClockToText" />
+  </widget>
+  <widget source="ServiceEvent" render="Progress" position="112,135" zPosition="1" backgroundColor="black" pixmap="s/x.png" size="450,15" transparent="0" cornerRadius="5" borderWidth="1" borderColor="white">
+    <convert type="EventTime">Progress</convert>
+  </widget>
+  <widget source="ServiceEvent" render="Label" position="565,121" zPosition="1" size="100,42" font="Regular;25" halign="left" valign="center" backgroundColor="black" shadowColor="black" shadowOffset="-1,-1" transparent="1" foregroundColor="#ffff40">
+    <convert type="EventTime">EndTime</convert>
+    <convert type="ClockToText">Format:%H:%M</convert>
+  </widget>
+</screen>

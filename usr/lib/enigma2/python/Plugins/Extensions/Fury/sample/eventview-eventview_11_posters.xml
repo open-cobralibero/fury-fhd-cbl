@@ -1,0 +1,29 @@
+<screen name="EventView" position="fill" title="Eventview" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="p900_Template" />
+  <panel name="p800_Date2" />
+  <panel name="ScreenTemplateAllColorButtons_template1" />
+  <panel name="ME" />
+  <widget name="channel" position="70,170" size="740,60" font="Regular;46" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="2" />
+  <widget name="datetime" position="70,240" size="300,40" font="Regular;34" foregroundColor="red" backgroundColor="header" transparent="1" zPosition="2" />
+  <widget name="duration" position="372,240" size="300,40" font="Regular;34" backgroundColor="header" transparent="1" zPosition="2" />
+  <widget source="Service" render="Picon" position="1628,156" size="220,132" backgroundColor="header" transparent="1" zPosition="2" alphatest="blend">
+    <convert type="ServiceName">Reference</convert>
+  </widget>
+  <widget font="Regular;80" noWrap="1" foregroundColor="yellow" backgroundColor="header" position="66,296" size="1782,180" source="Event" render="Label" transparent="1" zPosition="1" valign="top" borderWidth="2" borderColor="black">
+    <convert type="EpgFuryEvent">Name</convert>
+  </widget>
+  <widget name="epg_description" position="66,460" size="1782,207" valign="bottom" font="Regular;30" foregroundColor="white" backgroundColor="transpBlack" transparent="1" zPosition="1" />
+ 
+  <ePixmap alphatest="blend" pixmap="s/difuse2.png" position="56,148" size="1810,780" cornerRadius="0" transparent="0" zPosition="-1" />
+  <widget source="Event" render="furyBackdropX" alphatest="blend" position="56,148" size="1810,780" zPosition="-1" />
+  <widget source="Event" render="furyPosterX" nexts="1" position="66,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="2" position="244,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="3" position="422,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="4" position="601,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="5" position="779,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="6" position="960,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="7" position="1142,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="8" position="1322,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="9" position="1504,680" size="170,240" cornerRadius="20" zPosition="1" />
+  <widget source="Event" render="furyPosterX" nexts="10" position="1683,680" size="170,240" cornerRadius="20" zPosition="1" />
+</screen>

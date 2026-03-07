@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-05 19:49+0000\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "AIFury Info"
+msgstr "اطلاعات AIFury"
+
+msgid "AIFury Setup"
+msgstr "تنظیمات AIFury"
+
+msgid "AIFury controller is not initialized."
+msgstr "کنترلر AIFury مقداردهی اولیه نشده است."
+
+msgid "Auto restore translated EPG on zap"
+msgstr "بازگردانی خودکار EPG ترجمه‌شده هنگام تعویض کانال"
+
+msgid "Auto translate EPG in background"
+msgstr "ترجمهٔ خودکار EPG در پس‌زمینه"
+
+msgid "Auto translate horizon"
+msgstr "بازهٔ ترجمهٔ خودکار"
+
+msgid "Auto translate max events"
+msgstr "حداکثر رویدادهای ترجمهٔ خودکار"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "حداقل فاصلهٔ ترجمهٔ خودکار (دقیقه)"
+
+msgid "Bouquet is empty/invalid."
+msgstr "بوکه خالی/نامعتبر است."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "شروع ترجمهٔ EPG ممکن نیست: %s"
+
+msgid "Clear caches only"
+msgstr "فقط پاک‌سازی کش‌ها"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "کنترلر آماده نیست، پاک‌سازی کش ممکن نیست."
+
+msgid "Done notification timeout"
+msgstr "مدت نمایش اعلان پایان"
+
+msgid "EPG path"
+msgstr "مسیر EPG"
+
+msgid "EPG title language"
+msgstr "زبان عنوان EPG"
+
+msgid "Enable Translate"
+msgstr "فعال‌سازی ترجمه"
+
+msgid "Enable Translate Current Event"
+msgstr "فعال‌سازی ترجمهٔ برنامهٔ فعلی"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "خطا در پاک‌سازی کش:\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "خطا در باز کردن صفحهٔ اطلاعات:\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "رویدادها: %s  ترجمه‌شده: %s  وارد شده: %s\\nخطاها T/S/L: %s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "خطای وارد کردن: %s"
+
+msgid "Imported in background: %d"
+msgstr "وارد شده در پس‌زمینه: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "وارد شده به RAM: %d"
+
+msgid "Imported: %s"
+msgstr "وارد شده: %s"
+
+msgid "Main path"
+msgstr "مسیر اصلی"
+
+msgid "Min request interval (ms)"
+msgstr "حداقل فاصلهٔ درخواست‌ها (میلی‌ثانیه)"
+
+msgid "Network timeout (sec)"
+msgstr "مهلت شبکه (ثانیه)"
+
+msgid "No bouquets found."
+msgstr "هیچ بوکه‌ای پیدا نشد."
+
+msgid "No current service is available."
+msgstr "هیچ سرویس فعلی در دسترس نیست."
+
+msgid "No playable services found in: %s"
+msgstr "هیچ سرویس قابل پخش در اینجا یافت نشد: %s"
+
+msgid "No services found in Favourites bouquet."
+msgstr "هیچ سرویسی در بوکهٔ علاقه‌مندی‌ها یافت نشد."
+
+msgid "Notify translation end"
+msgstr "اعلان پایان ترجمه"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = انتخاب | سبز = ذخیره | زرد = پاک‌سازی کش | آبی = آمار | قرمز/EXIT = لغو"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = انتخاب | EXIT = لغو"
+
+msgid "Periodic restore interval"
+msgstr "فاصلهٔ بازگردانی دوره‌ای"
+
+msgid "Preparing..."
+msgstr "در حال آماده‌سازی..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "بازنشانی: پیش‌فرض‌ها + کش‌ها"
+
+msgid "Reset: Defaults only"
+msgstr "بازنشانی: فقط پیش‌فرض‌ها"
+
+msgid "Retry count"
+msgstr "تعداد تلاش مجدد"
+
+msgid "Select EPG title/description language first."
+msgstr "ابتدا زبان عنوان/توضیح EPG را انتخاب کنید."
+
+msgid "Select EPG translations cache directory"
+msgstr "انتخاب پوشهٔ کش ترجمه‌های EPG"
+
+msgid "Select bouquet to translate"
+msgstr "انتخاب بوکه برای ترجمه"
+
+msgid "Select bouquet to translate (background)"
+msgstr "انتخاب بوکه برای ترجمه (پس‌زمینه)"
+
+msgid "Select cache directory"
+msgstr "انتخاب پوشهٔ کش"
+
+msgid "Select cache to clear"
+msgstr "انتخاب کش برای پاک‌سازی"
+
+msgid "Select translation language"
+msgstr "انتخاب زبان ترجمه"
+
+msgid "Select value"
+msgstr "انتخاب مقدار"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "رد شده (EPG خالی): %s"
+
+msgid "Skipped: %s"
+msgstr "رد شده: %s"
+
+msgid "Total events: %s"
+msgstr "مجموع رویدادها: %s"
+
+msgid "Translate Bouquet"
+msgstr "ترجمهٔ بوکه (Bouquet)"
+
+msgid "Translate Current Channel EPG"
+msgstr "ترجمهٔ EPG کانال فعلی"
+
+msgid "Translate Current Event"
+msgstr "ترجمهٔ برنامهٔ فعلی"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "ترجمهٔ برنامهٔ فعلی در تنظیمات غیرفعال است."
+
+msgid "Translate bouquet (choose from list)"
+msgstr "ترجمهٔ بوکه (انتخاب از لیست)"
+
+msgid "Translate bouquet in background"
+msgstr "ترجمهٔ بوکه در پس‌زمینه"
+
+msgid "Translated Event Cache: %d"
+msgstr "کش رویدادهای ترجمه‌شده: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "رویدادهای ترجمه‌شده در بوکه: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "رویدادهای ترجمه‌شده در کش: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "رویدادهای ترجمه‌شده در کش: (کنترلر آماده نیست)"
+
+msgid "Translated in Background: %d"
+msgstr "ترجمه‌شده در پس‌زمینه: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "ترجمه‌شده در بوکه: %d"
+
+msgid "Translated in background: %d"
+msgstr "ترجمه‌شده در پس‌زمینه: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "ترجمه‌شده: %d | رد شده: %d"
+
+msgid "Translated: %s"
+msgstr "ترجمه‌شده: %s"
+
+msgid "Translation language"
+msgstr "زبان ترجمه"
+
+msgid "Worker threads"
+msgstr "رشته‌های کاری"
+
+msgid "\\nImport error: %s"
+msgstr "\\nخطای وارد کردن: %s"
