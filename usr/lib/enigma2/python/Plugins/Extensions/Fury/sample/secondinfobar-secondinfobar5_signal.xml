@@ -1,0 +1,56 @@
+<screen name="SecondInfoBar" position="0,0" title="InfoBar" backgroundColor="transparent" flags="wfNoBorder" size="1920,1080">
+  <ePixmap pixmap="s/info2.png" position="0,0" size="1920,1080" alphatest="off" zPosition="-99" />
+  <eLabel text="SNR:" zPosition="4" position="397,462" size="130,60" font="Regular;35" transparent="1" foregroundColor="yellow" backgroundColor="header" halign="right" valign="center" />
+  <widget source="session.FrontendStatus" render="Progress" position="537,472" size="925,40" pixmap="Fury-FHD/skin_default/agc7.png" transparent="0" zPosition="5" cornerRadius="8" borderWidth="0" borderColor="#ffff40">
+    <convert type="FrontendInfo">SNR</convert>
+  </widget>
+  <widget backgroundColor="header" font="Regular;50" foregroundColor="white" halign="center" noWrap="1" position="511,208" valign="center" render="Label" size="950,90" source="session.CurrentService" zPosition="5" transparent="1">
+    <convert type="ServiceName">•,NUMBER,NAME</convert>
+  </widget>
+  <widget source="session.CurrentService" render="Label" position="769,368" size="447,30" font="Regular;30" halign="center" backgroundColor="header" transparent="1" zPosition="1" foregroundColor="yellow">
+  <convert type="furyServName3">Provider</convert>
+</widget>
+  <widget source="session.FrontendStatus" render="Label" position="1474,463" size="120,60" font="Regular; 35" valign="center" noWrap="1" backgroundColor="bluette" transparent="1" halign="left" text="100 %" zPosition="1">
+    <convert type="FrontendInfo">SNR</convert>
+  </widget>
+  <eLabel text="AGC:" zPosition="4" position="397,606" size="130,60" font="Regular;35" transparent="1" foregroundColor="yellow" backgroundColor="header" halign="right" valign="center" />
+  <widget source="session.FrontendStatus" render="Progress" position="537,613" size="925,40" pixmap="Fury-FHD/skin_default/agc7.png" transparent="0" zPosition="5" cornerRadius="8" borderWidth="0" borderColor="#ffff40">
+    <convert type="FrontendInfo">AGC</convert>
+  </widget>
+  <widget source="session.FrontendStatus" render="Label" position="1474,601" size="120,60" zPosition="1" backgroundColor="bluette" transparent="1" font="Regular; 35" halign="left" setXMLShowAGC="Ready" text="100 %" noWrap="1" valign="center">
+    <convert type="FrontendInfo">AGC</convert>
+  </widget>
+  <widget backgroundColor="black" font="Regular;35" noWrap="1" position="511,771" render="Label" size="950,90" source="session.CurrentService" transparent="1" halign="center" valign="center">
+  <convert type="furyServName2">%s \c00FFFF00%O\c00FFFFFF %F %p %Y %f \c00FFFF00%M\c00FFFFFF</convert>
+</widget>
+  <widget source="session.FrontendStatus" render="Label" position="965,898" size="107,39" zPosition="1" backgroundColor="bluette" transparent="1" font="Regular; 23" halign="left" valign="center">
+    <convert type="FrontendInfo">BER</convert>
+  </widget>
+  <eLabel text="BER :" position="892,898" size="68,39" font="Regular;22" halign="right" valign="center" foregroundColor="#ffff40" backgroundColor="#21000000" transparent="1" zPosition="50" />
+  <widget alphatest="blend" render="MSNWeatherPixmap" position="1553,896" size="120,120" source="session.MSNWeather" transparent="1" zPosition="5">
+    <convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD/blmsn/,png</convert>
+  </widget>
+  <widget source="session.MSNWeather" render="Label" position="1553,848" size="270,40" font="Regular;27" halign="center" foregroundColor="#ffff40" backgroundColor="header" transparent="1" zPosition="2" valign="center">
+    <convert type="MSNWeather">city</convert>
+  </widget>
+  <widget source="session.MSNWeather" render="Label" position="1679,898" size="116,40" font="Regular;30" valign="top" halign="left" foregroundColor="#ff00" backgroundColor="header" noWrap="1" transparent="1" zPosition="3">
+    <convert type="MSNWeather">temperature_current</convert>
+  </widget>
+  <widget noWrap="1" backgroundColor="header" font="Regular;23" foregroundColor="white" render="Label" position="1680,972" size="180,40" source="session.MSNWeather" zPosition="2" halign="left" transparent="1" valign="center">
+    <convert type="MSNWeather">temperature_text,current</convert>
+  </widget>
+  
+  
+  <widget source="session.CurrentService" render="Picon" position="77,865" size="300,170" alphatest="blend" zPosition="5">
+    <convert type="ServiceName">Reference</convert>
+  </widget>
+<eLabel name="rate" position="1233,898" size="70,39" foregroundColor="#ffff40" backgroundColor="header" halign="right" valign="center" text="Rate:" font="Regular;22" transparent="1" /><widget source="session.CurrentService" render="Label" position="1310,898" size="156,39" font="Regular;23" halign="left" foregroundColor="white" backgroundColor="background" zPosition="2" transparent="1" text="bit/m" valign="center">
+  <convert type="furyBitrate">VideoBitrateUnits</convert>
+</widget><widget source="session.CurrentService" render="Label" position="823,726" size="360,35" font="Regular;30" foregroundColor="white" backgroundColor="background" halign="center" valign="center" transparent="1" noWrap="1">
+    <convert type="furyCaidInfo3">CryptInfo2</convert>
+  </widget><widget source="session.FrontendStatus" render="Label" position="602,898" size="284,39" backgroundColor="header" transparent="1" zPosition="1" foregroundColor="white" font="Regular;23" halign="left" valign="center">
+    <convert type="furyFrontendInfo">SNRdB</convert>
+  </widget><eLabel text="SNRdB :" position="508,898" size="90,39" font="Regular;22" halign="right" valign="center" foregroundColor="#ffff40" backgroundColor="#21000000" transparent="1" zPosition="50" /><widget backgroundColor="background" font="Regular;40" halign="center" noWrap="1" position="511,1008" render="Label" size="950,45" source="session.CurrentService" transparent="1" valign="center" zPosition="10" foregroundColor="yellow">
+  <convert type="furyCaidInfo2">CW</convert>
+</widget>
+</screen>

@@ -1,0 +1,541 @@
+# Chinese (Simplified) translations for Fury-FHD Plugin
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fury-FHD Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-06 00:00+0200\n"
+"PO-Revision-Date: 2026-02-06 16:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "+10%"
+msgstr "+10%"
+
+msgid "+13%"
+msgstr "+13%"
+
+msgid "+15%"
+msgstr "+15%"
+
+msgid "+2%"
+msgstr "+2%"
+
+msgid "+20%"
+msgstr "+20%"
+
+msgid "+25%"
+msgstr "+25%"
+
+msgid "+30%"
+msgstr "+30%"
+
+msgid "+5%"
+msgstr "+5%"
+
+msgid "+7%"
+msgstr "+7%"
+
+msgid "+9%"
+msgstr "+9%"
+
+msgid "-10%"
+msgstr "-10%"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "-20%"
+msgstr "-20%"
+
+msgid "-25%"
+msgstr "-25%"
+
+msgid "-5%"
+msgstr "-5%"
+
+msgid "..."
+msgstr "..."
+
+msgid "12h HH:MM AM/PM (e.g. 09:45 PM)"
+msgstr "12h HH:MM AM/PM (e.g. 09:45 PM)"
+
+msgid "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+msgstr "12h HH:MM:SS AM/PM (e.g. 09:45:09 PM)"
+
+msgid "2025 Jan 01"
+msgstr "2025 Jan 01"
+
+msgid "2025/01/01 Monday"
+msgstr "2025/01/01 Monday"
+
+msgid "24h HH:MM (e.g. 21:45)"
+msgstr "24h HH:MM (e.g. 21:45)"
+
+msgid "24h HH:MM:SS (e.g. 21:45:09)"
+msgstr "24h HH:MM:SS (e.g. 21:45:09)"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Brown"
+msgstr "棕色"
+
+msgid "Channel Background Selected Color:"
+msgstr "频道背景颜色（已选）："
+
+msgid "Channel Description Color:"
+msgstr "频道描述颜色："
+
+msgid "Channel Foreground Color:"
+msgstr "频道文字颜色："
+
+msgid "Channel Selected Description Color:"
+msgstr "已选频道描述颜色："
+
+msgid "Channel Selected Foreground Color:"
+msgstr "已选频道文字颜色："
+
+msgid "ChannelSelection Style:"
+msgstr "频道选择 — 样式："
+
+msgid "ChannelSelection2_12_Posters"
+msgstr "频道选择 12 — 海报"
+
+msgid "ChannelSelection2_1_Posters"
+msgstr "频道选择 2 — 海报"
+
+msgid "ChannelSelection2_4_Posters"
+msgstr "频道选择 4 — 海报"
+
+msgid "ChannelSelection2_6_Posters"
+msgstr "频道选择 6 — 海报"
+
+msgid "ChannelSelection2_NO_Posters"
+msgstr "频道选择 — 无海报"
+
+msgid "ChannelSelection_5_Backdrop"
+msgstr "频道选择 5 — 背景"
+
+msgid "ChannelSelection_5_Posters"
+msgstr "频道选择 5 — 海报"
+
+msgid "ChannelSelection_NO_Posters"
+msgstr "频道选择 — 无海报"
+
+msgid "Color Style:"
+msgstr "颜色样式："
+
+msgid "Cravelo"
+msgstr "Cravelo"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Dark Purple"
+msgstr "深紫色"
+
+msgid "Dark Red"
+msgstr "深红色"
+
+msgid "DarkPurple"
+msgstr "深紫色"
+
+msgid "DarkRed"
+msgstr "深红色"
+
+msgid "Date Format:"
+msgstr "日期格式："
+
+msgid "DD MM YYYY"
+msgstr "DD MM YYYY"
+
+msgid "DD Mon YYYY (e.g. 06 Feb 2026)"
+msgstr "DD Mon YYYY (e.g. 06 Feb 2026)"
+
+msgid "DD Month YYYY (e.g. 06 February 2026)"
+msgstr "DD Month YYYY (e.g. 06 February 2026)"
+
+msgid "DD Month, YYYY (e.g. 06 February, 2026)"
+msgstr "DD Month, YYYY (e.g. 06 February, 2026)"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Download in progress..."
+msgstr "下载进行中..."
+
+msgid "Downloading Fury..."
+msgstr "正在下载 Fury..."
+
+msgid "EPGSelection Style:"
+msgstr "EPG 选择 — 样式："
+
+msgid "EPGSelection_1_Posters"
+msgstr "EPG 选择 1 — 海报"
+
+msgid "EPGSelection_No_Posters"
+msgstr "EPG 选择 — 无海报"
+
+msgid "Error by processing the skin file !!!"
+msgstr "处理皮肤文件时出错！"
+
+msgid "Error downloading files!"
+msgstr "下载文件出错！"
+
+msgid "EventView Style:"
+msgstr "事件视图 — 样式："
+
+msgid "EventView_11_Posters"
+msgstr "事件视图 11 — 海报"
+
+msgid "EventView_12_Posters"
+msgstr "事件视图 12 — 海报"
+
+msgid "EventView_7_Posters"
+msgstr "事件视图 7 — 海报"
+
+msgid "EventView_NO_Posters"
+msgstr "事件视图 — 无海报"
+
+msgid "Font Size:"
+msgstr "字体大小："
+
+msgid "Fury"
+msgstr "Fury"
+
+msgid "Fury update was done!!!\\nDo you want to restart the GUI now?"
+msgstr "Fury 已更新完成！！！\\\\n现在重启界面吗？"
+
+msgid "Fury-FHD Skin Mod AbouYassin7"
+msgstr "Fury-FHD Skin Mod AbouYassin7"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Green2"
+msgstr "绿色 2"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Grey2"
+msgstr "灰色 2"
+
+msgid "GUI needs a restart to apply a new skin.\\nDo you want to Restart the GUI now?"
+msgstr "需要重启界面以应用新皮肤。\\\\n现在重启吗？"
+
+msgid "HandelGotDBol"
+msgstr "HandelGotDBol"
+
+msgid "Info..."
+msgstr "信息..."
+
+msgid "InfoBar Style:"
+msgstr "信息栏 — 样式："
+
+msgid "Infobar2_2_Logo"
+msgstr "信息栏 2 — 标志"
+
+msgid "Infobar2_2_Posters"
+msgstr "信息栏 2 — 海报"
+
+msgid "Infobar2_3_Backdrop"
+msgstr "信息栏 3 — 背景"
+
+msgid "Infobar2_3_Posters"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar2_NO_Posters"
+msgstr "信息栏 — 无海报"
+
+msgid "Infobar3_2_Backdrop"
+msgstr "信息栏 2 — 背景"
+
+msgid "Infobar3_2_Backdrop_Black"
+msgstr "信息栏 2 — 背景"
+
+msgid "Infobar3_2_Logo"
+msgstr "信息栏 2 — 标志"
+
+msgid "Infobar3_2_Posters"
+msgstr "信息栏 2 — 海报"
+
+msgid "Infobar3_2_Posters_Black"
+msgstr "信息栏 2 — 海报"
+
+msgid "Infobar3_3_Posters"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar3_3_Posters_Black"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar3_NO_Posters"
+msgstr "信息栏 — 无海报"
+
+msgid "Infobar3_NO_Posters_Black"
+msgstr "信息栏 — 无海报"
+
+msgid "Infobar4_1_Logo"
+msgstr "信息栏 1 — 标志"
+
+msgid "Infobar4_1_Posters"
+msgstr "信息栏 1 — 海报"
+
+msgid "Infobar4_3_Posters"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar4_BackDrop"
+msgstr "信息栏"
+
+msgid "Infobar4_NO_Posters"
+msgstr "信息栏 — 无海报"
+
+msgid "Infobar5_2_Logo"
+msgstr "信息栏 2 — 标志"
+
+msgid "Infobar5_2_Posters"
+msgstr "信息栏 2 — 海报"
+
+msgid "Infobar5_3_Posters"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar5_NO_Posters"
+msgstr "信息栏 — 无海报"
+
+msgid "Infobar5_star_3_Backdrop"
+msgstr "信息栏 3 — 背景"
+
+msgid "Infobar5_star_3_Posters"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar_2_Posters"
+msgstr "信息栏 2 — 海报"
+
+msgid "Infobar_2_Round"
+msgstr "信息栏"
+
+msgid "Infobar_3_Posters"
+msgstr "信息栏 3 — 海报"
+
+msgid "Infobar_Mini"
+msgstr "信息栏"
+
+msgid "Infobar_Mini_2"
+msgstr "信息栏"
+
+msgid "Infobar_Mini_2_Logo"
+msgstr "信息栏 2 — 标志"
+
+msgid "Infobar_NO_Posters"
+msgstr "信息栏 — 无海报"
+
+msgid "Infobar_Round"
+msgstr "信息栏"
+
+msgid "Install failed!"
+msgstr "安装失败！"
+
+msgid "Installing updates!"
+msgstr "正在安装更新！"
+
+msgid "January 01, 2025"
+msgstr "January 01, 2025"
+
+msgid "Joyful"
+msgstr "Joyful"
+
+msgid "LightWhite"
+msgstr "浅白色"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+msgid "Mon 01 Jan 2025"
+msgstr "Mon 01 Jan 2025"
+
+msgid "Mon DD, YYYY (e.g. Feb 06, 2026)"
+msgstr "Mon DD, YYYY (e.g. Feb 06, 2026)"
+
+msgid "Monday, 01 01 2025"
+msgstr "Monday, 01 01 2025"
+
+msgid "Mongule"
+msgstr "Mongule"
+
+msgid "Month DD, YYYY (e.g. February 06, 2026)"
+msgstr "Month DD, YYYY (e.g. February 06, 2026)"
+
+msgid "Nexa"
+msgstr "Nexa"
+
+msgid "Oily"
+msgstr "橄榄色"
+
+msgid "Orange"
+msgstr "橙色"
+
+msgid "Pink"
+msgstr "粉色"
+
+msgid "Poetsen_One "
+msgstr "Poetsen_One "
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Restart GUI now?"
+msgstr "现在重启界面？"
+
+msgid "SecondInfobar Style:"
+msgstr "第二信息栏 — 样式："
+
+msgid "SecondInfobar2_NO_Posters"
+msgstr "第二信息栏 — 无海报"
+
+msgid "SecondInfobar2_Posters"
+msgstr "第二信息栏 — 海报"
+
+msgid "SecondInfobar3_NO_Posters"
+msgstr "第二信息栏 — 无海报"
+
+msgid "SecondInfobar3_Posters"
+msgstr "第二信息栏 — 海报"
+
+msgid "SecondInfobar4_NO_Posters"
+msgstr "第二信息栏 — 无海报"
+
+msgid "SecondInfobar4_Posters"
+msgstr "第二信息栏 — 海报"
+
+msgid "SecondInfobar5_Signal"
+msgstr "第二信息栏 5 — 信号"
+
+msgid "SecondInfobar_NO_Posters"
+msgstr "第二信息栏 — 无海报"
+
+msgid "SecondInfobar_Posters"
+msgstr "第二信息栏 — 海报"
+
+msgid "Select Your Font:"
+msgstr "选择字体："
+
+msgid "Server version:"
+msgstr "服务器版本："
+
+msgid "Setup Fury for Fury-FHD v.%s"
+msgstr "为 Fury-FHD v.%s 设置 Fury"
+
+msgid "Skin Style:"
+msgstr "皮肤样式："
+
+msgid "Tenada"
+msgstr "Tenada"
+
+msgid "The update is available!\\n\\nDo you want to run the update now?"
+msgstr "有可用更新！\\\\n\\\\n现在运行更新吗？"
+
+msgid "Time Format:"
+msgstr "时间格式："
+
+msgid "Tommy "
+msgstr "Tommy "
+
+msgid "Transparency:"
+msgstr "透明度："
+
+msgid "Update failed. Please check %s"
+msgstr "更新失败。请检查 %s"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Version installed:"
+msgstr "已安装版本："
+
+msgid "volume2"
+msgstr "音量 2"
+
+msgid "volume3"
+msgstr "音量 3"
+
+msgid "volume4"
+msgstr "音量 4"
+
+msgid "VolumeBar Style:"
+msgstr "音量条样式："
+
+msgid "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+msgstr "Weekday DD Month YYYY (e.g. Friday 06 February 2026)"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "You have the current version Fury!"
+msgstr "你已是 Fury 的最新版本！"
+
+msgid "You have version %s!!!"
+msgstr "你当前版本为 %s！！！"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "Zero"
+msgstr "零"
+
+msgid "~10%"
+msgstr "约10%"
+
+msgid "~15%"
+msgstr "约15%"
+
+msgid "~20%"
+msgstr "约20%"
+
+msgid "~25%"
+msgstr "约25%"
+
+msgid "~30%"
+msgstr "约30%"
+
+msgid "~35%"
+msgstr "约35%"
+
+msgid "~40%"
+msgstr "约40%"
+
+msgid "~45%"
+msgstr "约45%"
+
+msgid "~5%"
+msgstr "约5%"
+
+msgid "~50%"
+msgstr "约50%"

@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury 2.1\n"
+"POT-Creation-Date: 2026-02-05 19:49+0000\n"
+"PO-Revision-Date: 2026-02-06 08:35+0200\n"
+"Last-Translator: ChatGPT\n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+
+msgid "AIFury Info"
+msgstr "Πληροφορίες AIFury"
+
+msgid "AIFury Setup"
+msgstr "Ρύθμιση AIFury"
+
+msgid "AIFury controller is not initialized."
+msgstr "Ο ελεγκτής AIFury δεν έχει αρχικοποιηθεί."
+
+msgid "Auto restore translated EPG on zap"
+msgstr "Αυτόματη επαναφορά μεταφρασμένου EPG κατά την αλλαγή καναλιού"
+
+msgid "Auto translate EPG in background"
+msgstr "Αυτόματη μετάφραση EPG στο παρασκήνιο"
+
+msgid "Auto translate horizon"
+msgstr "Ορίζοντας αυτόματης μετάφρασης"
+
+msgid "Auto translate max events"
+msgstr "Μέγιστος αριθμός συμβάντων για αυτόματη μετάφραση"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "Ελάχιστο κενό αυτόματης μετάφρασης (λεπτά)"
+
+msgid "Bouquet is empty/invalid."
+msgstr "Το μπουκέτο είναι άδειο/μη έγκυρο."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Δεν είναι δυνατή η έναρξη μετάφρασης EPG: %s"
+
+msgid "Clear caches only"
+msgstr "Εκκαθάριση μόνο των cache"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Ο ελεγκτής δεν είναι έτοιμος, δεν μπορεί να γίνει εκκαθάριση cache."
+
+msgid "Done notification timeout"
+msgstr "Χρονικό όριο ειδοποίησης ολοκλήρωσης"
+
+msgid "EPG path"
+msgstr "Διαδρομή EPG"
+
+msgid "EPG title language"
+msgstr "Γλώσσα τίτλου EPG"
+
+msgid "Enable Translate"
+msgstr "Ενεργοποίηση μετάφρασης"
+
+msgid "Enable Translate Current Event"
+msgstr "Ενεργοποίηση μετάφρασης τρέχοντος συμβάντος"
+
+msgid "Error clearing cache:\\n%s"
+msgstr "Σφάλμα εκκαθάρισης cache:\\n%s"
+
+msgid "Error opening info screen:\\n%s"
+msgstr "Σφάλμα ανοίγματος οθόνης πληροφοριών:\\n%s"
+
+msgid "Events: %s  Translated: %s  Imported: %s\\nErrors T/S/L: %s/%s/%s"
+msgstr "Συμβάντα: %s  Μεταφράστηκαν: %s  Εισήχθησαν: %s\\nΣφάλματα T/S/L: %s/%s/%s"
+
+msgid "Import error: %s"
+msgstr "Σφάλμα εισαγωγής: %s"
+
+msgid "Imported in background: %d"
+msgstr "Εισήχθησαν στο παρασκήνιο: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "Εισήχθησαν στη RAM: %d"
+
+msgid "Imported: %s"
+msgstr "Εισήχθησαν: %s"
+
+msgid "Main path"
+msgstr "Κύρια διαδρομή"
+
+msgid "Min request interval (ms)"
+msgstr "Ελάχιστο διάστημα αιτήσεων (ms)"
+
+msgid "Network timeout (sec)"
+msgstr "Χρονικό όριο δικτύου (δευτ.)"
+
+msgid "No bouquets found."
+msgstr "Δεν βρέθηκαν μπουκέτα."
+
+msgid "No current service is available."
+msgstr "Δεν υπάρχει διαθέσιμη τρέχουσα υπηρεσία."
+
+msgid "No playable services found in: %s"
+msgstr "Δεν βρέθηκαν υπηρεσίες με αναπαραγωγή σε: %s"
+
+msgid "No services found in Favourites bouquet."
+msgstr "Δεν βρέθηκαν υπηρεσίες στο μπουκέτο Αγαπημένα."
+
+msgid "Notify translation end"
+msgstr "Ειδοποίηση τέλους μετάφρασης"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = Επιλογή   |   Πράσινο = Αποθήκευση   |   Κίτρινο = Εκκαθάριση cache   |   Μπλε = Στατιστικά   |   Κόκκινο/EXIT = Άκυρο"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = Επιλογή   |   EXIT = Άκυρο"
+
+msgid "Periodic restore interval"
+msgstr "Διάστημα περιοδικής επαναφοράς"
+
+msgid "Preparing..."
+msgstr "Προετοιμασία..."
+
+msgid "Reset: Defaults + Caches"
+msgstr "Επαναφορά: Προεπιλογές + Cache"
+
+msgid "Reset: Defaults only"
+msgstr "Επαναφορά: Μόνο προεπιλογές"
+
+msgid "Retry count"
+msgstr "Αριθμός επαναλήψεων"
+
+msgid "Select EPG title/description language first."
+msgstr "Επιλέξτε πρώτα γλώσσα τίτλου/περιγραφής EPG."
+
+msgid "Select EPG translations cache directory"
+msgstr "Επιλέξτε κατάλογο cache μεταφράσεων EPG"
+
+msgid "Select bouquet to translate"
+msgstr "Επιλέξτε μπουκέτο για μετάφραση"
+
+msgid "Select bouquet to translate (background)"
+msgstr "Επιλέξτε μπουκέτο για μετάφραση (παρασκήνιο)"
+
+msgid "Select cache directory"
+msgstr "Επιλέξτε κατάλογο cache"
+
+msgid "Select cache to clear"
+msgstr "Επιλέξτε cache για εκκαθάριση"
+
+msgid "Select translation language"
+msgstr "Επιλέξτε γλώσσα μετάφρασης"
+
+msgid "Select value"
+msgstr "Επιλέξτε τιμή"
+
+msgid "Skipped (empty EPG): %s"
+msgstr "Παραλείφθηκε (κενό EPG): %s"
+
+msgid "Skipped: %s"
+msgstr "Παραλείφθηκε: %s"
+
+msgid "Total events: %s"
+msgstr "Σύνολο συμβάντων: %s"
+
+msgid "Translate Bouquet"
+msgstr "Μετάφραση μπουκέτου"
+
+msgid "Translate Current Channel EPG"
+msgstr "Μετάφραση EPG τρέχοντος καναλιού"
+
+msgid "Translate Current Event"
+msgstr "Μετάφραση τρέχοντος συμβάντος"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "Η μετάφραση τρέχοντος συμβάντος είναι απενεργοποιημένη στις ρυθμίσεις."
+
+msgid "Translate bouquet (choose from list)"
+msgstr "Μετάφραση μπουκέτου (επιλέξτε από λίστα)"
+
+msgid "Translate bouquet in background"
+msgstr "Μετάφραση μπουκέτου στο παρασκήνιο"
+
+msgid "Translated Event Cache: %d"
+msgstr "Cache μεταφρασμένων συμβάντων: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "Μεταφρασμένα συμβάντα στο μπουκέτο: %d"
+
+msgid "Translated events in cache: %d"
+msgstr "Μεταφρασμένα συμβάντα στην cache: %d"
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "Μεταφρασμένα συμβάντα στην cache: (ο ελεγκτής δεν είναι έτοιμος)"
+
+msgid "Translated in Background: %d"
+msgstr "Μεταφράστηκαν στο παρασκήνιο: %d"
+
+msgid "Translated in Bouquet: %d"
+msgstr "Μεταφράστηκαν στο μπουκέτο: %d"
+
+msgid "Translated in background: %d"
+msgstr "Μεταφράστηκαν στο παρασκήνιο: %d"
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "Μεταφράστηκαν: %d   |   Παραλείφθηκαν: %d"
+
+msgid "Translated: %s"
+msgstr "Μεταφράστηκαν: %s"
+
+msgid "Translation language"
+msgstr "Γλώσσα μετάφρασης"
+
+msgid "Worker threads"
+msgstr "Νήματα εργατών"
+
+msgid "\\nImport error: %s"
+msgstr "\\nΣφάλμα εισαγωγής: %s"

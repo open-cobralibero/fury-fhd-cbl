@@ -1,0 +1,4 @@
+<screen name="Volume" title="Volume" position="8,286" size="35,230" backgroundColor="transpBlack" zPosition="1" flags="wfNoBorder">
+  <widget name="Volume" pixmap="Fury-FHD/icons/volumeslider.png" position="5,5" size="25,200" orientation="orBottomToTop" transparent="1" zPosition="1" />
+  <ePixmap pixmap="Fury-FHD/icons/vol_box.png" position="0,205" size="35,24" alphatest="on" zPosition="4" />
+</screen>

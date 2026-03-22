@@ -1,0 +1,730 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AIFury\n"
+"POT-Creation-Date: 2026-02-06 08:04+0000\n"
+"PO-Revision-Date: 2026-02-09 21:22+0200\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+
+msgid "10 minutes"
+msgstr "10 دقائق"
+
+msgid "10 seconds"
+msgstr "10 ثوانٍ"
+
+msgid "12 hours"
+msgstr "12 ساعات"
+
+msgid "15 seconds"
+msgstr "15 ثوانٍ"
+
+msgid "1:7:1:0:0:0:0:0:0:0:FROM BOUQUET \"%s\" ORDER BY bouquet"
+msgstr "1:7:1:0:0:0:0:0:0:من باقة \"%s\" ترتيب حسب باقة"
+
+msgid "2 minutes"
+msgstr "2 دقائق"
+
+msgid "20 seconds"
+msgstr "20 ثوانٍ"
+
+msgid "24 hours"
+msgstr "24 ساعات"
+
+msgid "3 hours"
+msgstr "3 ساعات"
+
+msgid "3 minutes"
+msgstr "3 دقائق"
+
+msgid "3 seconds"
+msgstr "3 ثوانٍ"
+
+msgid "30 seconds"
+msgstr "30 ثوانٍ"
+
+msgid "48 hours"
+msgstr "48 ساعات"
+
+msgid "5 minutes"
+msgstr "5 دقائق"
+
+msgid "5 seconds"
+msgstr "5 ثوانٍ"
+
+msgid "6 hours"
+msgstr "6 ساعات"
+
+msgid "60 seconds"
+msgstr "60 ثوانٍ"
+
+msgid "7 days"
+msgstr "7 أيام"
+
+msgid "8 seconds"
+msgstr "8 ثوانٍ"
+
+msgid "90 seconds"
+msgstr "90 ثوانٍ"
+
+msgid "Accumulate stats for background auto-translate runs."
+msgstr "تجميع الإحصائيات لعمليات الترجمة التلقائية للخلفية."
+
+msgid "AIFury - EPG Translation Stats"
+msgstr "AIFury - إحصائيات ترجمة دليل البرامج"
+
+msgid "AIFury - EPGTranslation"
+msgstr "AIFury - ترجمة دليل البرامج"
+
+msgid "AIFury - translation control"
+msgstr "AIFury - التحكم في الترجمة"
+
+msgid "AIFury controller is not initialized."
+msgstr "وحدة تحكم AIFury غير مهيّأة."
+
+msgid "AIFury Info"
+msgstr "معلومات AIFury"
+
+msgid "AIFury Setup"
+msgstr "إعدادات AIFury"
+
+msgid "aifury-cache"
+msgstr "aifury-الكاش"
+
+msgid "aifury-epg-cache"
+msgstr "aifury-دليل البرامج-الكاش"
+
+msgid "Albanian (Shqip)"
+msgstr "الألبانية (Shqip)"
+
+msgid "Arabic"
+msgstr "اللغة العربية"
+
+msgid "Auto restore translated EPG on zap"
+msgstr "استعادة ترجمة الـ EPG تلقائيًا عند التنقّل بين القنوات"
+
+msgid "Auto translate EPG in background"
+msgstr "تلقائي ترجمة دليل البرامج في في الخلفية"
+
+msgid "Auto translate EPG in background: %s"
+msgstr "ترجمة دليل البرامج تلقائياً في الخلفية: "
+
+msgid "Auto translate horizon"
+msgstr "ترجمة تلقائية للأفق"
+
+msgid "Auto translate max events"
+msgstr "ترجمة تلقائية لأقصى عدد من الأحداث"
+
+msgid "Auto translate min gap (minutes)"
+msgstr "أقل فارق للترجمة التلقائية (بالدقائق)"
+
+msgid "auto_translate_epg error: %s"
+msgstr "auto_translate_epg خطأ: "
+
+msgid "Background runs: %d"
+msgstr "تشغيلات الخلفية: "
+
+msgid "Belgium"
+msgstr "بلجيكا"
+
+msgid "bg job error: %s"
+msgstr "bg job خطأ: %s"
+
+msgid "Bosnian (Bosanski)"
+msgstr "البوسنية (Bosanski)"
+
+msgid "Bouquet (package): %s"
+msgstr "الباقة (الحزمة): %s"
+
+msgid "Bouquet (package): Not selected yet"
+msgstr "الباقة (الحزمة): لم يتم الاختيار بعد"
+
+msgid "Bouquet is empty/invalid."
+msgstr "الباقة is فارغة/invalid."
+
+msgid "Bouquet services: %d"
+msgstr "عدد خدمات الباقة: "
+
+msgid "Bouquet translation already running in background: %s"
+msgstr "الباقة الترجمة already running في في الخلفية: %s"
+
+msgid "Bouquet: %s"
+msgstr "الباقة: %s"
+
+msgid "Bulgarian (Български)"
+msgstr "البلغارية (Български)"
+
+msgid "cache cleared"
+msgstr "تم مسح ذاكرة التخزين المؤقت"
+
+msgid "Cache cleared successfully."
+msgstr "تم مسح ذاكرة التخزين المؤقت بنجاح."
+
+msgid "cache loaded: %s (%d items)"
+msgstr "تم تحميل ذاكرة التخزين المؤقت:  ( عنصر)"
+
+msgid "cache saved: %s (%d items)"
+msgstr "تم حفظ ذاكرة التخزين المؤقت:  ( عنصر)"
+
+msgid "Cached-only fast path for a specific language; warms cache asynchronously if missing."
+msgstr "Cached-only fast المسار for a specific اللغة; warms الكاش asynchronously if missing."
+
+msgid "Cannot start EPG translation: %s"
+msgstr "Cannot start دليل البرامج الترجمة: %s"
+
+msgid "Chinese (中文)"
+msgstr "الصينية (中文)"
+
+msgid "ChoiceBox callback for background bouquet translation."
+msgstr "ChoiceBox callback for في الخلفية الباقة الترجمة."
+
+msgid "Clear AIFury caches"
+msgstr "مسح ذاكرة التخزين المؤقت AIFury"
+
+msgid "Clear aifury_cache (main cache)"
+msgstr "مسح aifury_cache (main الكاش)"
+
+msgid "Clear aifury_epg_cache (EPG translations cache)"
+msgstr "مسح aifury_epg_cache (دليل البرامج translations الكاش)"
+
+msgid "Clear both caches"
+msgstr "مسح both caches"
+
+msgid "Clear caches only"
+msgstr "مسح الكاش فقط"
+
+msgid "Controller initialized. cache=%s log=%s"
+msgstr "Controller initialized. الكاش=%s log=%s"
+
+msgid "Controller not ready, cannot clear cache."
+msgstr "Controller غير ready, cannot مسح الكاش."
+
+msgid "Count unique cached translated events across relevant language keys."
+msgstr "Count unique cached مترجم الأحداث across relevant اللغة keys."
+
+msgid "Croatian (Hrvatski)"
+msgstr "الكرواتية (Hrvatski)"
+
+msgid "Czech (Čeština)"
+msgstr "التشيكية (Čeština)"
+
+msgid "Disabled"
+msgstr "معطّل"
+
+msgid "Done notification timeout"
+msgstr "مهلة إشعار الاكتمال"
+
+msgid "empty EPG"
+msgstr "فارغة دليل البرامج"
+
+msgid "empty translation"
+msgstr "فارغة الترجمة"
+
+msgid "Enable Translate"
+msgstr "تفعيل الترجمة"
+
+msgid "Enable Translate Current Event"
+msgstr "تفعيل ترجمة الحدث الحالي"
+
+msgid "Enabled"
+msgstr "مفعّل"
+
+msgid "English"
+msgstr "الإنجليزية"
+
+msgid "epg"
+msgstr "دليل البرامج"
+
+msgid "EPG descr language : %s"
+msgstr "لغة وصف دليل البرامج: "
+
+msgid "EPG description language"
+msgstr "لغة الوصف"
+
+msgid "EPG import error: %s"
+msgstr "دليل البرامج استيراد خطأ: %s"
+
+msgid "EPG import functions are not available on this image"
+msgstr "الاتصال اللاسلكي غير متوفر على هذا الكمبيوتر"
+
+msgid "EPG import: %s"
+msgstr "دليل البرامج استيراد: %s"
+
+msgid "EPG path"
+msgstr "مسار الـ EPG"
+
+msgid "EPG read error: %s"
+msgstr "دليل البرامج read خطأ: %s"
+
+msgid "EPG read: %s"
+msgstr "دليل البرامج read: %s"
+
+msgid "EPG title language"
+msgstr "لغة عنوان دليل البرامج: "
+
+msgid "EPG title language : %s"
+msgstr "لغة عنوان دليل البرامج: "
+
+msgid "EPG Title Language: %s"
+msgstr "لغة عنوان دليل البرامج: "
+
+msgid "EPG translation language: Disabled"
+msgstr "دليل البرامج الترجمة اللغة: معطّل"
+
+msgid "epg_cache_put_events error: %s"
+msgstr "epg_cache_put_events خطأ: %s"
+
+msgid "EPGCache is not available on this image"
+msgstr "EPGCache is غير available on this image"
+
+msgid "EpgFury v.%s"
+msgstr "EpgFury الإصدار %s"
+
+msgid "EPGSelection debounce fire error: %s"
+msgstr "EPGSelection debounce fire خطأ: %s"
+
+msgid "Error building stats"
+msgstr "خطأ building إحصائيات"
+
+msgid "Error clearing cache"
+msgstr "خطأ clearing الكاش"
+
+msgid "Error opening info screen"
+msgstr "خطأ opening معلومات screen"
+
+msgid "Errors - Title: %d   Short: %d   Long: %d"
+msgstr "أخطاء - Title: %d   Short: %d   Long: %d"
+
+msgid "Errors - Title: %s  Short: %s  Long: %s"
+msgstr "أخطاء - Title: %s  Short: %s  Long: %s"
+
+msgid "Errors: %s"
+msgstr "الأخطاء: %s"
+
+msgid "Events translated: %s"
+msgstr "الأحداث المترجمة: %s"
+
+msgid "EXIT = Cancel"
+msgstr "EXIT = إلغاء"
+
+msgid "EXIT = Cancel (stops UI only)"
+msgstr "EXIT = إلغاء (يوقف الواجهة فقط)"
+
+msgid "Failed to start background bouquet translation."
+msgstr "Failed to start في الخلفية الباقة الترجمة."
+
+msgid "Finished translating bouquet."
+msgstr "تم الانتهاء translating الباقة."
+
+msgid "Finnish (Suomi)"
+msgstr "الفنلندية (Suomi)"
+
+msgid "French"
+msgstr "الفرنسية"
+
+msgid "German"
+msgstr "الألمانية"
+
+msgid "Greek (Ελληνικά)"
+msgstr "اليونانية (Ελληνικά)"
+
+msgid "Hindi (हिन्दी)"
+msgstr "الهندية (हिन्दी)"
+
+msgid "Hungarian (Magyar)"
+msgstr "المجرية (Magyar)"
+
+msgid "Import error: %s"
+msgstr "استيراد خطأ: %s"
+
+msgid "Import ORIGINAL EPG texts for a service (if saved) back into eEPGCache (RAM)."
+msgstr "استيراد نصوص دليل البرامج الإلكترونية الأصلية لخدمة (إذا تم حفظها) مرة أخرى إلى eEPGCache (RAM)."
+
+msgid "Imported in background: %d"
+msgstr "المستورَد في الخلفية: %d"
+
+msgid "Imported to RAM: %d"
+msgstr "تم الاستيراد to الرام: "
+
+msgid "Imported: %s"
+msgstr "تم الاستيراد: "
+
+msgid "Indonesian (Bahasa Indonesia)"
+msgstr "الإندونيسية (Bahasa Indonesia)"
+
+msgid "Italian"
+msgstr "الإيطالية"
+
+msgid "Japanese (日本語)"
+msgstr "اليابانية (日本語)"
+
+msgid "Korean (한국어)"
+msgstr "الكورية - 한국어"
+
+msgid "Last background run: %s"
+msgstr "آخر تشغيل في الخلفية:"
+
+msgid "Last service: %s"
+msgstr "آخر خدمة: %s"
+
+msgid "Main path"
+msgstr "المسار الرئيسي"
+
+msgid "Min request interval (ms)"
+msgstr "أقل فاصل بين الطلبات (مللي ثانية)"
+
+msgid "Nederlands"
+msgstr "الهولندية"
+
+msgid "Network timeout (sec)"
+msgstr "مهلة الشبكة (ثانية)"
+
+msgid "No bouquets found."
+msgstr "لم يتم العثور على باقات."
+
+msgid "no cache file, created: %s"
+msgstr "no الكاش file, created: %s"
+
+msgid "No current service is available."
+msgstr "No الحالي الخدمة is available."
+
+msgid "No EPG translation language selected"
+msgstr "No دليل البرامج الترجمة اللغة مختار"
+
+msgid "no path"
+msgstr "لا يوجد طريق"
+
+msgid "No playable services found in: %s"
+msgstr "No playable الخدمات found في: %s"
+
+msgid "No services found in bouquet."
+msgstr "لم يتم العثور على خدمات داخل الباقة."
+
+msgid "No services found in Favourites bouquet."
+msgstr "No الخدمات found في المفضلة الباقة."
+
+msgid "Norwegian (Norsk)"
+msgstr "النرويجية (Norsk)"
+
+msgid "Not selected yet"
+msgstr "لم يتم الاختيار بعد"
+
+msgid "Notify translation end"
+msgstr "إشعار عند انتهاء الترجمة"
+
+msgid "Off"
+msgstr "إيقاف"
+
+msgid "OK / EXIT = Close"
+msgstr "OK / EXIT = إغلاق"
+
+msgid "OK = Choose option   |   Green = Save   |   Yellow = Clear cache   |   Blue = Stats   |   Red/EXIT = Cancel"
+msgstr "OK = اختيار   |   الأخضر = حفظ   |   الأصفر = مسح الكاش   |   الأزرق = إحصائيات   |   الأحمر/EXIT = إلغاء"
+
+msgid "OK = Select   |   EXIT = Cancel"
+msgstr "OK = اختيار   |   EXIT = إلغاء"
+
+msgid "Periodic restore interval"
+msgstr "الفاصل الزمني للاستعادة الدورية"
+
+msgid "Periodically re-apply translated EPG for the currently playing service."
+msgstr "Periodically re-apply مترجم دليل البرامج for the currently playing الخدمة."
+
+msgid "Persian/Farsi (فارسی)"
+msgstr "الفارسية (فارسی)"
+
+msgid "Persist ORIGINAL (provider) EPG texts for events we translated, so we can revert later."
+msgstr "Persist ORIGINAL (provider) دليل البرامج texts for الأحداث we مترجم, so we can إرجاع later."
+
+msgid "Persist translated EPG events for a service so they survive channel zapping."
+msgstr "Persist مترجم دليل البرامج الأحداث for a الخدمة so they survive القناة zapping."
+
+msgid "Polish (Polski)"
+msgstr "البولندية (Polski)"
+
+msgid "Portuguese (Brazil)"
+msgstr "البرتغالية (البرازيل)"
+
+msgid "Portuguese (Português)"
+msgstr "البرتغالية (Português)"
+
+msgid "Preparing..."
+msgstr "جاري التحضير..."
+
+msgid "Read periodic keep-restore interval from config (seconds) and return milliseconds."
+msgstr "Read periodic keep-استعادة interval from config (ثوانٍ) and return milliseconds."
+
+msgid "Remove AIFury cache files (best-effort)."
+msgstr "Remove AIFury الكاش files (best-effort)."
+
+msgid "Reset AIFury settings to defaults"
+msgstr "إعادة ضبط AIFury settings to الافتراضي"
+
+msgid "Reset ONLY AIFury plugin config to defaults and persist."
+msgstr "إعادة ضبط ONLY AIFury plugin config to الافتراضي and persist."
+
+msgid "Reset: Defaults + Caches"
+msgstr "إعادة ضبط: الافتراضي + ذاكرة التخزين المؤقت"
+
+msgid "Reset: Defaults only"
+msgstr "إعادة التعيين: الإعدادات الافتراضية فقط"
+
+msgid "Restart Enigma2 GUI only."
+msgstr "إعادة تشغيل واجهة Enigma2 فقط."
+
+msgid "Restart GUI (Enigma2)"
+msgstr "إعادة تشغيل الواجهة (Enigma2)"
+
+msgid "Retry count"
+msgstr "عدد المحاولات"
+
+msgid "Return a best-effort service name for a ref string."
+msgstr "Return a best-effort الخدمة name for a ref string."
+
+msgid "Return a copy of current background auto-translate stats."
+msgstr "Return a copy of الحالي في الخلفية تلقائي-ترجمة إحصائيات."
+
+msgid "Return a list of playable service ref strings inside a bouquet."
+msgstr "أعد قائمة بسلاسل مرجع الخدمة القابلة للتشغيل داخل باقة."
+
+msgid "Return cached translation immediately; if not cached, warm cache asynchronously and return original text."
+msgstr "إرجاع الترجمة المخزنة مؤقتًا على الفور ؛ إذا لم تكن مخزنة مؤقتًا، فقم بتدفئة ذاكرة التخزين المؤقت بشكل غير متزامن وإرجاع النص الأصلي."
+
+msgid "Return default cache file path based on available mount points."
+msgstr "Return default الكاش file المسار based on available mount points."
+
+msgid "Romanian (Română)"
+msgstr "الرومانية (Română)"
+
+msgid "Romansh (Rumantsch)"
+msgstr "الرومانش (Rumantsch)"
+
+msgid "Russian"
+msgstr "الروسية"
+
+msgid "Schedule background EPG translation for a service after zapping or after settings changes."
+msgstr "جدولة ترجمة دليل البرامج الإلكترونية للخدمة بعد التنقل أو بعد تغييرات الإعدادات."
+
+msgid "Schedule restoring translated EPG for a service shortly after zapping."
+msgstr "جدولة استعادة دليل البرامج الإلكترونية المترجم للخدمة بعد فترة وجيزة من الانتقال."
+
+msgid "Select bouquet to translate"
+msgstr "اختيار الباقة to ترجمة"
+
+msgid "Select bouquet to translate (background)"
+msgstr "اختيار الباقة to ترجمة (في الخلفية)"
+
+msgid "Select cache directory"
+msgstr "اختر مجلد الكاش"
+
+msgid "Select cache to clear"
+msgstr "اختيار الكاش to مسح"
+
+msgid "Select EPG title/description language first."
+msgstr "اختر أولًا لغة عنوان/وصف الـ EPG."
+
+msgid "Select EPG translations cache directory"
+msgstr "اختيار دليل البرامج translations الكاش directory"
+
+msgid "Select translation language"
+msgstr "اختر لغة الترجمة"
+
+msgid "Select value"
+msgstr "اختيار value"
+
+msgid "Selected bouquet"
+msgstr "الباقة المحددة"
+
+msgid "Serbian (Srpski/Српски)"
+msgstr "الصربية (Srpski/Српски)"
+
+msgid "Services processed: %s"
+msgstr "عدد الخدمات ذات الصلة"
+
+msgid "Services: %s"
+msgstr "الخدمات: %s"
+
+msgid "Set a default log file path for this module (optional)."
+msgstr "تعيين مسار ملف سجل افتراضي لهذه الوحدة (اختياري)."
+
+msgid "Set a minimum delay between translation requests (module-global)."
+msgstr "تعيين الحد الأدنى من التأخير بين طلبات الترجمة (الوحدة العالمية)."
+
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات."
+
+msgid "Show available TV bouquets, then start translating the selected bouquet in background."
+msgstr "اعرض باقات التلفزيون المتاحة، ثم ابدأ في ترجمة الباقة المحددة في الخلفية."
+
+msgid "Show available TV bouquets, then translate the selected bouquet."
+msgstr "اعرض باقات التلفزيون المتاحة، ثم ترجم الباقة المحددة."
+
+msgid "Skipped (empty EPG): %s"
+msgstr "تم التخطي (دليل برامج فارغ): %s"
+
+msgid "Slovak (Slovenčina)"
+msgstr "السلوفاكية (Slovenčina)"
+
+msgid "Slovenian (Slovenščina)"
+msgstr "السلوفينية (Slovenščina)"
+
+msgid "Spanish"
+msgstr "الإسبانية"
+
+msgid "Spanish (Mexico)"
+msgstr "الإسبانية (المكسيك)"
+
+msgid "Start an eTimer in a way that works across images (start(ms, True) vs start(ms))."
+msgstr "ابدأ eTimer بطريقة تعمل عبر الصور (start(ms, True) مقابل start(ms))."
+
+msgid "Starting..."
+msgstr "جاري البدء..."
+
+msgid "Submit background work to pool if available, otherwise spawn a daemon thread."
+msgstr "أرسل العمل في الخلفية إلى حمام السباحة إذا كان ذلك متاحًا، وإلا فقم بإنتاج خيط شيطاني."
+
+msgid "Swedish (Svenska)"
+msgstr "السويدية (Svenska)"
+
+msgid "Swiss German (Schwiizerdütsch)"
+msgstr "الألمانية السويسرية (Schwiizerdütsch)"
+
+msgid "System returned empty EPG list"
+msgstr "النظام أرجع فارغة دليل البرامج list"
+
+msgid "Timer callback: process a few services per tick."
+msgstr "معاودة الاتصال بالمؤقت: قم بمعالجة عدد قليل من الخدمات لكل نقطة."
+
+msgid "Translate InfoBar"
+msgstr "InfoBar ترجمة"
+
+msgid "Translate Bouquet"
+msgstr "ترجمة الباقة"
+
+msgid "Translate bouquet (choose from list)"
+msgstr "ترجمة باقة (اختر من القائمة)"
+
+msgid "Translate bouquet in background"
+msgstr "ترجمة الباقة في في الخلفية"
+
+msgid "Translate Bouquet: %s"
+msgstr "ترجمة الباقة: "
+
+msgid "Translate Current Channel EPG"
+msgstr "ترجمة دليل البرامج للقناة الحالية"
+
+msgid "Translate Current Event"
+msgstr "ترجمة الحالي حدث"
+
+msgid "Translate Current Event is disabled in settings."
+msgstr "تم تعطيل ترجمة الحدث الحالي في الإعدادات."
+
+msgid "Translate in background then call callback(translated_text) on UI thread."
+msgstr "ترجم في الخلفية ثم اتصل برد الاتصال(TRANSLATED_TEXT) على سلسلة واجهة المستخدم."
+
+msgid "translate provider error: %s"
+msgstr "ترجمة provider خطأ: %s"
+
+msgid "Translate to a specific lang in background then callback(translated_text) on UI thread."
+msgstr "ترجم إلى لغة معينة في الخلفية ثم أعد الاتصال(translated_text) على سلسلة واجهة المستخدم."
+
+msgid "translate_async worker error: %s"
+msgstr "translate_async worker خطأ: %s"
+
+msgid "translate_async_with_callback error: %s"
+msgstr "translate_async_with_callback خطأ: %s"
+
+msgid "translate_text internal error: %s"
+msgstr "translate_text internal خطأ: %s"
+
+msgid "translate_to_async_with_callback error: %s"
+msgstr "translate_to_async_with_callback خطأ: %s"
+
+msgid "translate_to_cached_or_async worker error: %s"
+msgstr "translate_to_cached_or_async worker خطأ: %s"
+
+msgid "translated (%.3fs) lang=%s text=%s"
+msgstr "مترجم (%.3fs) lang=%s text=%s"
+
+msgid "Translated Event Cache: %d"
+msgstr "مترجم حدث الكاش: %d"
+
+msgid "Translated events in bouquet: %d"
+msgstr "الأحداث المترجمة في الباقة: "
+
+msgid "Translated events in cache: %d"
+msgstr "الأحداث المترجمة في الكاش: "
+
+msgid "Translated events in cache: (controller not ready)"
+msgstr "مترجم الأحداث في الكاش: (controller غير ready)"
+
+msgid "Translated in background: %d"
+msgstr "المترجم في الخلفية: "
+
+msgid "Translated in Background: %d"
+msgstr "مترجم في في الخلفية: "
+
+msgid "Translated in Bouquet: %d"
+msgstr "الأحداث المترجمة في الباقة: "
+
+msgid "Translated: %d   |   Skipped: %d"
+msgstr "مترجم:   |   تم التخطي: "
+
+msgid "Translated: %s"
+msgstr "مترجم: "
+
+msgid "Translation completed"
+msgstr "اكتملت الترجمة"
+
+msgid "Translation language"
+msgstr "الترجمة اللغة"
+
+msgid "translation result invalid"
+msgstr "نتيجة الترجمة غير صالحة"
+
+msgid "translation returned empty"
+msgstr "الترجمة أرجع فارغة"
+
+msgid "translation returned None"
+msgstr "الترجمة أرجع None"
+
+msgid "Turkish"
+msgstr "التركية"
+
+msgid "Ukrainian (Українська)"
+msgstr "الأوكرانية (Украйнська)"
+
+msgid "Unhandled error: %s"
+msgstr "خطأ غير معالج"
+
+msgid "Until dismissed"
+msgstr "دايم"
+
+msgid "Urdu (اردو)"
+msgstr "الأوردو (اردو)"
+
+msgid "userbouquet.favourites.%s"
+msgstr "userbouquet.المفضلة."
+
+msgid "Warm translation cache in background without blocking UI."
+msgstr "Warm الترجمة الكاش في في الخلفية without blocking UI."
+
+msgid "Worker threads"
+msgstr "خيوط العمل"
+
+msgid "Yield bouquet directory refs from bouquets.tv (or bouquets.radio)."
+msgstr "مراجع دليل باقة العائد من bouquets.tv (أو bouquets.radio)."
+
+msgid "Clear cache"
+msgstr "مسح التخزين المؤقت"
+
+msgid "Clear Cache"
+msgstr "المتحكم غير جاهز، لا يمكن مسح التخزين المؤقت."
+
+msgid "Delete cache"
+msgstr "حذف الكاش"
