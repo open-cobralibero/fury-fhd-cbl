@@ -156,18 +156,18 @@
   <widget source="session.FrontendStatus" render="Label" position="1088,1027" size="70,30" font="Regular;23" valign="center" noWrap="1" backgroundColor="bluette" transparent="1" halign="left" text="50 %" zPosition="1">
     <convert type="FrontendInfo">SNR</convert>
   </widget>
-  <widget source="session.FrontendStatus" render="Progress" position="1021,1060" size="137,5" pixmap="Fury-FHD/skin_default/agc1.png" transparent="0" zPosition="15" backgroundColor="header" cornerRadius="8" borderWidth="0" borderColor="#ffff40">
+  <widget source="session.FrontendStatus" render="Progress" position="1021,1060" size="137,5" pixmap="Fury-FHD-CBL/skin_default/agc1.png" transparent="0" zPosition="15" backgroundColor="header" cornerRadius="8" borderWidth="0" borderColor="#ffff40">
     <convert type="FrontendInfo">SNR</convert>
   </widget>
   <eLabel text="AGC:" zPosition="15" position="1201,1027" size="70,30" font="Regular;22" transparent="1" foregroundColor="yellow" backgroundColor="header" halign="right" valign="center" />
   <widget source="session.FrontendStatus" render="Label" position="1273,1027" size="70,30" zPosition="15" backgroundColor="bluette" transparent="1" font="Regular;23" halign="left" setXMLShowAGC="Ready" text="50 %" noWrap="1" valign="center">
     <convert type="FrontendInfo">AGC</convert>
   </widget>
-  <widget source="session.FrontendStatus" render="Progress" position="1206,1060" size="137,5" pixmap="Fury-FHD/skin_default/agc1.png" transparent="0" zPosition="15" backgroundColor="header" cornerRadius="8" borderWidth="0" borderColor="#ffff40">
+  <widget source="session.FrontendStatus" render="Progress" position="1206,1060" size="137,5" pixmap="Fury-FHD-CBL/skin_default/agc1.png" transparent="0" zPosition="15" backgroundColor="header" cornerRadius="8" borderWidth="0" borderColor="#ffff40">
     <convert type="FrontendInfo">AGC</convert>
   </widget>
   <widget alphatest="blend" render="MSNWeatherPixmap" position="836,999" size="80,80" source="session.MSNWeather" transparent="1" zPosition="14">
-    <convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD/blmsn/,png</convert>
+    <convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD-CBL/blmsn/,png</convert>
   </widget>
   <widget source="session.MSNWeather" render="Label" position="604,1023" size="230,35" font="Regular;23" halign="right" foregroundColor="#ffff40" backgroundColor="header" transparent="1" zPosition="2" valign="center">
     <convert type="MSNWeather">city</convert>

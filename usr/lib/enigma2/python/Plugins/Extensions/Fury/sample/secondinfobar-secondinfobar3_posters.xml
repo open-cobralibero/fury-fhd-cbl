@@ -13,14 +13,14 @@
   <widget source="session.CurrentService" render="Label" position="948,826" size="247,30" font="Regular; 20" halign="left" valign="center" backgroundColor="header" transparent="1" zPosition="2">
     <convert type="furyServName3">Provider</convert>
   </widget>
-  <widget source="session.FrontendStatus" render="Progress" position="1577,995" size="225,15" pixmap="Fury-FHD/skin_default/agc.png" transparent="0" zPosition="2" cornerRadius="8" borderWidth="0" borderColor="#ffff40" backgroundColor="header">
+  <widget source="session.FrontendStatus" render="Progress" position="1577,995" size="225,15" pixmap="Fury-FHD-CBL/skin_default/agc.png" transparent="0" zPosition="2" cornerRadius="8" borderWidth="0" borderColor="#ffff40" backgroundColor="header">
     <convert type="FrontendInfo">SNR</convert>
   </widget>
   <widget source="session.FrontendStatus" render="Label" position="1805,990" size="89,25" font="Regular; 20" valign="center" noWrap="1" backgroundColor="bluette" transparent="1" halign="left" text="100 %" zPosition="2">
     <convert type="FrontendInfo">SNR</convert>
   </widget>
   <eLabel text="SNR:" zPosition="4" position="1511,990" size="65,25" font="Regular;20" transparent="1" foregroundColor="yellow" backgroundColor="header" halign="right" valign="center" />
-  <widget source="session.FrontendStatus" render="Progress" position="1186,995" size="225,15" pixmap="Fury-FHD/skin_default/agc.png" transparent="0" zPosition="3" cornerRadius="8" borderWidth="0" borderColor="#ffff40" backgroundColor="header">
+  <widget source="session.FrontendStatus" render="Progress" position="1186,995" size="225,15" pixmap="Fury-FHD-CBL/skin_default/agc.png" transparent="0" zPosition="3" cornerRadius="8" borderWidth="0" borderColor="#ffff40" backgroundColor="header">
     <convert type="FrontendInfo">AGC</convert>
   </widget>
   <widget source="session.FrontendStatus" render="Label" position="1413,990" size="89,25" zPosition="5" backgroundColor="bluette" transparent="1" font="Regular;20" halign="left" setXMLShowAGC="Ready" text="100 %" noWrap="1" valign="center">
@@ -130,7 +130,7 @@
     <convert type="furyCaidInfo2">%S - %PR - CAID: %C - ECM: %T</convert>
   </widget>
   <widget alphatest="blend" render="MSNWeatherPixmap" position="1304,847" size="100,100" source="session.MSNWeather" transparent="1" zPosition="5">
-    <convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD/blmsn/,png</convert>
+    <convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD-CBL/blmsn/,png</convert>
   </widget>
   <widget source="session.MSNWeather" render="Label" position="1406,847" size="70,40" font="Regular;20" halign="left" valign="top" foregroundColor="#ff00" backgroundColor="header" noWrap="1" transparent="1" zPosition="3">
     <convert type="MSNWeather">temperature_current</convert>
@@ -262,8 +262,8 @@
 <eLabel name="" position="971,173" size="930,570" backgroundColor="black" cornerRadius="10" transparent="0" zPosition="1" />
 <eLabel name="" position="969,171" size="934,574" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="0" />
 <eLabel name="" position="973,222" size="926,1" backgroundColor="white" zPosition="5" />
-<ePixmap position="25,178" size="40,40" pixmap="Fury-FHD/weather_icons/clo.png" zPosition="2" alphatest="blend" transparent="1" />
-<ePixmap position="977,178" size="40,40" pixmap="Fury-FHD/weather_icons/clo.png" zPosition="2" alphatest="blend" transparent="1" />
+<ePixmap position="25,178" size="40,40" pixmap="Fury-FHD-CBL/weather_icons/clo.png" zPosition="2" alphatest="blend" transparent="1" />
+<ePixmap position="977,178" size="40,40" pixmap="Fury-FHD-CBL/weather_icons/clo.png" zPosition="2" alphatest="blend" transparent="1" />
 <eLabel name="" position="19,97" size="1885,1" backgroundColor="white" zPosition="99" />
 <widget noWrap="1" backgroundColor="black" font="Regular;25" foregroundColor="yl" render="Label" position="25,12" size="220,30" source="session.MSNWeather" zPosition="30" halign="right" valign="center" transparent="1">
 <convert type="MSNWeather">temperature_current</convert>
@@ -272,9 +272,9 @@
 <convert type="MSNWeather">city</convert>
 </widget>
 <widget render="MSNWeatherPixmap" position="247,10" size="80,80" source="session.MSNWeather" alphatest="blend" transparent="1" zPosition="8">
-<convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD/blmsn/,png</convert>
+<convert type="MSNWeather">weathericon,current,/usr/share/enigma2/Fury-FHD-CBL/blmsn/,png</convert>
 </widget>
-<ePixmap name="" pixmap="Fury-FHD/weather_icons/wind_icon.png" position="329,54" size="55,35" transparent="0" alphatest="blend" />
+<ePixmap name="" pixmap="Fury-FHD-CBL/weather_icons/wind_icon.png" position="329,54" size="55,35" transparent="0" alphatest="blend" />
 <widget noWrap="1" backgroundColor="header" font="Regular; 19" foregroundColor="white" render="Label" position="329,10" size="200,30" source="session.MSNWeather" zPosition="2" halign="left" transparent="1" valign="center">
 <convert type="MSNWeather">temperature_text,current</convert></widget><widget noWrap="1" backgroundColor="header" font="Regular;25" render="Label" position="355,61" size="215,25" source="session.MSNWeather" zPosition="5" halign="left" valign="center" transparent="1" foregroundColor="white">
 <convert type="MSNWeather">winddisplay</convert>
@@ -283,7 +283,7 @@
 <convert type="MSNWeather">weekshortday,day2</convert>
 </widget>
 <widget alphatest="blend" render="MSNWeatherPixmap" position="575,42" size="50,50" source="session.MSNWeather" transparent="1" zPosition="50">
-<convert type="MSNWeather">weathericon,day2,/usr/share/enigma2/Fury-FHD/weather_icons/,png</convert>
+<convert type="MSNWeather">weathericon,day2,/usr/share/enigma2/Fury-FHD-CBL/weather_icons/,png</convert>
 </widget>
 <widget noWrap="1" backgroundColor="black" font="Regular;25" render="Label" position="627,42" size="128,25" source="session.MSNWeather" zPosition="30" halign="left" transparent="1" valign="center" foregroundColor="red4">
 <convert type="MSNWeather">temperature_high,day2</convert>
@@ -294,7 +294,7 @@
 <convert type="MSNWeather">weekshortday,day3</convert>
 </widget>
 <widget alphatest="blend" render="MSNWeatherPixmap" position="803,42" size="50,50" source="session.MSNWeather" transparent="1" zPosition="50">
-<convert type="MSNWeather">weathericon,day3,/usr/share/enigma2/Fury-FHD/weather_icons/,png</convert>
+<convert type="MSNWeather">weathericon,day3,/usr/share/enigma2/Fury-FHD-CBL/weather_icons/,png</convert>
 </widget>
 <widget noWrap="1" backgroundColor="black" font="Regular;25" render="Label" position="855,42" size="128,25" source="session.MSNWeather" zPosition="30" halign="left" transparent="1" valign="center" foregroundColor="red4">
 <convert type="MSNWeather">temperature_high,day3</convert>
@@ -306,7 +306,7 @@
 <convert type="MSNWeather">weekshortday,day4</convert>
 </widget>
 <widget alphatest="blend" render="MSNWeatherPixmap" position="1032,42" size="50,50" source="session.MSNWeather" transparent="1" zPosition="30">
-<convert type="MSNWeather">weathericon,day4,/usr/share/enigma2/Fury-FHD/weather_icons/,png</convert>
+<convert type="MSNWeather">weathericon,day4,/usr/share/enigma2/Fury-FHD-CBL/weather_icons/,png</convert>
 </widget>
 <widget noWrap="1" backgroundColor="black" font="Regular;25" render="Label" position="1084,42" size="128,25" source="session.MSNWeather" zPosition="30" halign="left" transparent="1" valign="center" foregroundColor="red4">
 <convert type="MSNWeather">temperature_high,day4</convert>
@@ -318,7 +318,7 @@
 <convert type="MSNWeather">weekshortday,day5</convert>
 </widget>
 <widget alphatest="blend" render="MSNWeatherPixmap" position="1260,41" size="50,50" source="session.MSNWeather" transparent="1" zPosition="5">
-<convert type="MSNWeather">weathericon,day5,/usr/share/enigma2/Fury-FHD/weather_icons/,png</convert>
+<convert type="MSNWeather">weathericon,day5,/usr/share/enigma2/Fury-FHD-CBL/weather_icons/,png</convert>
 </widget>
 <widget noWrap="1" backgroundColor="black" font="Regular; 25" render="Label" position="1312,42" size="128,25" source="session.MSNWeather" zPosition="37" halign="left" transparent="1" valign="center" foregroundColor="red4">
 <convert type="MSNWeather">temperature_high,day5</convert>

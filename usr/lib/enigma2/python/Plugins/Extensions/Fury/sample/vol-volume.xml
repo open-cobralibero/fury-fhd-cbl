@@ -8,5 +8,5 @@
   <!--eLabel name="DEBUG" text="S005" position="40,25" size="500,50" font="Regular;40" backgroundColor="#10000000" foregroundColor="#bc0004" transparent="1" zPosition="99"/-->
 </screen>
 <screen name="Mute" title="Mute" position="915,105" size="79,55" backgroundColor="transparent" zPosition="10" flags="wfNoBorder">
-  <ePixmap pixmap="Fury-FHD/skin_default/mute.png" position="-1,0" size="79,55" transparent="1" alphatest="blend" zPosition="100" />
+  <ePixmap pixmap="Fury-FHD-CBL/skin_default/mute.png" position="-1,0" size="79,55" transparent="1" alphatest="blend" zPosition="100" />
 </screen>
