@@ -371,7 +371,7 @@
   <screen name="QuickSubtitlesConfigMenu" position="398,225" size="1125,525" title="Subtitle settings" backgroundColor="transparent" flags="wfNoBorder">
     <eLabel position="0,0" size="1125,525" zPosition="-11" backgroundColor="header" />
     <eLabel position="2,2" size="1122,522" zPosition="-10" backgroundColor="header" />
-    <widget name="config" position="8,8" size="1110,450" itemHeight="45" font="Regular;30" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="header" transparent="1" />
+    <widget name="config" position="8,8" size="900,564" itemHeight="30" font="Regular;30" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="header" transparent="1" />
     <widget name="videofps" position="8,450" size="1110,75" backgroundColor="header" transparent="1" zPosition="1" font="Regular;30" valign="center" halign="center" />
   </screen>
   <!-- Scart -->
